@@ -1,0 +1,8 @@
+000000079407.jpg: 457.14 seconds
+Chunk: the frisbee
+Think Text: The frisbee is the white circular object in the air. It is located at the top right corner of the image.
+BBox: (645, 198), (765, 252)
+Chunk: the dog
+Think Text: The instruction is asking for the bounding box of the dog in the image. The dog is the main subject of the image, positioned in the center. The bounding box should capture the entire dog, including its legs, tail, and head.
+BBox: (188, 375), (640, 894)
+

@@ -1,0 +1,10 @@
+000000581326.jpg: 200.34 seconds
+Chunk: the man in white shirt
+Think Text: The man in white shirt is located on the right side of the image, standing next to the horse carriage.
+BBox: (738, 441), (824, 786)
+
+Original Model
+think: The man in a white shirt is located on the right side of the image, standing next to the horse carriage.
+000000581326.jpg: 126.65 seconds
+BBox: (738, 441), (824, 787)
+

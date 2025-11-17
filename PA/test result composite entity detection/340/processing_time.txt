@@ -1,0 +1,10 @@
+000000581081.jpg: 170.81 seconds
+Chunk: the yellow crane
+Think Text: The yellow crane is located on the right side of the image, near the buildings.
+BBox: (690, 174), (740, 360)
+
+Original Model
+think: The yellow crane is located on the right side of the image, near the buildings.
+000000581081.jpg: 109.81 seconds
+BBox: (690, 174), (740, 360)
+

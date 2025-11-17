@@ -1,0 +1,8 @@
+000000087620.jpg: 504.39 seconds
+Chunk: the orange
+Think Text: The instruction is asking for the bounding box of the orange in the image. The orange is located in the center of the image, taking up a significant portion of the frame. The bounding box should capture the entire orange, including its shadow.
+BBox: (180, 450), (620, 843)
+Chunk: table
+Think Text: The instruction is asking for the bounding box of the table in the image. The table is the background of the image, and it is a large, flat surface. The bounding box should capture the entire table.
+BBox: (0, 0), (999, 999)
+

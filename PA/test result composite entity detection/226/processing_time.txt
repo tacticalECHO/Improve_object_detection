@@ -1,0 +1,10 @@
+000000580543.jpg: 179.23 seconds
+Chunk:  dark blue trash bin 
+Think Text: The instruction is asking for the bounding box of a dark blue trash bin. The trash bin is located on the floor to the left of the toilet.
+BBox: (264, 724), (360, 876)
+
+Original Model
+think: The dark blue trash bin is located on the floor, to the left of the toilet.
+000000580543.jpg: 114.65 seconds
+BBox: (264, 724), (357, 876)
+

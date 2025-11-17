@@ -1,0 +1,8 @@
+000000011291.jpg: 299.57 seconds
+Chunk: the girl in blue
+Think Text: The girl in blue is the one on the right side of the image.
+BBox: (668, 0), (999, 999)
+Chunk: the man in shirt
+Think Text: The man in the striped shirt is the one on the left side of the image.
+BBox: (0, 0), (471, 999)
+

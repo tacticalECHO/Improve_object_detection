@@ -1,0 +1,10 @@
+000000580919.jpg: 182.04 seconds
+Chunk: the woman in blue
+Think Text: The woman in blue is the one wearing a light blue sweater and black pants.
+BBox: (376, 383), (511, 828)
+
+Original Model
+think: The woman in blue is standing on the beach, facing the ocean. She is wearing a blue top and black pants.
+000000580919.jpg: 134.70 seconds
+BBox: (375, 382), (507, 828)
+

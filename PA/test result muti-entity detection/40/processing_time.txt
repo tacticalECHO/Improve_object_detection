@@ -1,0 +1,8 @@
+000000007420.jpg: 502.19 seconds
+Chunk: the man in black
+Think Text: The man in black is the groom. He is wearing a black suit and white shirt.
+BBox: (0, 13), (273, 999)
+Chunk: the bride
+Think Text: The image shows a bride and groom cutting a wedding cake. The bride is wearing a white wedding dress and a veil. She is holding a knife in her right hand and appears to be cutting the cake.
+BBox: (130, 112), (749, 996)
+

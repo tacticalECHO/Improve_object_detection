@@ -1,0 +1,8 @@
+下载.jpg: 380.29 seconds
+Chunk: the white keyboard
+Think Text: The instruction is asking for the bounding box of the white keyboard. The keyboard is located in the lower left part of the image.
+BBox: (0, 362), (586, 999)
+Chunk: the white mouse
+Think Text: The instruction is asking for the bounding box of the white mouse. The mouse is located in the upper part of the image.
+BBox: (370, 96), (820, 336)
+

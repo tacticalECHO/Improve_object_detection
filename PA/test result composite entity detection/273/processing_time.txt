@@ -1,0 +1,10 @@
+000000580785.jpg: 141.82 seconds
+Chunk: the baby in pink
+Think Text: The baby in pink is the one sitting on the woman's lap.
+BBox: (378, 398), (646, 748)
+
+Original Model
+think: The baby in pink is sitting on the lap of the person in the image. The bounding box for the baby in pink is likely to be centered around the area where the baby is sitting.
+000000580785.jpg: 159.84 seconds
+BBox: (384, 396), (640, 747)
+

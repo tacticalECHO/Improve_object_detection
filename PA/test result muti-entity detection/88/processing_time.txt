@@ -1,0 +1,8 @@
+000000018293.jpg: 449.26 seconds
+Chunk: blue sun glasses
+Think Text: The instruction is asking for the bounding box of blue sunglasses. The image contains a pair of blue sunglasses in a case. The bounding box is determined by the coordinates of the top left and bottom right corners of the sunglasses case.
+BBox: (648, 640), (874, 811)
+Chunk: yellow bag
+Think Text: The instruction is asking for the bounding box of the yellow bag. The yellow bag is located in the top left corner of the image.
+BBox: (24, 13), (494, 960)
+

@@ -1,0 +1,10 @@
+000000579982.jpg: 169.60 seconds
+Chunk: the bird on left
+Think Text: The instruction is asking for the bounding box of the bird on the left. The bird is located on the top left branch of the tree.
+BBox: (148, 112), (238, 262)
+
+Original Model
+think: The bird on the left is perched on a branch of a dead tree.
+000000579982.jpg: 109.15 seconds
+BBox: (145, 112), (237, 275)
+

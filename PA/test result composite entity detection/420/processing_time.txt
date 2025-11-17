@@ -1,0 +1,10 @@
+000000581507.jpg: 239.49 seconds
+Chunk: the man in red
+Think Text: The man in red is the person wearing a red jacket and black pants, standing on skis in the snow.
+BBox: (450, 365), (575, 658)
+
+Original Model
+think: The man in red is located in the center of the image, standing on the snow.
+000000581507.jpg: 137.89 seconds
+BBox: (350, 369), (600, 669)
+

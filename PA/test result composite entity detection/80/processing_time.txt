@@ -1,0 +1,8 @@
+000000085162.jpg: 174.40 seconds
+Chunk: the cow
+Think Text: The instruction is asking for the bounding box of a cow in the image. However, there is no cow present in the image. The object in the image is a horse.
+BBox: (420, 408), (589, 600)
+
+000000085162.jpg: 151.77 seconds
+BBox: (416, 408), (583, 600)
+

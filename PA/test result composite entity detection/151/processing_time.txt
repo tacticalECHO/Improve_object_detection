@@ -1,0 +1,10 @@
+000000580052.jpg: 186.00 seconds
+Chunk: the boy in white
+Think Text: The instruction is asking for the bounding box of the boy in white. The boy in white is located on the right side of the image, sitting on the couch.
+BBox: (400, 331), (949, 984)
+
+Original Model
+think: The instruction is asking about the activity of the boy in white. The bounding box should include the boy in white and the object he is interacting with.
+000000580052.jpg: 143.98 seconds
+BBox: (583, 559), (833, 686)
+

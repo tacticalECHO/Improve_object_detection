@@ -1,0 +1,8 @@
+000000077136.jpg: 357.80 seconds
+Chunk: the man in blue
+Think Text: The man in blue is the one wearing a blue shirt and standing on the right side of the image.
+BBox: (784, 261), (870, 636)
+Chunk: the man in red
+Think Text: The man in red is the one wearing a red shirt and standing in the center of the image.
+BBox: (478, 273), (553, 570)
+

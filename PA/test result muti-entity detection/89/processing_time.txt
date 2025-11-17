@@ -1,0 +1,8 @@
+000000019129.jpg: 407.30 seconds
+Chunk: the girl on surfboard
+Think Text: The instruction is asking for the bounding box of the girl on the surfboard. The girl is located on the right side of the image, wearing a life jacket and a swimsuit.
+BBox: (600, 274), (799, 724)
+Chunk: the man on surfboard
+Think Text: The man is on the surfboard. He is wearing a hat and sunglasses.
+BBox: (198, 238), (468, 678)
+

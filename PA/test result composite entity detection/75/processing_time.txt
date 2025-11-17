@@ -1,0 +1,8 @@
+000000082484.jpg: 169.09 seconds
+Chunk:  the brown cat 
+Think Text: The instruction is asking for the bounding box of the brown cat. The brown cat is located on the left side of the image, standing on its hind legs.
+BBox: (100, 106), (524, 874)
+
+000000082484.jpg: 132.77 seconds
+BBox: (100, 100), (524, 874)
+

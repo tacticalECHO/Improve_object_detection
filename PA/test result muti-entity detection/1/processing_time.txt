@@ -1,0 +1,9 @@
+o.jpg: 1525.28 seconds
+Chunk: the white horse
+Think Text: The instruction is asking for the bounding box of the white horse. The white horse is the one that is jumping over the obstacle.
+BBox: (199, 483), (491, 807)
+Chunk: the black horse
+Think Text: The black horse is the one that is rearing up on its hind legs.
+BBox: (448, 445), (768, 824)
+
+

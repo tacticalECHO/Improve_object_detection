@@ -1,0 +1,8 @@
+o.jpg: 445.54 seconds
+Chunk: the white horse
+Think Text: The instruction is asking for the bounding box of the white horse. The white horse is located in the center of the image, with its body mostly visible.
+BBox: (198, 483), (491, 808)
+
+o.jpg: 136.69 seconds
+BBox: (196, 485), (488, 808)
+

@@ -1,0 +1,8 @@
+000000082680.jpg: 423.50 seconds
+Chunk: the black dog
+Think Text: The instruction is asking for the bounding box of the black dog. The black dog is located on the left side of the image.
+BBox: (140, 198), (414, 728)
+Chunk: the white dog
+Think Text: The instruction is asking for the bounding box of the white dog. The white dog is located in the center-right part of the image, running forward.
+BBox: (358, 198), (890, 892)
+

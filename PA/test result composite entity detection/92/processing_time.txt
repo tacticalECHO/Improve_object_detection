@@ -1,0 +1,8 @@
+000000020133.jpg: 148.61 seconds
+Chunk:  the red phone 
+Think Text: The instruction is to output the bounding box of the red phone. The red phone is located on the left side of the image.
+BBox: (96, 541), (344, 763)
+
+000000020133.jpg: 97.07 seconds
+BBox: (96, 541), (344, 763)
+

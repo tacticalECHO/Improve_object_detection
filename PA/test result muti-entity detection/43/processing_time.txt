@@ -1,0 +1,8 @@
+000000008909.jpg: 426.36 seconds
+Chunk: the girl in blue shirt
+Think Text: The instruction is asking for the bounding box of the girl in the blue shirt. The girl is located in the center of the image, wearing a blue sleeveless shirt.
+BBox: (468, 240), (840, 918)
+Chunk: the frisbee
+Think Text: The frisbee is the object in the image that is being thrown. It is located in the upper left portion of the image.
+BBox: (150, 285), (288, 360)
+

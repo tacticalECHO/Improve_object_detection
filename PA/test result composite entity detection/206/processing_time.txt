@@ -1,0 +1,10 @@
+000000580431.jpg: 123.65 seconds
+Chunk: the light
+Think Text: The light is located on the upper right side of the image.
+BBox: (818, 0), (908, 150)
+
+Original Model
+think: The light is located on the ceiling.
+000000580431.jpg: 82.55 seconds
+BBox: (818, 0), (908, 150)
+

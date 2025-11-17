@@ -1,0 +1,8 @@
+下载 (1).jpg: 514.04 seconds
+Chunk:  the water 
+Think Text: The instruction is asking for the bounding box of the water in the image. The water is located in the left side of the image, flowing over the rocks.
+BBox: (0, 114), (375, 738)
+Chunk:  the bear 
+Think Text: The instruction is asking for the bounding box of the bear in the image. The bear is located in the center of the image, surrounded by rocks and grass.
+BBox: (398, 306), (803, 609)
+

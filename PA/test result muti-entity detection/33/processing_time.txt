@@ -1,0 +1,8 @@
+000000004286.jpg: 576.51 seconds
+Chunk: giraffe
+Think Text: The instruction is asking for the bounding box of the giraffe in the image. The giraffe is standing in the grassy area, surrounded by trees. The bounding box should capture the giraffe from its head to its feet.
+BBox: (128, 274), (396, 758)
+Chunk: the man
+Think Text: The instruction is asking for the bounding box of the man in the image. The man is located on the right side of the image, standing in the grass.
+BBox: (828, 674), (933, 864)
+

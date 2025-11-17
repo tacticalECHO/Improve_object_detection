@@ -1,0 +1,10 @@
+000000580856.jpg: 178.00 seconds
+Chunk: the yellow sign
+Think Text: The yellow sign is located on the left side of the image, near the top.
+BBox: (15, 398), (204, 500)
+
+Original Model
+think: The yellow sign is located on the left side of the image, near the top.
+000000580856.jpg: 107.53 seconds
+BBox: (15, 398), (204, 500)
+

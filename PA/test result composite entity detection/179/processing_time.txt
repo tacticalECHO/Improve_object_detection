@@ -1,0 +1,10 @@
+000000580257.jpg: 177.52 seconds
+Chunk:  the girl with yellow hair 
+Think Text: The instruction is to output the bounding box for the girl with yellow hair. The image shows two women sitting on a bench. The woman on the right has yellow hair.
+BBox: (516, 0), (882, 999)
+
+Original Model
+think: The girl with yellow hair is looking at a camera.
+000000580257.jpg: 91.76 seconds
+BBox: (499, 0), (883, 999)
+

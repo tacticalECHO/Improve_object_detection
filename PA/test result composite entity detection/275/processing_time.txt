@@ -1,0 +1,10 @@
+000000580791.jpg: 195.10 seconds
+Chunk: glass
+Think Text: The instruction is asking for the bounding box of a glass. In the image, there is a clear glass on the right side of the image.
+BBox: (774, 24), (962, 384)
+
+Original Model
+think: The glass is located on the right side of the image, near the top.
+000000580791.jpg: 101.83 seconds
+BBox: (800, 0), (958, 384)
+

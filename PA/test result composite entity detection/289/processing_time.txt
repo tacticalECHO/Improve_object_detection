@@ -1,0 +1,10 @@
+000000580850.jpg: 233.15 seconds
+Chunk:  the man in black 
+Think Text: The instruction is to output the bounding box for the man in black. The man in black is the person sitting on the motorcycle. The bounding box should include the entire person, from the head to the feet.
+BBox: (490, 330), (790, 960)
+
+Original Model
+think: The man in black is sitting on a motorcycle. He is wearing a helmet and appears to be waiting at a traffic light.
+000000580850.jpg: 127.82 seconds
+BBox: (420, 330), (819, 984)
+

@@ -1,0 +1,8 @@
+下载.jpg: 168.68 seconds
+Chunk:  the man with red flag 
+Think Text: The instruction is to output the bounding box of the man with a red flag. The man is located in the image, and the red flag is attached to him.
+BBox: (144, 96), (396, 396)
+
+下载.jpg: 160.39 seconds
+BBox: (136, 94), (315, 400)
+

@@ -1,0 +1,10 @@
+000000581293.jpg: 212.66 seconds
+Chunk: the white fan
+Think Text: The instruction is asking for the bounding box of the white fan. The fan is located on the left side of the image, near the back of the truck.
+BBox: (130, 520), (310, 883)
+
+Original Model
+think: The white fan is located on the left side of the image, near the back of the truck.
+000000581293.jpg: 119.92 seconds
+BBox: (100, 500), (300, 883)
+

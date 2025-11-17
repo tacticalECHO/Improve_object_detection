@@ -1,0 +1,10 @@
+000000581223.jpg: 228.52 seconds
+Chunk: the zebra
+Think Text: The instruction is asking for the bounding box of the zebra in the image. The bounding box is the rectangular area that encloses the zebra.
+BBox: (238, 174), (841, 918)
+
+Original Model
+think: The zebra is grazing on the grass.
+000000581223.jpg: 94.41 seconds
+BBox: (190, 168), (840, 924)
+

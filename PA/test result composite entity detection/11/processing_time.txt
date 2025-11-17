@@ -1,0 +1,8 @@
+000000001084.jpg: 167.08 seconds
+Chunk:  the scissors 
+Think Text: The instruction is to output the bounding box for the scissors. The scissors are located on the left side of the image.
+BBox: (198, 38), (416, 996)
+
+000000001084.jpg: 148.56 seconds
+BBox: (100, 30), (420, 996)
+

@@ -1,0 +1,10 @@
+000000580540.jpg: 184.39 seconds
+Chunk: the black dog
+Think Text: The instruction is asking for the bounding box of the black dog. The black dog is located on the right side of the image, sitting on the wooden floor.
+BBox: (638, 498), (999, 802)
+
+Original Model
+think: The black dog is sitting on the floor, facing the television.
+000000580540.jpg: 99.03 seconds
+BBox: (0, 500), (1000, 999)
+

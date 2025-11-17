@@ -1,0 +1,8 @@
+下载 (1).jpg: 487.66 seconds
+Chunk: the black bear
+Think Text: The instruction is asking for the bounding box of the black bear in the image. The black bear is the main subject of the image, and it is located in the center of the image. The bounding box should capture the entire bear, including its head, body, and legs.
+BBox: (180, 25), (930, 882)
+Chunk: barrel
+Think Text: The instruction is asking for the bounding box of the barrel. The barrel is located on the left side of the image.
+BBox: (100, 156), (278, 498)
+

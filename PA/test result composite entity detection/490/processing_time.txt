@@ -1,0 +1,10 @@
+000000581886.jpg: 226.76 seconds
+Chunk: the man in black
+Think Text: The man in black is the one sitting on the left side of the image.
+BBox: (130, 358), (488, 629)
+
+Original Model
+think: The man in black is sitting on the beach, facing the ocean. He is located between the two surfboards.
+000000581886.jpg: 176.51 seconds
+BBox: (290, 355), (490, 622)
+

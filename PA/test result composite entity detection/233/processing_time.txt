@@ -1,0 +1,10 @@
+000000580591.jpg: 160.15 seconds
+Chunk: the woman in red
+Think Text: The instruction is asking for the bounding box of the woman in red. The bounding box is the area that encompasses the woman in red.
+BBox: (398, 348), (618, 696)
+
+Original Model
+think: The woman in red is skiing. She is wearing skis and holding ski poles.
+000000580591.jpg: 109.49 seconds
+BBox: (184, 348), (624, 696)
+

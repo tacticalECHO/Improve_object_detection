@@ -1,0 +1,10 @@
+000000580887.jpg: 234.36 seconds
+Chunk: the man in white
+Think Text: The instruction is asking for the bounding box of the man in white. The man in white is located in the center of the image, wearing a white shirt and black pants.
+BBox: (498, 285), (652, 600)
+
+Original Model
+think: The man in white is surfing on a wave.
+000000580887.jpg: 92.81 seconds
+BBox: (390, 285), (650, 624)
+

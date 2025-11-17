@@ -1,0 +1,8 @@
+000000006846.jpg: 162.53 seconds
+Chunk:  the old man 
+Think Text: The old man is the person riding the cart. He is located in the center of the image, slightly to the right.
+BBox: (490, 121), (784, 587)
+
+000000006846.jpg: 115.98 seconds
+BBox: (488, 121), (868, 980)
+

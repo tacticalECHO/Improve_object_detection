@@ -1,0 +1,14 @@
+000000008909.jpg: 471.98 seconds
+Chunk:  the girl 
+Think Text: The instruction is asking for the bounding box of the girl in the image. The girl is located in the center of the image, wearing a blue tank top and blue shorts.
+BBox: (468, 240), (840, 918)
+Chunk:  blue shirt 
+Think Text: The instruction is to output the bounding box for the blue shirt. The shirt is located on the girl in the image.
+BBox: (599, 351), (749, 585)
+Chunk:  the girl in blue shirt 
+Think Text: The instruction is to output the bounding box of the girl in blue shirt. The girl is located in the center of the image, wearing a blue shirt.
+BBox: (468, 240), (840, 918)
+
+000000008909.jpg: 98.71 seconds
+BBox: (290, 234), (843, 918)
+

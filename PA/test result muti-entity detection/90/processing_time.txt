@@ -1,0 +1,8 @@
+000000019333.jpg: 385.37 seconds
+Chunk:  green file 
+Think Text: The user wants to know the bounding box of the green file. The green file is located on the left side of the image.
+BBox: (18, 288), (346, 674)
+Chunk:  phone 
+Think Text: The instruction is asking for the bounding box of the phone in the image. The phone is located towards the bottom right of the image.
+BBox: (684, 798), (748, 970)
+

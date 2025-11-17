@@ -1,0 +1,17 @@
+000000087620.jpg: 626.54 seconds
+Chunk: oranges
+Think Text: The instruction is to output the bounding box in the image corresponding to the instruction "oranges". The bounding box should be the coordinates of the oranges in the image.
+BBox: (10, 100), (899, 850)
+Chunk: image
+Think Text: The instruction is to output the bounding box in the image corresponding to the instruction "image". The image shows three oranges on a dark surface. The bounding box should encompass all three oranges.
+BBox: (10, 100), (990, 899)
+Chunk: oranges
+Think Text: The instruction is to output the bounding box in the image corresponding to the instruction "oranges". The bounding box should be the coordinates of the oranges in the image.
+BBox: (10, 100), (899, 850)
+Chunk: image
+Think Text: The instruction is to output the bounding box in the image corresponding to the instruction "image". The image shows three oranges on a dark surface. The bounding box should encompass all three oranges.
+BBox: (10, 100), (990, 899)
+
+000000087620.jpg: 106.74 seconds
+BBox: (10, 10), (890, 890)
+

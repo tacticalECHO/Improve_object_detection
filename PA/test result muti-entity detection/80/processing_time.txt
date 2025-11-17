@@ -1,0 +1,8 @@
+000000085162.jpg: 505.01 seconds
+Chunk: the cow
+Think Text: The instruction is asking for the bounding box of the cow in the image. The cow is located in the center of the image, with its head sticking out of a window in a brick wall.
+BBox: (416, 408), (583, 600)
+Chunk: window
+Think Text: The instruction is asking for the bounding box of the window in the image. The window is located in the center of the image, with a white frame around it. The bounding box should capture the entire window, including the frame.
+BBox: (392, 328), (644, 638)
+

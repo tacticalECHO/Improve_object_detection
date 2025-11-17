@@ -1,0 +1,10 @@
+000000579907.jpg: 193.16 seconds
+Chunk:  the TV 
+Think Text: The TV is the object in the image that needs to be identified. It is located in the center of the image, mounted on a black entertainment center.
+BBox: (370, 301), (631, 578)
+
+Original Model
+think: The TV is located in the center of the image, mounted on a black entertainment center.
+000000579907.jpg: 113.53 seconds
+BBox: (370, 301), (630, 577)
+

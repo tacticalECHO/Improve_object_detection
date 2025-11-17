@@ -1,0 +1,8 @@
+000000072898.jpg: 140.41 seconds
+Chunk: the hot dog
+Think Text: The instruction is asking for the bounding box of the hot dog. The hot dog is located on the grill.
+BBox: (138, 524), (448, 662)
+
+000000072898.jpg: 117.18 seconds
+BBox: (138, 519), (448, 662)
+

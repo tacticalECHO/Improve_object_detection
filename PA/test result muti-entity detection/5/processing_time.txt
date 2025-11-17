@@ -1,0 +1,8 @@
+000000000536.jpg: 551.21 seconds
+Chunk: the girl with black hair
+Think Text: The instruction is to output the bounding box for the girl with black hair. The image shows three girls, and the girl with black hair is on the left.
+BBox: (192, 208), (400, 999)
+Chunk: the woman with gold hair
+Think Text: The instruction is to output the bounding box for the woman with gold hair. The image shows three women, and the woman with gold hair is on the right side of the image.
+BBox: (648, 398), (999, 999)
+

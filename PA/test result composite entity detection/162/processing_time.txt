@@ -1,0 +1,10 @@
+000000580146.jpg: 203.39 seconds
+Chunk: the man
+Think Text: The instruction is asking for the bounding box of the man in the image. The man is located in the center of the image, wearing a helmet, goggles, and a black and yellow jacket.
+BBox: (300, 264), (579, 867)
+
+Original Model
+think: The man is performing a snowboarding trick in the air.
+000000580146.jpg: 96.70 seconds
+BBox: (300, 264), (574, 984)
+

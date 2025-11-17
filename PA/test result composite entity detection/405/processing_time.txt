@@ -1,0 +1,10 @@
+000000581422.jpg: 205.55 seconds
+Chunk: the cow
+Think Text: The cow is the large animal with a white and black coat, standing in the foreground of the image.
+BBox: (498, 283), (999, 999)
+
+Original Model
+think: The cow is in the foreground of the image, standing next to the two men.
+000000581422.jpg: 123.74 seconds
+BBox: (450, 283), (999, 999)
+

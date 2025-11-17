@@ -1,0 +1,10 @@
+000000581073.jpg: 166.84 seconds
+Chunk: the man in green shirt
+Think Text: The man in green shirt is located towards the right side of the image.
+BBox: (896, 738), (999, 930)
+
+Original Model
+think: The man in green shirt is located on the right side of the image, near the edge.
+000000581073.jpg: 112.42 seconds
+BBox: (896, 738), (999, 930)
+

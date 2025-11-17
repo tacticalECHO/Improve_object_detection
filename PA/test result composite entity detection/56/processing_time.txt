@@ -1,0 +1,8 @@
+下载.jpg: 194.71 seconds
+Chunk: the man in red
+Think Text: The instruction is asking for the bounding box of the man in red. The man in red is located towards the right side of the image, wearing a red jacket and black pants.
+BBox: (600, 300), (800, 662)
+
+下载.jpg: 84.65 seconds
+BBox: (478, 298), (808, 670)
+

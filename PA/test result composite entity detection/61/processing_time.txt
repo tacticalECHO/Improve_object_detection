@@ -1,0 +1,8 @@
+000000013383.jpg: 187.90 seconds
+Chunk: the white cat
+Think Text: The instruction is asking for the bounding box of the white cat. The white cat is located on the left side of the image, stretching from the top left corner to the bottom right corner.
+BBox: (0, 187), (662, 835)
+
+000000013383.jpg: 87.28 seconds
+BBox: (0, 208), (662, 835)
+

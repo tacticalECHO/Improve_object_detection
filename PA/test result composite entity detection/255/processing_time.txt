@@ -1,0 +1,10 @@
+000000580695.jpg: 144.67 seconds
+Chunk: the girl in red shirt
+Think Text: The girl in red shirt is the one on the left.
+BBox: (188, 13), (538, 888)
+
+Original Model
+think: The girl in the red shirt is running towards the soccer ball.
+000000580695.jpg: 100.77 seconds
+BBox: (188, 10), (538, 888)
+

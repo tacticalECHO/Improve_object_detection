@@ -1,0 +1,8 @@
+000000021553.jpg: 471.11 seconds
+Chunk: the man in white
+Think Text: The instruction is asking for the bounding box of the man in white. The man in white is the person wearing a white shirt and dark shorts, who is jumping to catch the frisbee.
+BBox: (178, 401), (539, 812)
+Chunk: the man in grey
+Think Text: The instruction is asking for the bounding box of the man in grey. The man in grey is the one wearing a grey shirt and black shorts. He is running towards the frisbee.
+BBox: (178, 401), (538, 807)
+

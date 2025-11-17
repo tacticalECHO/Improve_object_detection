@@ -1,0 +1,8 @@
+000000083960.jpg: 170.67 seconds
+Chunk:  the zebra 
+Think Text: The instruction is to output the bounding box for the zebra. The zebra is located in the center of the image, with its head facing to the right.
+BBox: (420, 188), (757, 431)
+
+000000083960.jpg: 88.79 seconds
+BBox: (420, 188), (758, 431)
+

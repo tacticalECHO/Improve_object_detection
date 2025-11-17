@@ -1,0 +1,8 @@
+000000012524.jpg: 457.27 seconds
+Chunk: the woman in black
+Think Text: The instruction is asking for the bounding box of the woman in black. The woman is located in the right side of the image, wearing a black coat and black pants.
+BBox: (531, 330), (856, 962)
+Chunk: the man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man is located in the center of the image, wearing a black coat and jeans.
+BBox: (162, 278), (558, 999)
+

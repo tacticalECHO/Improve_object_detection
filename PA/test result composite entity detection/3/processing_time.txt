@@ -1,0 +1,8 @@
+000000000839.jpg: 123.35 seconds
+Chunk: the man in blue
+Think Text: The man in blue is the one wearing a red cap and blue shirt.
+BBox: (76, 188), (480, 808)
+
+000000000839.jpg: 204.68 seconds
+BBox: (69, 188), (494, 811)
+

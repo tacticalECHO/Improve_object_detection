@@ -1,0 +1,11 @@
+000000001264.jpg: 204.78 seconds
+Chunk: the MP3 player
+Think Text: The MP3 player is the red iPod shuffle.
+BBox: (818, 178), (921, 338)
+Chunk: the MP3 player
+Think Text: The MP3 player is the red iPod shuffle.
+BBox: (818, 178), (921, 338)
+
+000000001264.jpg: 122.21 seconds
+BBox: (820, 176), (922, 338)
+

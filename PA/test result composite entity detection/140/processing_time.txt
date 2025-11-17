@@ -1,0 +1,13 @@
+000000579999.jpg: 320.97 seconds
+Chunk: the woman
+Think Text: The instruction is asking for the bounding box of the woman in the image. The woman is located in the center of the image, slightly to the right.
+BBox: (450, 384), (550, 749)
+Chunk: woman in blue
+Think Text: The instruction is asking for the bounding box of the woman in blue. The woman in blue is located in the center of the image, slightly to the right.
+BBox: (450, 392), (552, 741)
+
+Original Model
+think: The woman in blue is standing on skis, which suggests she is skiing.
+000000579999.jpg: 108.27 seconds
+BBox: (430, 392), (570, 770)
+

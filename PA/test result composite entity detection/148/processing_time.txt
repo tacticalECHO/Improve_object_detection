@@ -1,0 +1,10 @@
+000000580033.jpg: 164.15 seconds
+Chunk: the man in black
+Think Text: The man in black is the one who is diving for the frisbee. He is wearing a black shirt and shorts.
+BBox: (588, 369), (816, 585)
+
+Original Model
+think: The man in black is attempting to catch a frisbee on the beach.
+000000580033.jpg: 106.99 seconds
+BBox: (583, 369), (816, 585)
+

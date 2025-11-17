@@ -1,0 +1,8 @@
+000000084230.jpg: 131.90 seconds
+Chunk:  the girl in pink 
+Think Text: The girl in pink is the one wearing a pink jacket.
+BBox: (499, 319), (839, 924)
+
+000000084230.jpg: 122.64 seconds
+BBox: (398, 319), (838, 924)
+

@@ -1,0 +1,9 @@
+000000002860.jpg: 576.90 seconds
+Chunk:  the blue car 
+Think Text: The instruction is asking for the bounding box of the blue car. The blue car is the one with the turquoise color in the image. The bounding box is the area that encompasses the entire car.
+BBox: (80, 312), (891, 734)
+Chunk:  the bike 
+Think Text: The instruction is asking for the bounding box of the bike. The bike is mounted on the roof of the car.
+BBox: (158, 10), (513, 330)
+
+

@@ -1,0 +1,10 @@
+000000580741.jpg: 164.38 seconds
+Chunk: the woman in blue
+Think Text: The woman in blue is the one sitting on the couch on the left side of the image.
+BBox: (190, 238), (464, 831)
+
+Original Model
+think: The woman in blue is sitting on the couch.
+000000580741.jpg: 90.96 seconds
+BBox: (190, 238), (464, 831)
+

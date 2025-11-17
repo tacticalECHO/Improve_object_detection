@@ -1,0 +1,10 @@
+000000579891.jpg: 189.63 seconds
+Chunk: the man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man is located in the center of the image, wearing a black wetsuit.
+BBox: (390, 498), (810, 874)
+
+Original Model
+think: The man in black is surfing. He is wearing a wetsuit and is on a surfboard, which is evident from the bounding box coordinates.
+000000579891.jpg: 152.30 seconds
+BBox: (180, 450), (819, 873)
+

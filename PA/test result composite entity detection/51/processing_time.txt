@@ -1,0 +1,10 @@
+000000011774.jpg: 31.54 seconds
+
+000000011774.jpg: 96.56 seconds
+BBox: (498, 96), (893, 996)
+
+000000011774.jpg: 383.68 seconds
+Chunk: the man in red shirt
+Think Text: The man in red shirt is the one on the right.
+BBox: (531, 96), (892, 996)
+

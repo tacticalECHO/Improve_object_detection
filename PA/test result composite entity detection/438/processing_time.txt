@@ -1,0 +1,10 @@
+000000581629.jpg: 168.18 seconds
+Chunk: the man in blue shirt
+Think Text: The man in blue shirt is the one wearing a blue and white striped shirt.
+BBox: (0, 384), (297, 858)
+
+Original Model
+think: The man in the blue shirt is holding a camera and appears to be taking a photo.
+000000581629.jpg: 133.32 seconds
+BBox: (0, 384), (297, 858)
+

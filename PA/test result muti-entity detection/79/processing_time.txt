@@ -1,0 +1,8 @@
+000000084230.jpg: 381.83 seconds
+Chunk: the girl in pink
+Think Text: The girl in pink is the one wearing a pink jacket.
+BBox: (541, 320), (836, 924)
+Chunk: the boy in blue
+Think Text: The instruction is asking for the bounding box of the boy in blue. The boy is located on the left side of the image, wearing a blue sweater and blue pants.
+BBox: (112, 378), (357, 935)
+

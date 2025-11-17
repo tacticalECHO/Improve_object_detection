@@ -1,0 +1,8 @@
+000000082484.jpg: 405.85 seconds
+Chunk: the orange cat
+Think Text: The orange cat is the one standing on its hind legs. It appears to be playing with a toy.
+BBox: (106, 111), (526, 876)
+Chunk: the white cat
+Think Text: The instruction is asking for the bounding box of the white cat. The white cat is located on the right side of the image, standing on its hind legs.
+BBox: (360, 514), (900, 940)
+

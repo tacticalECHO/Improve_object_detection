@@ -1,0 +1,8 @@
+000000083960.jpg: 453.43 seconds
+Chunk: the zebra
+Think Text: The zebra is the only animal with a distinct black and white striped pattern. It is lying down on the ground, facing to the right.
+BBox: (420, 183), (757, 435)
+Chunk: the ox
+Think Text: The instruction is asking for the bounding box of the ox. The bounding box is the area that encloses the ox in the image. The bounding box is determined by the coordinates of the top-left and bottom-right corners of the ox.
+BBox: (48, 368), (490, 630)
+

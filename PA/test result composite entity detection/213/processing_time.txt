@@ -1,0 +1,10 @@
+000000580487.jpg: 200.85 seconds
+Chunk: the man in white
+Think Text: The instruction is asking for the bounding box of the man in white. The man is wearing a white shirt and is the main subject of the image.
+BBox: (0, 240), (852, 999)
+
+Original Model
+think: The man in the white shirt is reaching up to catch a frisbee.
+000000580487.jpg: 106.41 seconds
+BBox: (12, 240), (852, 996)
+

@@ -1,0 +1,8 @@
+000000003862.jpg: 179.24 seconds
+Chunk:  the yellow dog 
+Think Text: The instruction is to output the bounding box for the yellow dog. The dog is located in the center of the image, with its body covering a significant portion of the frame.
+BBox: (180, 348), (938, 996)
+
+000000003862.jpg: 141.03 seconds
+BBox: (198, 624), (999, 999)
+

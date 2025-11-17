@@ -1,0 +1,8 @@
+下载.jpg: 158.64 seconds
+Chunk: the girl with brown hair
+Think Text: The instruction is asking for the bounding box of the girl with brown hair. The girl is located in the top left part of the image.
+BBox: (41, 0), (496, 766)
+
+下载.jpg: 98.64 seconds
+BBox: (48, 0), (600, 762)
+

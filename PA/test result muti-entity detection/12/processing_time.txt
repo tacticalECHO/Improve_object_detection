@@ -1,0 +1,9 @@
+下载.jpg: 585.38 seconds
+Chunk: the girl with brown hair
+Think Text: The instruction is asking for the bounding box of the girl with brown hair. The girl is located in the top left part of the image.
+BBox: (46, 0), (498, 766)
+Chunk: the cow
+Think Text: The instruction is asking for the bounding box of the cow in the image. The cow is lying down on the ground, so the bounding box should include the entire cow.
+BBox: (299, 321), (994, 940)
+
+

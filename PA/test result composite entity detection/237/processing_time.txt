@@ -1,0 +1,10 @@
+000000580609.jpg: 247.56 seconds
+Chunk: the woman in blue shirt
+Think Text: The instruction is asking for the bounding box of the woman in the blue shirt. The bounding box should include the woman's entire body, from her head to her feet.
+BBox: (141, 72), (751, 999)
+
+Original Model
+think: The woman in the blue shirt is holding a tennis racket and appears to be in the middle of a tennis match. She is likely playing a point or preparing to hit the ball.
+000000580609.jpg: 153.22 seconds
+BBox: (138, 72), (804, 999)
+

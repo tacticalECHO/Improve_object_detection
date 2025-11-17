@@ -1,0 +1,10 @@
+000000580461.jpg: 153.96 seconds
+Chunk: the parking meter
+Think Text: The parking meter is a rectangular object with a pole. It is located on the sidewalk near the parking lot.
+BBox: (230, 453), (290, 725)
+
+Original Model
+think: The parking meter is located on the side of the road, near the parking lot.
+000000580461.jpg: 111.35 seconds
+BBox: (198, 453), (297, 730)
+

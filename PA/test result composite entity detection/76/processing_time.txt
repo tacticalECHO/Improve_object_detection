@@ -1,0 +1,8 @@
+000000082680.jpg: 161.01 seconds
+Chunk: the black dog
+Think Text: The instruction is asking for the bounding box of the black dog. The black dog is located on the left side of the image.
+BBox: (140, 198), (414, 728)
+
+000000082680.jpg: 137.09 seconds
+BBox: (140, 198), (414, 728)
+

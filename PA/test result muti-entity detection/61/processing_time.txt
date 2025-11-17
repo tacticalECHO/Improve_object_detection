@@ -1,0 +1,8 @@
+000000013383.jpg: 439.78 seconds
+Chunk:  black keyboard 
+Think Text: The instruction is asking for the bounding box of a black keyboard. The keyboard is located in the bottom right corner of the image.
+BBox: (400, 601), (999, 999)
+Chunk:  the white cat 
+Think Text: The instruction is asking for the bounding box of the white cat. The white cat is located on the left side of the image, stretching from the top left corner to the bottom right corner.
+BBox: (0, 187), (662, 835)
+

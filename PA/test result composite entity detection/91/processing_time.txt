@@ -1,0 +1,8 @@
+000000019631.jpg: 145.49 seconds
+Chunk: the red truck
+Think Text: The red truck is the vehicle in the background, behind the blue truck.
+BBox: (400, 102), (700, 599)
+
+000000019631.jpg: 108.10 seconds
+BBox: (375, 106), (701, 599)
+

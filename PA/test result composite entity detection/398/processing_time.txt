@@ -1,0 +1,10 @@
+000000581394.jpg: 174.95 seconds
+Chunk: the green bus
+Think Text: The green bus is the object in question. It is a large, green vehicle with windows and a roof.
+BBox: (10, 496), (628, 953)
+
+Original Model
+think: The green bus is the large vehicle in the image with the words "Green Tortoise" written on it.
+000000581394.jpg: 122.31 seconds
+BBox: (10, 496), (624, 953)
+

@@ -1,0 +1,8 @@
+000000001958.jpg: 520.13 seconds
+Chunk: the girl in black
+Think Text: The girl in black is standing in the left side of the image, wearing a gray shirt and black pants. She is holding a white object, possibly a remote or a game controller.
+BBox: (128, 293), (431, 982)
+Chunk: the boy in white
+Think Text: The boy in white is the one on the right side of the image. He is standing and appears to be playing a video game.
+BBox: (600, 386), (948, 884)
+

@@ -1,0 +1,8 @@
+1.jpg: 558.84 seconds
+Chunk:  the taxi 
+Think Text: The instruction is to output the bounding box for the taxi. The taxi is the yellow vehicle in the image.
+BBox: (0, 384), (450, 747)
+Chunk:  the man 
+Think Text: The instruction is to output the bounding box corresponding to the man in the image. The man is located in the center of the image, wearing a yellow shirt and standing on the back of a yellow taxi.
+BBox: (420, 130), (620, 700)
+

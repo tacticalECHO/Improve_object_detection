@@ -1,0 +1,17 @@
+{
+  "query": "find the withe cake on the table",
+  "prompt": "Locate withe cake, table. Relations: cake on table. Return bounding boxes for each mentioned object as a JSON list, where each item is {\"label\": \"<name>\", \"bbox\": [x1,y1,x2,y2]}. The bbox coordinates should be normalized to the range [0, 1000].",
+  "raw_text": "system\nYou are a helpful vision assistant that returns JSON boxes.\nuser\nLocate withe cake, table. Relations: cake on table. Return bounding boxes for each mentioned object as a JSON list, where each item is {\"label\": \"<name>\", \"bbox\": [x1,y1,x2,y2]}. The bbox coordinates should be normalized to the range [0, 1000].\nassistant\n```json\n[{\"label\": \"withe cake\", \"bbox\": [578,468,905,765]}]\n```",
+  "detections": [
+    {
+      "label": "withe cake",
+      "bbox": [
+        578,
+        468,
+        905,
+        765
+      ]
+    }
+  ],
+  "vis_image": "assets/test2.vis_rft.jpg"
+}

@@ -1,0 +1,8 @@
+000000019129.jpg: 137.11 seconds
+Chunk: the girl on surfboard
+Think Text: The girl on the surfboard is the one with the life jacket.
+BBox: (500, 278), (799, 868)
+
+000000019129.jpg: 157.74 seconds
+BBox: (100, 450), (868, 716)
+

@@ -1,0 +1,10 @@
+000000580796.jpg: 142.94 seconds
+Chunk: the man
+Think Text: The man is the person wearing a hat and sitting on the elephant.
+BBox: (588, 388), (638, 475)
+
+Original Model
+think: The man in white is riding on the back of an elephant.
+000000580796.jpg: 98.87 seconds
+BBox: (588, 384), (638, 477)
+

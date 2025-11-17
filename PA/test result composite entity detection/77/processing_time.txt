@@ -1,0 +1,13 @@
+000000083049.jpg: 125.67 seconds
+Chunk:  the man in blue 
+Think Text: The man in blue is the person sitting on the bench.
+BBox: (336, 276), (741, 702)
+
+000000083049.jpg: 90.96 seconds
+BBox: (336, 279), (456, 543)
+
+000000083049.jpg: 173.00 seconds
+Chunk: the man in blue
+Think Text: The man in blue is the one sitting on the bench.
+BBox: (336, 279), (741, 702)
+

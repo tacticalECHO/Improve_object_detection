@@ -1,0 +1,10 @@
+000000580711.jpg: 162.68 seconds
+Chunk: the man in blue shirt
+Think Text: The man in blue shirt is the one wearing a blue shirt and standing in the background.
+BBox: (18, 342), (105, 500)
+
+Original Model
+think: The man in the blue shirt is waving.
+000000580711.jpg: 87.27 seconds
+BBox: (18, 448), (324, 838)
+

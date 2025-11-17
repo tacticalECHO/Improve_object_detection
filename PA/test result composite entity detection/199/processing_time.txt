@@ -1,0 +1,10 @@
+000000580392.jpg: 154.00 seconds
+Chunk: the green pillow
+Think Text: The green pillow is on the couch. The bounding box for the green pillow is the coordinates of the couch and the pillow.
+BBox: (684, 753), (810, 924)
+
+Original Model
+think: The green pillow is on the couch. The bounding box is the area where the pillow is located.
+000000580392.jpg: 115.89 seconds
+BBox: (684, 753), (810, 924)
+

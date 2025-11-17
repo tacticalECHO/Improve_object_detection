@@ -1,0 +1,10 @@
+000000580862.jpg: 213.99 seconds
+Chunk: the man on surfboard
+Think Text: The man on the surfboard is located in the center of the image, slightly to the right. The bounding box should capture the man and the surfboard.
+BBox: (450, 480), (680, 624)
+
+Original Model
+think: The man is on a surfboard, which suggests he is surfing. The bounding box should capture the man and the surfboard.
+000000580862.jpg: 130.46 seconds
+BBox: (490, 495), (680, 608)
+

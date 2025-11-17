@@ -1,0 +1,10 @@
+000000581882.jpg: 239.27 seconds
+Chunk: the green bottle
+Think Text: The instruction is asking for the bounding box of the green bottle. The green bottle is located on the shelf above the sink.
+BBox: (184, 310), (271, 462)
+
+Original Model
+think: The green bottle is on the shelf above the sink.
+000000581882.jpg: 134.71 seconds
+BBox: (100, 312), (200, 470)
+

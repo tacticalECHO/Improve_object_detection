@@ -1,0 +1,133 @@
+This is a result file for the LLM-Visual-RFT and Visual-RFT models on the ContextDET dataset.
+The following are the inputs that have differences in output during the test
+100
+96-bad
+89-wrong
+88
+86
+83-wrong
+79
+73
+64
+63
+48-wrong
+47-wrong
+45
+43
+31
+14
+103
+107
+111
+112
+116
+126
+155
+166-wrong
+168-MINEWrong
+169
+183
+190
+214
+217
+231
+232
+234
+240
+243
+245
+246
+252
+258
+259
+322
+329
+337-wrong
+338-wrong
+357
+363
+366-Minewrong
+367
+368-MAMwrong
+374
+390
+401-MAMwrong
+404-MAMwrong
+406-MAMwrong an detect wrong
+407
+411
+412-MINE wrong
+413-MINE wrong
+420
+443-MINE wrong
+451-MINE wrong
+452
+459
+462-MAMwrong
+463-MAMwrong
+468
+478
+479-MINEwrong
+487
+488
+489
+490-MINEwrong
+493-MINEwrong MAMwrong
+498
+499-MAMwrong
+
+LLM-Visual-RFT
+TP 500-26=474
+FP 26
+FN 0
+TN x
+P 94.8
+R 100
+F1 97.3
+AMA 0.98
+
+Visual-RFT
+TP 500-50=450
+FP 50
+FN 0
+TN x
+P 90
+R 100
+F1 94.7
+
+ContextDET
+TP 283
+FP 215
+FN 2
+TN x
+P 56.8
+R 99.3
+F1 71.9
+
+LLM-Visual-RFT
+TP 193
+FP 7
+FN 0
+TN x
+P 96.5
+R 100
+F1 98.2
+AMA 0.975
+
+Visual-RFT
+TP 95
+FP 5
+FN 100
+TN x
+P 95.0
+R 48.0
+F1 64.2
+
+ContextDET
+TP 155
+FP 40
+FN 5
+TN x
+P 79.5
+R 96.9
+F1 87.2

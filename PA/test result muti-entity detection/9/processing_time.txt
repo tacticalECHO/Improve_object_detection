@@ -1,0 +1,9 @@
+000000001580.jpg: 517.44 seconds
+Chunk: the man in blue
+Think Text: The instruction is asking for the bounding box of the man in blue. The man in blue is located towards the right side of the image.
+BBox: (613, 299), (830, 863)
+Chunk: the man in red
+Think Text: The instruction is asking for the bounding box of the man in red. The man in red is located towards the left side of the image.
+BBox: (198, 281), (435, 858)
+
+

@@ -1,0 +1,10 @@
+000000580953.jpg: 228.39 seconds
+Chunk: the white mouse
+Think Text: The instruction is asking for the bounding box of the white mouse. The mouse is located on the right side of the desk, below the monitor.
+BBox: (690, 749), (792, 851)
+
+Original Model
+think: The white mouse is located on the right side of the desk, near the keyboard.
+000000580953.jpg: 110.69 seconds
+BBox: (690, 749), (792, 851)
+

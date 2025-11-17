@@ -1,0 +1,13 @@
+000000581900.jpg: 356.97 seconds
+Chunk: the man
+Think Text: The instruction is asking for the bounding box of the man in the image. The man is located in the foreground, riding a motorcycle.
+BBox: (190, 519), (574, 999)
+Chunk: the brown briefcase
+Think Text: The instruction is asking for the bounding box of the brown briefcase. The briefcase is located near the bottom left of the image.
+BBox: (119, 683), (213, 835)
+
+Original Model
+think: The man with the brown briefcase is located on the left side of the image.
+000000581900.jpg: 154.68 seconds
+BBox: (100, 488), (244, 898)
+

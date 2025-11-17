@@ -1,0 +1,8 @@
+000000010434.jpg: 431.31 seconds
+Chunk: the man in brown
+Think Text: The instruction is asking for the bounding box of the man in brown. The man in brown is located on the left side of the image, wearing a brown jacket and blue jeans.
+BBox: (58, 204), (350, 711)
+Chunk: the grey car
+Think Text: The instruction is asking for the bounding box of the grey car. The grey car is located on the right side of the image, driving on the road.
+BBox: (600, 366), (984, 741)
+

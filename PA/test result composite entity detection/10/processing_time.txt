@@ -1,0 +1,8 @@
+000000001777.jpg: 191.87 seconds
+Chunk: the zebra
+Think Text: The instruction is asking for the bounding box of the zebra in the image. The zebra is located on the left side of the image, standing on the sandy ground.
+BBox: (10, 375), (360, 751)
+
+000000001777.jpg: 89.88 seconds
+BBox: (40, 375), (359, 747)
+

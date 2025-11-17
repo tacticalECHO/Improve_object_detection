@@ -1,0 +1,8 @@
+000000013550.jpg: 425.27 seconds
+Chunk:  woman with glasses 
+Think Text: The instruction is asking for the bounding box of the woman with glasses. The woman is wearing glasses and is located in the image.
+BBox: (100, 196), (500, 783)
+Chunk:  elephant 
+Think Text: The instruction is asking for the bounding box of an elephant in the image. The bounding box should include the elephant and any part of its body that is visible in the image.
+BBox: (468, 255), (868, 938)
+

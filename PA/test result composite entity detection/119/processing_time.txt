@@ -1,0 +1,10 @@
+000000579906.jpg: 145.05 seconds
+Chunk: the man in black
+Think Text: The man in black is the one standing in the background. He is wearing a black shirt and jeans.
+BBox: (180, 119), (345, 591)
+
+Original Model
+think: The man in black is standing in the background of the image. He appears to be taking a photo of the dirt bike rider.
+000000579906.jpg: 131.00 seconds
+BBox: (190, 120), (340, 594)
+

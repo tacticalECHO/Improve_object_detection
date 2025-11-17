@@ -1,0 +1,10 @@
+000000581415.jpg: 208.75 seconds
+Chunk:  the TV 
+Think Text: The instruction is to output the bounding box of the TV in the image. The TV is located on the left side of the image, below the window.
+BBox: (88, 281), (318, 483)
+
+Original Model
+think: The TV is located on the left side of the image, on a wooden stand.
+000000581415.jpg: 112.61 seconds
+BBox: (88, 281), (318, 483)
+

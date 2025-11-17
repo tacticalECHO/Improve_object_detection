@@ -1,0 +1,10 @@
+000000581821.jpg: 223.08 seconds
+Chunk: the red pillow
+Think Text: The instruction is asking for the bounding box of the red pillow. The red pillow is located on the white couch.
+BBox: (698, 459), (778, 562)
+
+Original Model
+think: The red pillow is on the white couch.
+000000581821.jpg: 127.11 seconds
+BBox: (698, 462), (773, 565)
+

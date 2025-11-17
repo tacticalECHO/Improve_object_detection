@@ -1,0 +1,10 @@
+000000580248.jpg: 147.92 seconds
+Chunk: the man with surfboard
+Think Text: The man with the surfboard is the one holding the yellow surfboard.
+BBox: (125, 358), (930, 898)
+
+Original Model
+think: The man with the surfboard is holding it and standing on the beach.
+000000580248.jpg: 105.96 seconds
+BBox: (125, 358), (931, 898)
+

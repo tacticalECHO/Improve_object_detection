@@ -1,0 +1,8 @@
+000000001580.jpg: 125.04 seconds
+Chunk: the man in red
+Think Text: The man in red is the one on the left.
+BBox: (188, 282), (431, 857)
+
+000000001580.jpg: 116.09 seconds
+BBox: (250, 281), (430, 858)
+

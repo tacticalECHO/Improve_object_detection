@@ -1,0 +1,8 @@
+000000012509.jpg: 151.01 seconds
+Chunk:  the man in black 
+Think Text: The instruction is to output the bounding box for the man in black. The man in black is located on the beach, walking towards the ocean.
+BBox: (300, 568), (325, 744)
+
+000000012509.jpg: 89.14 seconds
+BBox: (430, 568), (480, 762)
+

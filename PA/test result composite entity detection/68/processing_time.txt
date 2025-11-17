@@ -1,0 +1,13 @@
+000000073014.jpg: 231.01 seconds
+Chunk: the clock
+Think Text: The instruction is asking for the bounding box of the clock in the image. The clock is located in the center of the image, with its top left corner at (150, 50) and its bottom right corner at (450, 350).
+BBox: (150, 50), (450, 350)
+
+000000073014.jpg: 123.77 seconds
+BBox: (190, 83), (593, 725)
+
+000000073014.jpg: 544.43 seconds
+Chunk: the clock
+Think Text: The instruction is asking for the bounding box of the clock in the image. The clock is located in the center of the image, with its top left corner at (150, 50) and its bottom right corner at (450, 350).
+BBox: (150, 50), (450, 350)
+

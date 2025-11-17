@@ -1,0 +1,8 @@
+000000010179.jpg: 424.39 seconds
+Chunk: the man with baseball bat
+Think Text: The instruction is asking for the bounding box of the man holding the baseball bat. The man holding the bat is on the right side of the image.
+BBox: (500, 156), (888, 996)
+Chunk: the man with black hat
+Think Text: The instruction is asking for the bounding box of the man with the black hat. The man with the black hat is on the left side of the image.
+BBox: (188, 188), (538, 996)
+

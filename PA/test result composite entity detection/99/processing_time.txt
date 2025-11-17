@@ -1,0 +1,8 @@
+000000023603.jpg: 138.49 seconds
+Chunk: the child in red shirt
+Think Text: The child in red shirt is the one wearing the red jersey.
+BBox: (668, 150), (938, 728)
+
+000000023603.jpg: 130.02 seconds
+BBox: (690, 150), (938, 660)
+

@@ -1,0 +1,8 @@
+下载 (1).jpg: 222.63 seconds
+Chunk: the black bear
+Think Text: The instruction is asking for the bounding box of the black bear in the image. The black bear is the main subject of the image, and it is located in the center of the image. The bounding box should capture the entire bear, including its head, body, and legs.
+BBox: (180, 25), (930, 882)
+
+下载 (1).jpg: 132.83 seconds
+BBox: (100, 150), (600, 550)
+

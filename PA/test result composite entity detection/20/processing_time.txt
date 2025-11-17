@@ -1,0 +1,8 @@
+000000002890.jpg: 136.73 seconds
+Chunk: the man in green
+Think Text: The man in green is the one wearing green pants and a green jacket.
+BBox: (268, 326), (428, 858)
+
+000000002890.jpg: 110.46 seconds
+BBox: (192, 328), (447, 958)
+

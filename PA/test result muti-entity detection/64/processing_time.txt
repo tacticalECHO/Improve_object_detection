@@ -1,0 +1,8 @@
+000000000283.jpg: 469.02 seconds
+Chunk: the glass of red wine
+Think Text: The instruction is asking for the bounding box of the glass of red wine. The glass is located on the table, to the right of the wine bottle. The bounding box should capture the entire glass, including the stem and the liquid inside.
+BBox: (400, 246), (588, 574)
+Chunk: bottle
+Think Text: The instruction is asking for the bounding box of the bottle. The bottle is located on the left side of the image, standing upright.
+BBox: (150, 54), (351, 531)
+

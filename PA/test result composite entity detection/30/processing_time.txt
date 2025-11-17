@@ -1,0 +1,8 @@
+000000003782.jpg: 162.39 seconds
+Chunk:  the toothpaste 
+Think Text: The instruction is to output the bounding box of the toothpaste. The toothpaste is located in the bottom left corner of the image.
+BBox: (39, 648), (169, 888)
+
+000000003782.jpg: 97.40 seconds
+BBox: (39, 647), (174, 887)
+

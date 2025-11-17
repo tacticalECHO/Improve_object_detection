@@ -1,0 +1,10 @@
+000000580974.jpg: 202.63 seconds
+Chunk: the man in red
+Think Text: The man in red is the catcher. He is wearing a red uniform and is crouched behind the batter.
+BBox: (400, 331), (668, 700)
+
+Original Model
+think: The man in red is wearing a baseball uniform and is crouching down, which is a typical position for a catcher in a baseball game.
+000000580974.jpg: 142.00 seconds
+BBox: (383, 330), (668, 700)
+

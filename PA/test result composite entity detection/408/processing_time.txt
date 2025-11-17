@@ -1,0 +1,13 @@
+000000581437.jpg: 521.98 seconds
+Chunk: the white microwave
+Think Text: The instruction is asking for the bounding box of the white microwave. The microwave is located on the ground, slightly to the left of the orange traffic cone.
+BBox: (365, 361), (537, 535)
+Chunk: oven
+Think Text: The instruction is asking for the bounding box of an oven. In the image, there is a white microwave oven on the ground. The bounding box should be around the microwave oven.
+BBox: (365, 361), (537, 535)
+
+Original Model
+think: The white microwave oven is on the ground, next to a hedge and a traffic cone. The bounding box should include the microwave oven, the hedge, and the traffic cone.
+000000581437.jpg: 217.07 seconds
+BBox: (365, 361), (537, 535)
+

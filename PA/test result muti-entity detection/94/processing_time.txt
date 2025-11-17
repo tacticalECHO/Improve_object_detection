@@ -1,0 +1,8 @@
+000000021029.jpg: 360.17 seconds
+Chunk: the man in white
+Think Text: The man in white is the one holding the bat and swinging it. He is the main focus of the image.
+BBox: (388, 264), (658, 924)
+Chunk: the man in red
+Think Text: The man in red is standing with his arms raised, likely cheering or signaling to the batter.
+BBox: (192, 136), (441, 848)
+

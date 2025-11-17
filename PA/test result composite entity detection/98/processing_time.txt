@@ -1,0 +1,8 @@
+000000023551.jpg: 116.21 seconds
+Chunk: the man in black
+Think Text: The man in black is the one on the left.
+BBox: (148, 174), (514, 996)
+
+000000023551.jpg: 87.76 seconds
+BBox: (148, 174), (514, 996)
+

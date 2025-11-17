@@ -1,0 +1,8 @@
+000000012509.jpg: 522.42 seconds
+Chunk: the girl in black
+Think Text: The instruction is asking for the bounding box of the girl in black. The girl in black is located on the beach, walking towards the ocean. The bounding box should capture the girl from her head to her feet.
+BBox: (300, 568), (320, 744)
+Chunk: the man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man in black is located on the beach, walking towards the ocean. The bounding box should capture the man from his head to his feet.
+BBox: (398, 564), (488, 762)
+

@@ -1,0 +1,8 @@
+000000011990.jpg: 177.23 seconds
+Chunk:  the cat 
+Think Text: The instruction is asking for the bounding box of the cat in the image. The cat is located in the center of the image, with its body occupying a significant portion of the space.
+BBox: (398, 333), (638, 744)
+
+000000011990.jpg: 130.61 seconds
+BBox: (390, 336), (636, 744)
+

@@ -1,0 +1,11 @@
+000000011411.jpg: 375.02 seconds
+Chunk: the boy
+Think Text: The instruction is asking for the bounding box of the boy. The boy is the person holding the baseball bat. The bounding box should include the entire body of the boy.
+BBox: (148, 238), (362, 918)
+Chunk: the boy in blue shirt
+Think Text: The instruction is asking for the bounding box of the boy in the blue shirt. The boy in the blue shirt is located on the left side of the image, wearing a blue shirt and gray pants.
+BBox: (148, 240), (362, 918)
+
+000000011411.jpg: 118.64 seconds
+BBox: (140, 234), (360, 921)
+

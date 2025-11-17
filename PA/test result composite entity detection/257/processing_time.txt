@@ -1,0 +1,10 @@
+000000580704.jpg: 216.86 seconds
+Chunk: the man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man in black is located on the left side of the image, sitting on a motorcycle.
+BBox: (0, 398), (350, 980)
+
+Original Model
+think: The man in black is sitting on a motorcycle.
+000000580704.jpg: 89.00 seconds
+BBox: (0, 400), (350, 996)
+

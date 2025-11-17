@@ -1,0 +1,8 @@
+000000076161.jpg: 128.34 seconds
+Chunk: the man in blue shirt
+Think Text: The man in the blue shirt is the one on the left.
+BBox: (180, 78), (546, 999)
+
+000000076161.jpg: 111.24 seconds
+BBox: (180, 78), (546, 997)
+

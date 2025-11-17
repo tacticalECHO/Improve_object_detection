@@ -1,0 +1,10 @@
+000000581038.jpg: 196.88 seconds
+Chunk: the white oven
+Think Text: The instruction is asking for the bounding box of the white oven. The oven is the white appliance with a black interior and a door that is open.
+BBox: (0, 0), (820, 999)
+
+Original Model
+think: The instruction is asking for the bounding box of the white oven in the image. The oven is located in the center of the image, taking up a significant portion of the space.
+000000581038.jpg: 148.11 seconds
+BBox: (0, 0), (820, 999)
+

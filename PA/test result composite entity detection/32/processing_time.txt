@@ -1,0 +1,8 @@
+000000004256.jpg: 132.86 seconds
+Chunk: the green plate
+Think Text: The green plate is the one on the top right of the image.
+BBox: (450, 0), (874, 355)
+
+000000004256.jpg: 97.03 seconds
+BBox: (600, 0), (874, 351)
+

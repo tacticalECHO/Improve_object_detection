@@ -1,0 +1,10 @@
+000000581181.jpg: 313.19 seconds
+Chunk: the man in blue with black glove
+Think Text: The instruction is asking for the bounding box of the man in blue with a black glove. The man is wearing a blue baseball jersey with the word "Mariners" on it, and he is holding a black baseball glove. The bounding box should include the entire man from his head to his feet.
+BBox: (150, 148), (624, 996)
+
+Original Model
+think: The man in blue with black glove is the baseball player. The bounding box is the area where the player is located.
+000000581181.jpg: 126.59 seconds
+BBox: (150, 148), (624, 999)
+

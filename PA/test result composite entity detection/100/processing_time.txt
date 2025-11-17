@@ -1,0 +1,8 @@
+000000024489.jpg: 161.99 seconds
+Chunk:  the bike 
+Think Text: The instruction is to output the bounding box of the bike in the image. The bike is located near the center of the image, leaning against a wall.
+BBox: (260, 624), (362, 730)
+
+000000024489.jpg: 100.81 seconds
+BBox: (100, 624), (362, 749)
+

@@ -1,0 +1,10 @@
+000000580847.jpg: 202.59 seconds
+Chunk: the woman in white
+Think Text: The instruction is asking for the bounding box of the woman in white. The bounding box should include the entire area where the woman is located.
+BBox: (88, 38), (654, 996)
+
+Original Model
+think: The woman in white is playing tennis. She is holding a tennis racket and appears to be in motion, likely having just hit the ball or preparing to hit it.
+000000580847.jpg: 150.92 seconds
+BBox: (90, 30), (999, 999)
+

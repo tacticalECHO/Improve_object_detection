@@ -1,0 +1,8 @@
+000000012459.jpg: 128.26 seconds
+Chunk: the woman in black
+Think Text: The woman in black is the one wearing a long black coat and a blue hat.
+BBox: (100, 288), (290, 864)
+
+000000012459.jpg: 121.47 seconds
+BBox: (100, 288), (290, 864)
+

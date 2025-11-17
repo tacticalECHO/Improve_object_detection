@@ -1,0 +1,10 @@
+emb_dim: 128
+hid_dim: 256
+lr: 0.003
+batch_size: 8
+epochs: 50
+max_len: 128
+dropout: 0.1
+lambda_rel: 0.5
+warmup_epochs: 24
+beta_crf_max: 1.0

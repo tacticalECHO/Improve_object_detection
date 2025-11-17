@@ -1,0 +1,10 @@
+000000580216.jpg: 179.76 seconds
+Chunk: the man in yellow
+Think Text: The instruction is to output the bounding box of the man in yellow. The man in yellow is located on the left side of the image, wearing a yellow hoodie.
+BBox: (170, 516), (273, 984)
+
+Original Model
+think: The man in yellow is standing near the bus, facing the camera. He appears to be waiting to board the bus.
+000000580216.jpg: 125.81 seconds
+BBox: (170, 516), (270, 984)
+

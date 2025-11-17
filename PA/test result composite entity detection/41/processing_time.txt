@@ -1,0 +1,11 @@
+000000007367.jpg: 280.25 seconds
+Chunk: the banana
+Think Text: The instruction is asking for the bounding box of the banana. The bounding box is the rectangular area that completely encloses the banana.
+BBox: (178, 38), (918, 431)
+Chunk: the banana
+Think Text: The instruction is asking for the bounding box of the banana. The bounding box is the rectangular area that completely encloses the banana.
+BBox: (178, 38), (918, 431)
+
+000000007367.jpg: 97.13 seconds
+BBox: (178, 38), (918, 430)
+

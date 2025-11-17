@@ -1,0 +1,8 @@
+000000011411.jpg: 421.39 seconds
+Chunk: the boy in yellow shirt
+Think Text: The instruction is asking for the bounding box of the boy in the yellow shirt. The boy in the yellow shirt is located on the right side of the image.
+BBox: (640, 250), (890, 996)
+Chunk: the boy in blue shirt
+Think Text: The instruction is asking for the bounding box of the boy in the blue shirt. The boy in the blue shirt is the one holding the baseball bat and wearing a helmet.
+BBox: (148, 234), (362, 918)
+

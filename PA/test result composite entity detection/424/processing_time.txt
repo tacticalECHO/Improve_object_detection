@@ -1,0 +1,10 @@
+000000581542.jpg: 156.39 seconds
+Chunk: the man in black
+Think Text: The man in black is the one holding the phone.
+BBox: (638, 0), (999, 999)
+
+Original Model
+think: The man in black is located in the right side of the image.
+000000581542.jpg: 121.01 seconds
+BBox: (630, 0), (999, 999)
+

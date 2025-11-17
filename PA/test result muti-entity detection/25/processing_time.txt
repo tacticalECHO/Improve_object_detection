@@ -1,0 +1,8 @@
+000000001960.jpg: 536.60 seconds
+Chunk:  the man in green 
+Think Text: The instruction is asking for the bounding box of the man in green. The man in green is the goalkeeper, who is wearing a green jersey. The bounding box should be around the goalkeeper, capturing his entire body.
+BBox: (196, 538), (930, 999)
+Chunk:  the man in blue 
+Think Text: The instruction is asking for the bounding box of the man in blue. The man in blue is the player who is jumping to head the ball.
+BBox: (198, 228), (624, 816)
+

@@ -1,0 +1,10 @@
+000000580381.jpg: 186.53 seconds
+Chunk:  the girl in white 
+Think Text: The instruction is to output the bounding box of the girl in white. The girl in white is the person jumping in the air to catch the frisbee.
+BBox: (520, 278), (746, 878)
+
+Original Model
+think: The girl in white is jumping to catch a frisbee. The bounding box is determined by the position of the girl and the frisbee in the image.
+000000580381.jpg: 150.12 seconds
+BBox: (498, 278), (748, 878)
+

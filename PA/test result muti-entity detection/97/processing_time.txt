@@ -1,0 +1,8 @@
+000000022704.jpg: 518.10 seconds
+Chunk: the silver scissors
+Think Text: The instruction is asking for the bounding box of the silver scissors. The scissors are located in the center of the image, with the handles pointing towards the bottom and the blades pointing upwards. The bounding box should capture the entire scissors, including the handles and the blades.
+BBox: (0, 234), (858, 873)
+Chunk: the yellow line
+Think Text: The instruction is asking for the bounding box of the yellow line. The yellow line is the orange thread that is wrapped around the spool. The bounding box is the area that encompasses the entire length of the thread.
+BBox: (110, 108), (610, 999)
+

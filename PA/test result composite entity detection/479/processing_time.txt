@@ -1,0 +1,10 @@
+000000581831.jpg: 275.37 seconds
+Chunk: the kid in yellow socks
+Think Text: The instruction is to find the bounding box of the kid in yellow socks. The kid in yellow socks is located in the bottom left corner of the image.
+BBox: (131, 781), (287, 951)
+
+Original Model
+think: The instruction is asking for the bounding box of the kid in the yellow socks. The kid in the yellow socks is located towards the left side of the image.
+000000581831.jpg: 217.51 seconds
+BBox: (131, 375), (301, 957)
+

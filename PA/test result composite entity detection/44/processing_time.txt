@@ -1,0 +1,11 @@
+000000010179.jpg: 307.88 seconds
+Chunk: the man with baseball bat
+Think Text: The man with the baseball bat is the one on the right.
+BBox: (500, 156), (884, 996)
+Chunk: the man
+Think Text: The instruction is asking for the bounding box of the man in the image. The man is located on the left side of the image, wearing a baseball uniform with the word "Boston" on it.
+BBox: (180, 188), (539, 996)
+
+000000010179.jpg: 104.84 seconds
+BBox: (490, 155), (888, 995)
+

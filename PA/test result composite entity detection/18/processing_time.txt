@@ -1,0 +1,8 @@
+000000002658.jpg: 122.17 seconds
+Chunk:  the man in blue shirt 
+Think Text: The man in blue shirt is the one wearing a blue shirt and a tie.
+BBox: (340, 62), (640, 978)
+
+000000002658.jpg: 149.36 seconds
+BBox: (340, 62), (640, 978)
+

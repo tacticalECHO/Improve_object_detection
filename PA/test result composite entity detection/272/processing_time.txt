@@ -1,0 +1,10 @@
+000000580781.jpg: 138.14 seconds
+Chunk: the toy in red
+Think Text: The toy in red is the one the girl is holding.
+BBox: (184, 638), (328, 970)
+
+Original Model
+think: The toy in red is located on the table. It is a small figurine, likely a collectible or a toy.
+000000580781.jpg: 130.32 seconds
+BBox: (180, 638), (328, 970)
+

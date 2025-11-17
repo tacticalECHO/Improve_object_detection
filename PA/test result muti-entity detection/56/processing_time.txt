@@ -1,0 +1,8 @@
+下载.jpg: 485.16 seconds
+Chunk: the man in white
+Think Text: The instruction is asking for the bounding box of the man in white. The man in white is located in the center of the image, wearing a white jacket and black pants.
+BBox: (200, 300), (500, 898)
+Chunk: the man in red
+Think Text: The instruction is asking for the bounding box of the man in red. The man in red is located towards the right side of the image, wearing a red jacket and black pants.
+BBox: (600, 300), (800, 662)
+

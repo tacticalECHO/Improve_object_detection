@@ -1,0 +1,8 @@
+000000002782.jpg: 129.37 seconds
+Chunk: the man in black
+Think Text: The man in black is the one sitting on the grass.
+BBox: (441, 152), (562, 413)
+
+000000002782.jpg: 92.67 seconds
+BBox: (384, 152), (568, 416)
+

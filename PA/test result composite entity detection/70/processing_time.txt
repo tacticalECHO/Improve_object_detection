@@ -1,0 +1,8 @@
+000000076334.jpg: 139.82 seconds
+Chunk: the man in black
+Think Text: The man in black is the one wearing a suit and tie, and is positioned on the left side of the image.
+BBox: (0, 378), (360, 999)
+
+000000076334.jpg: 180.42 seconds
+BBox: (0, 375), (362, 999)
+

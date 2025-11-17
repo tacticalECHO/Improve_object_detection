@@ -1,0 +1,10 @@
+000000581736.jpg: 235.92 seconds
+Chunk: the blonde woman
+Think Text: The image shows a woman with long blonde hair. The bounding box should capture her from the head to the bottom of the image.
+BBox: (340, 162), (788, 996)
+
+Original Model
+think: The image shows a woman with blonde hair. The bounding box should capture the woman's position in the image.
+000000581736.jpg: 332.47 seconds
+BBox: (340, 162), (786, 996)
+

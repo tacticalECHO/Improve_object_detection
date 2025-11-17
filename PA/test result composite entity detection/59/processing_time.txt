@@ -1,0 +1,8 @@
+000000012524.jpg: 182.98 seconds
+Chunk: man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man is located in the center of the image, wearing a black coat and jeans.
+BBox: (162, 278), (518, 999)
+
+000000012524.jpg: 185.39 seconds
+BBox: (162, 278), (509, 999)
+

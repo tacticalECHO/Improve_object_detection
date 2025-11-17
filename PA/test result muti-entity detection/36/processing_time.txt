@@ -1,0 +1,8 @@
+000000006712.jpg: 519.43 seconds
+Chunk: the child in red
+Think Text: The instruction is asking for the bounding box of the child in red. The child is wearing a red shirt and is standing on the right side of the image.
+BBox: (750, 273), (852, 618)
+Chunk: the man in blue
+Think Text: The man in blue is the one wearing a blue hoodie and blue jeans. He is in the left side of the image, throwing a ball.
+BBox: (0, 214), (362, 778)
+

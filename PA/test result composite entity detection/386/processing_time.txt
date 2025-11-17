@@ -1,0 +1,10 @@
+000000581328.jpg: 232.09 seconds
+Chunk: the man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man in black is located in the center of the image, wearing a black jacket and baseball glove.
+BBox: (375, 262), (675, 997)
+
+Original Model
+think: The man in black is standing on a baseball field, wearing a baseball glove, and appears to be in the middle of a pitching motion.
+000000581328.jpg: 138.83 seconds
+BBox: (375, 256), (675, 997)
+

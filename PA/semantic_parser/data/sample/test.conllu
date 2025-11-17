@@ -1,0 +1,11 @@
+# text = point to the large cup under the table
+# BIO = O O O B-ATTR B-NP O O O B-NP
+# RELS = (3,4,8,8,under)
+1	point	point	VERB
+2	to	to	ADP
+3	the	the	DET
+4	large	large	ADJ
+5	cup	cup	NOUN
+6	under	under	ADP
+7	the	the	DET
+8	table	table	NOUN

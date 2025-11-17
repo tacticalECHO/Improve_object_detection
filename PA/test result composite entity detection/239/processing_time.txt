@@ -1,0 +1,10 @@
+000000580620.jpg: 197.01 seconds
+Chunk:  the world map 
+Think Text: The instruction is to output the bounding box of the world map in the image. The world map is located in the upper left corner of the image.
+BBox: (100, 62), (599, 374)
+
+Original Model
+think: The world map is a rectangular object, so I will look for a rectangular shape in the image. The map is likely to be on the wall, so I will search for a rectangular shape on the wall.
+000000580620.jpg: 173.67 seconds
+BBox: (190, 62), (583, 369)
+

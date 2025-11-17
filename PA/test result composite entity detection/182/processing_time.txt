@@ -1,0 +1,16 @@
+000000580277.jpg: 378.72 seconds
+Chunk: guitar
+Think Text: The object is a guitar.
+BBox: (348, 255), (530, 507)
+Chunk: the man with guitar
+Think Text: The man with the guitar is the one holding the guitar.
+BBox: (333, 72), (544, 858)
+Chunk: the man
+Think Text: The instruction is asking for the bounding box of the man. The man is located in the center of the image, holding a guitar.
+BBox: (330, 72), (540, 852)
+
+Original Model
+think: The man with the guitar is walking down the street. He is holding a guitar and appears to be playing it.
+000000580277.jpg: 120.61 seconds
+BBox: (333, 72), (544, 858)
+

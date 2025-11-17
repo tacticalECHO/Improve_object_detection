@@ -1,0 +1,10 @@
+000000580983.jpg: 236.71 seconds
+Chunk: the man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man in black is located in the center of the image, wearing a black shirt and jeans.
+BBox: (390, 13), (689, 662)
+
+Original Model
+think: The man in black is performing a skateboarding trick. He is balancing on a rail with his skateboard.
+000000580983.jpg: 116.53 seconds
+BBox: (380, 15), (690, 675)
+

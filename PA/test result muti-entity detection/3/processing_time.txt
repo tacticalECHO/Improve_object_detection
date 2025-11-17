@@ -1,0 +1,8 @@
+000000000839.jpg: 597.76 seconds
+Chunk: the man in white
+Think Text: The man in white is the one who is kicking. He is wearing white shorts, white socks, and a white shirt.
+BBox: (500, 125), (925, 860)
+Chunk: the man in blue
+Think Text: The man in blue is wearing a blue shirt, black shorts, and a red cap. He is holding a frisbee in his right hand and appears to be in a defensive stance.
+BBox: (69, 188), (460, 810)
+

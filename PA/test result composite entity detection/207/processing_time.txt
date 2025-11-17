@@ -1,0 +1,10 @@
+000000580434.jpg: 133.39 seconds
+Chunk: the woman in blue
+Think Text: The woman in blue is the one wearing a blue jacket and black pants.
+BBox: (188, 114), (422, 924)
+
+Original Model
+think: The woman in blue is wearing a blue jacket, black pants, and a black hat. She is holding ski poles in her hands and appears to be skiing.
+000000580434.jpg: 145.89 seconds
+BBox: (186, 114), (416, 924)
+

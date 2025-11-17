@@ -1,0 +1,10 @@
+000000580505.jpg: 139.61 seconds
+Chunk: the girl in white
+Think Text: The girl in white is the one wearing a white jacket.
+BBox: (18, 183), (868, 999)
+
+Original Model
+think: The girl in white is holding a bottle of wine and appears to be smelling it.
+000000580505.jpg: 111.44 seconds
+BBox: (278, 183), (870, 996)
+

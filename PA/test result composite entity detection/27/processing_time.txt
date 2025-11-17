@@ -1,0 +1,11 @@
+下载 (1).jpg: 374.56 seconds
+Chunk: the brown bear
+Think Text: The instruction is asking for the bounding box of the brown bear in the image. The bear is located in the center of the image, surrounded by rocks and a waterfall.
+BBox: (398, 306), (803, 609)
+Chunk: the brown bear
+Think Text: The instruction is asking for the bounding box of the brown bear in the image. The bear is located in the center of the image, surrounded by rocks and a waterfall.
+BBox: (398, 306), (803, 609)
+
+下载 (1).jpg: 122.48 seconds
+BBox: (398, 306), (806, 609)
+

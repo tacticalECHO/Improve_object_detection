@@ -1,0 +1,8 @@
+1.jpg: 182.76 seconds
+Chunk: the man
+Think Text: The instruction is asking for the bounding box of the man in the image. The man is located in the center of the image, wearing a yellow shirt and standing on the back of a yellow taxi.
+BBox: (398, 130), (628, 708)
+
+1.jpg: 119.47 seconds
+BBox: (375, 130), (625, 708)
+

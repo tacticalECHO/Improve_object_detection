@@ -1,0 +1,10 @@
+000000581021.jpg: 212.17 seconds
+Chunk:  the zebra 
+Think Text: The instruction is asking for the bounding box of a zebra in the image. I need to identify the zebra and then provide its coordinates.
+BBox: (100, 100), (874, 700)
+
+Original Model
+think: The instruction is asking for the bounding box of the zebra in the image. The bounding box is a rectangular area that outlines the zebra.
+000000581021.jpg: 138.83 seconds
+BBox: (192, 225), (684, 708)
+

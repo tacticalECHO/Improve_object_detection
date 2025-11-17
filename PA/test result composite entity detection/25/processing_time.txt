@@ -1,0 +1,8 @@
+000000001960.jpg: 172.64 seconds
+Chunk: the man in green
+Think Text: The man in green is the goalkeeper. He is wearing a green jersey with the number 29 and the word "LOTTE" on it.
+BBox: (114, 538), (938, 999)
+
+000000001960.jpg: 154.60 seconds
+BBox: (114, 538), (938, 999)
+

@@ -1,0 +1,10 @@
+000000581354.jpg: 173.51 seconds
+Chunk: the woman in pink
+Think Text: The woman in pink is the one riding the horse in the background.
+BBox: (498, 288), (658, 624)
+
+Original Model
+think: The woman in pink is riding a horse. The bounding box is determined by the position of the horse and the rider.
+000000581354.jpg: 131.62 seconds
+BBox: (400, 300), (799, 801)
+

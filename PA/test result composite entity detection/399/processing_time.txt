@@ -1,0 +1,10 @@
+000000581396.jpg: 280.78 seconds
+Chunk:  the black camera 
+Think Text: The instruction is to output the bounding box of the black camera. The camera is located in the center of the image, held by the man.
+BBox: (468, 519), (530, 603)
+
+Original Model
+think: The black camera is located in the man's hands.
+000000581396.jpg: 96.84 seconds
+BBox: (468, 519), (530, 606)
+

@@ -1,0 +1,9 @@
+下载 (1).jpg: 492.82 seconds
+Chunk: the green bag
+Think Text: The instruction is asking for the bounding box of the green bag. The green bag is located on the toilet tank.
+BBox: (350, 524), (412, 586)
+Chunk: the picture
+Think Text: The instruction is asking for the bounding box of the picture in the image. The picture is located on the wall above the bathtub.
+BBox: (678, 164), (782, 365)
+
+

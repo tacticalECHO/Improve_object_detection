@@ -1,0 +1,9 @@
+下载 (1).jpg: 529.03 seconds
+Chunk:  green homework 
+Think Text: The instruction is to output the bounding box of the green homework. The green homework is located at the bottom of the image, slightly to the left.
+BBox: (180, 868), (591, 997)
+Chunk:  the girl 
+Think Text: The instruction is to output the bounding box for the girl in the image. The girl is located in the left side of the image, with her head slightly tilted downwards.
+BBox: (0, 343), (484, 999)
+
+

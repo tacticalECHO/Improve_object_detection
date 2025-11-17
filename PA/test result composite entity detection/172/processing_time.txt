@@ -1,0 +1,10 @@
+000000580212.jpg: 134.95 seconds
+Chunk:  the man with glasses 
+Think Text: The man with glasses is the one holding the sandwich.
+BBox: (218, 251), (753, 996)
+
+Original Model
+think: The man is eating a sandwich.
+000000580212.jpg: 87.48 seconds
+BBox: (214, 242), (754, 996)
+

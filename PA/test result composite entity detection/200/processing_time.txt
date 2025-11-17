@@ -1,0 +1,10 @@
+000000580396.jpg: 184.60 seconds
+Chunk: the girl with green shirt
+Think Text: The instruction is asking for the bounding box of the girl with the green shirt. The girl with the green shirt is located in the background, slightly to the left of the tennis player.
+BBox: (119, 0), (320, 281)
+
+Original Model
+think: The girl with the green shirt is sitting on a chair.
+000000580396.jpg: 98.41 seconds
+BBox: (650, 125), (937, 792)
+

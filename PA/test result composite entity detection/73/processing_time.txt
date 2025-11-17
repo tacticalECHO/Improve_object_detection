@@ -1,0 +1,11 @@
+000000080406.jpg: 329.81 seconds
+Chunk: the goose
+Think Text: The instruction is asking for the bounding box of the goose in the image. The bounding box should include the entire goose, from its head to its tail.
+BBox: (184, 596), (802, 960)
+Chunk: the goose on the road
+Think Text: The instruction is asking for the bounding box of the goose on the road. The goose is located on the right side of the image, closer to the bottom.
+BBox: (180, 596), (801, 962)
+
+000000080406.jpg: 87.39 seconds
+BBox: (100, 580), (800, 960)
+

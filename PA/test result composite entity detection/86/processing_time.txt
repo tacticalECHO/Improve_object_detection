@@ -1,0 +1,8 @@
+000000017791.jpg: 94.92 seconds
+Chunk: the phone
+Think Text: The object is a phone.
+BBox: (546, 258), (741, 648)
+
+000000017791.jpg: 92.42 seconds
+BBox: (499, 262), (749, 648)
+

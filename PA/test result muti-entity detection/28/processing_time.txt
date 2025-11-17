@@ -1,0 +1,8 @@
+000000002842.jpg: 509.30 seconds
+Chunk: the girl in green
+Think Text: The instruction is asking for the bounding box of the girl in green. The girl in green is located on the left side of the image, wearing a green shirt and purple shorts.
+BBox: (158, 230), (302, 948)
+Chunk: the man in orange
+Think Text: The man in orange is the one wearing an orange shirt and black shorts. He is standing on the right side of the image.
+BBox: (683, 258), (853, 908)
+

@@ -1,0 +1,11 @@
+000000018293.jpg: 281.60 seconds
+Chunk: the blue sun
+Think Text: The instruction is asking for the bounding box of the blue sunglasses. The sunglasses are located in the bottom right corner of the image.
+BBox: (648, 640), (874, 811)
+Chunk: the blue glasses
+Think Text: The instruction is asking for the bounding box of the blue glasses. The glasses are located in the bottom right corner of the image.
+BBox: (658, 648), (878, 813)
+
+000000018293.jpg: 101.36 seconds
+BBox: (645, 638), (938, 821)
+

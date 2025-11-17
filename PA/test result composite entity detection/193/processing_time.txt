@@ -1,0 +1,10 @@
+000000580374.jpg: 159.80 seconds
+Chunk: the man with jacket
+Think Text: The instruction is asking for the bounding box of the man wearing a jacket. The man with the jacket is on the left side of the image.
+BBox: (0, 78), (500, 888)
+
+Original Model
+think: The man with the jacket is sitting on a bench, holding a glass of water, and looking at his phone.
+000000580374.jpg: 117.03 seconds
+BBox: (0, 75), (500, 876)
+

@@ -1,0 +1,10 @@
+000000580660.jpg: 249.57 seconds
+Chunk: the white boat
+Think Text: The instruction is asking for the bounding box of the white boat in the image. The boat is located in the center of the image, with its bounding box being from the left edge to the right edge, and from the top of the image to the bottom.
+BBox: (120, 462), (500, 606)
+
+Original Model
+think: The white boat is on the water, moving forward. The bounding box should capture the boat in its entirety.
+000000580660.jpg: 121.36 seconds
+BBox: (120, 450), (500, 600)
+

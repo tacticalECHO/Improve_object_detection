@@ -1,0 +1,9 @@
+000000002890.jpg: 597.08 seconds
+Chunk: the girl in black
+Think Text: The instruction is asking for the bounding box of the girl in black. The girl in black is located on the right side of the image, wearing a black jacket and pants.
+BBox: (768, 368), (860, 660)
+Chunk: the man in green
+Think Text: The man in green is the one wearing green pants and a green jacket. He is holding ski poles and appears to be skiing.
+BBox: (264, 324), (428, 858)
+
+

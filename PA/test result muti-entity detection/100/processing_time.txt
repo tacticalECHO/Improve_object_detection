@@ -1,0 +1,8 @@
+000000024489.jpg: 834.47 seconds
+Chunk:  the red bus 
+Think Text: The instruction is asking for the bounding box of the red bus. The bus is located on the right side of the image, taking up a significant portion of the frame.
+BBox: (678, 238), (999, 798)
+Chunk:  the bike 
+Think Text: The instruction is asking for the bounding box of the bike. The bike is located on the left side of the image, leaning against a wall.
+BBox: (260, 624), (362, 730)
+

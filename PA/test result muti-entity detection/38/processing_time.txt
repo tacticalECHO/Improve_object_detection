@@ -1,0 +1,8 @@
+下载.jpg: 519.98 seconds
+Chunk: the red suitcase
+Think Text: The red suitcase is located in the lower right part of the image.
+BBox: (512, 684), (656, 996)
+Chunk: blue suitcase
+Think Text: The instruction is asking for the bounding box of the blue suitcase. The suitcase is located towards the bottom left of the image.
+BBox: (198, 698), (350, 996)
+

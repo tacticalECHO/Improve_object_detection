@@ -1,0 +1,10 @@
+000000580306.jpg: 120.64 seconds
+Chunk: the glass cup
+Think Text: The glass cup is the object that the man is holding and drinking from.
+BBox: (0, 270), (477, 453)
+
+Original Model
+think: The glass cup is located in the man's hand.
+000000580306.jpg: 91.39 seconds
+BBox: (0, 270), (474, 453)
+

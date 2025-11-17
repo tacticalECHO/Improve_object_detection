@@ -1,0 +1,10 @@
+000000580923.jpg: 187.27 seconds
+Chunk: the white horse
+Think Text: The instruction is asking for the bounding box of the white horse. The white horse is located in the left part of the image.
+BBox: (0, 384), (96, 568)
+
+Original Model
+think: The instruction is asking for the bounding box of the white horse in the image. The white horse is located in the left part of the image.
+000000580923.jpg: 133.85 seconds
+BBox: (0, 384), (96, 568)
+

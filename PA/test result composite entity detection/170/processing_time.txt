@@ -1,0 +1,10 @@
+000000580191.jpg: 163.93 seconds
+Chunk: the man in green
+Think Text: The man in green is the one pushing the cart full of bananas. He is wearing a green shirt and pants, and a hat.
+BBox: (498, 251), (668, 874)
+
+Original Model
+think: The man in green is pushing a cart filled with bananas. He is wearing a green outfit and a hat.
+000000580191.jpg: 123.95 seconds
+BBox: (384, 251), (668, 874)
+

@@ -1,0 +1,5 @@
+O
+B-NP
+I-NP
+B-ATTR
+I-ATTR

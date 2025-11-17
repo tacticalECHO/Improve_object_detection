@@ -1,0 +1,8 @@
+000000088603.jpg: 366.22 seconds
+Chunk: the towel
+Think Text: The instruction is asking for the bounding box of the towel. The towel is located on the towel rack.
+BBox: (0, 268), (282, 521)
+Chunk: the TV
+Think Text: The instruction is asking for the bounding box of the TV. The TV is located on the wall, above the sink.
+BBox: (719, 56), (935, 228)
+

@@ -1,0 +1,10 @@
+000000580284.jpg: 214.15 seconds
+Chunk:  the bear on the top 
+Think Text: The instruction is asking for the bounding box of the bear on the top. The image shows a group of teddy bears arranged in a Christmas tree shape. The bear on the top is the one at the very top of the tree.
+BBox: (186, 138), (798, 684)
+
+Original Model
+think: The bear on the top is sitting.
+000000580284.jpg: 87.60 seconds
+BBox: (300, 138), (600, 324)
+

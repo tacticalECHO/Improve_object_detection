@@ -1,0 +1,10 @@
+000000580945.jpg: 168.40 seconds
+Chunk: the man in red
+Think Text: The man in red is the one drinking from the wine glass.
+BBox: (568, 168), (808, 996)
+
+Original Model
+think: The man in red is drinking from a wine glass.
+000000580945.jpg: 94.67 seconds
+BBox: (562, 168), (806, 996)
+

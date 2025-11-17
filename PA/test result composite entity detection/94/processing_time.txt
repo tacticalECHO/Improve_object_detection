@@ -1,0 +1,8 @@
+000000021029.jpg: 142.24 seconds
+Chunk:  the man in white 
+Think Text: The man in white is the one swinging the bat. He is wearing a white shirt with blue letters and a blue cap.
+BBox: (388, 264), (658, 924)
+
+000000021029.jpg: 89.98 seconds
+BBox: (390, 264), (658, 924)
+

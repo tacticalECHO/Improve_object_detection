@@ -1,0 +1,10 @@
+000000580388.jpg: 139.64 seconds
+Chunk: the man in white
+Think Text: The man in white is the one wearing a white shirt with black stripes.
+BBox: (361, 166), (566, 510)
+
+Original Model
+think: The man in white is sharpening a knife. He is wearing a white shirt with black stripes and is standing in front of a table with cutting boards and knives.
+000000580388.jpg: 150.45 seconds
+BBox: (362, 166), (562, 509)
+

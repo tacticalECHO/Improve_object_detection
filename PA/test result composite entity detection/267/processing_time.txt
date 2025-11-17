@@ -1,0 +1,10 @@
+000000580753.jpg: 192.31 seconds
+Chunk: the baby in red
+Think Text: The instruction is asking for the bounding box of the baby in red. The baby is located in the center of the image, wearing a red shirt.
+BBox: (187, 290), (852, 974)
+
+Original Model
+think: The baby is wearing a red shirt and is sitting on a couch. The baby is holding a pair of glasses and is putting them in their mouth.
+000000580753.jpg: 142.86 seconds
+BBox: (156, 48), (874, 984)
+

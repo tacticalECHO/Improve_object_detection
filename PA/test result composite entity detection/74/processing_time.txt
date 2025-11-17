@@ -1,0 +1,8 @@
+000000080824.jpg: 182.31 seconds
+Chunk: the knife
+Think Text: The instruction is asking for the bounding box of the knife. The knife is located on the table, and it has a wooden handle and a metal blade. The bounding box should include the entire knife.
+BBox: (66, 588), (922, 864)
+
+000000080824.jpg: 118.50 seconds
+BBox: (66, 588), (922, 861)
+

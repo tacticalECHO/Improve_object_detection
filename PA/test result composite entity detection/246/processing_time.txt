@@ -1,0 +1,10 @@
+000000580651.jpg: 208.06 seconds
+Chunk: the black cat
+Think Text: The instruction is asking for the bounding box of the black cat. The black cat is located on the left side of the image, standing on its hind legs and reaching up towards the television.
+BBox: (198, 316), (558, 999)
+
+Original Model
+think: The black cat is located on the left side of the image, standing on its hind legs and reaching up towards the television.
+000000580651.jpg: 125.58 seconds
+BBox: (0, 331), (557, 999)
+

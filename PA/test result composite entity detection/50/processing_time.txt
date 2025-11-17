@@ -1,0 +1,8 @@
+000000011403.jpg: 208.17 seconds
+Chunk: the silver fork
+Think Text: The instruction is asking for the bounding box of the silver fork. The fork is located on the plate, which is visible in the image. The bounding box should include the entire fork, from its handle to its tines.
+BBox: (58, 528), (710, 874)
+
+000000011403.jpg: 103.71 seconds
+BBox: (58, 528), (708, 874)
+

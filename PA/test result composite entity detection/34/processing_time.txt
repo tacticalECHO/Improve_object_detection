@@ -1,0 +1,8 @@
+000000005213.jpg: 170.56 seconds
+Chunk: the motorcycle
+Think Text: The motorcycle is the object in question. It is a red motorcycle with two exhaust pipes, a license plate, and a mirror. The bounding box should include the entire motorcycle.
+BBox: (100, 571), (375, 997)
+
+000000005213.jpg: 136.50 seconds
+BBox: (100, 578), (375, 997)
+

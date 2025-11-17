@@ -1,0 +1,10 @@
+000000580668.jpg: 145.86 seconds
+Chunk: the man in blue
+Think Text: The man in blue is the one sitting on the bench with a newspaper.
+BBox: (599, 488), (799, 978)
+
+Original Model
+think: The man in blue is sitting on a bench and appears to be reading a newspaper.
+000000580668.jpg: 108.69 seconds
+BBox: (599, 488), (799, 978)
+

@@ -1,0 +1,8 @@
+000000003862.jpg: 567.35 seconds
+Chunk:  the blue frisbee 
+Think Text: The instruction is asking for the bounding box of the blue frisbee. The frisbee is located in the center of the image, slightly towards the bottom.
+BBox: (198, 638), (670, 818)
+Chunk:  the yellow dog 
+Think Text: The instruction is asking for the bounding box of the yellow dog. The dog is located in the center of the image, lying on the grass with a blue frisbee in its mouth.
+BBox: (290, 351), (938, 996)
+

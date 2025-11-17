@@ -1,0 +1,10 @@
+000000581009.jpg: 149.73 seconds
+Chunk: the woman in pink
+Think Text: The woman in pink is the one on the skateboard.
+BBox: (274, 120), (516, 762)
+
+Original Model
+think: The woman in pink is riding a skateboard.
+000000581009.jpg: 92.66 seconds
+BBox: (378, 687), (508, 799)
+

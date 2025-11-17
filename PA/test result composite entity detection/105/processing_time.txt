@@ -1,0 +1,10 @@
+000000579813.jpg: 191.18 seconds
+Chunk: the man in black
+Think Text: The man in black is the one performing the trick on the skateboard. He is wearing a black shirt and black pants.
+BBox: (0, 0), (333, 874)
+
+Original Model
+think: The man in black is performing a skateboard trick on a ramp. He is in the air, with his skateboard under his feet.
+000000579813.jpg: 263.18 seconds
+BBox: (0, 0), (333, 874)
+

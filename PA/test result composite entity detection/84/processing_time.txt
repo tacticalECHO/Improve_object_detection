@@ -1,0 +1,8 @@
+下载.jpg: 142.59 seconds
+Chunk: the mouse
+Think Text: The mouse is a white, wireless device with a smooth, curved design. It is placed on a wooden surface.
+BBox: (370, 96), (820, 336)
+
+下载.jpg: 102.43 seconds
+BBox: (370, 96), (820, 336)
+

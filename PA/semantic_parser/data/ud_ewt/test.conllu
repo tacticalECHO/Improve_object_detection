@@ -1,0 +1,8775 @@
+# text = What if Google Morphed Into GoogleOS ?
+# BIO = O O B-NP O O B-NP O
+# RELS = 
+1	What	What	X
+2	if	if	X
+3	Google	Google	X
+4	Morphed	Morphed	X
+5	Into	Into	X
+6	GoogleOS	GoogleOS	X
+7	?	?	X
+# text = What if Google expanded on its search - engine ( and now e-mail ) wares into a full - fledged operating system ?
+# BIO = O O B-NP O O O B-NP O B-NP O O O B-NP O B-NP O B-NP I-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	What	What	X
+2	if	if	X
+3	Google	Google	X
+4	expanded	expanded	X
+5	on	on	X
+6	its	its	X
+7	search	search	X
+8	-	-	X
+9	engine	engine	X
+10	(	(	X
+11	and	and	X
+12	now	now	X
+13	e-mail	e-mail	X
+14	)	)	X
+15	wares	wares	X
+16	into	into	X
+17	a	a	X
+18	full	full	X
+19	-	-	X
+20	fledged	fledged	X
+21	operating	operating	X
+22	system	system	X
+23	?	?	X
+# text = [ via Microsoft Watch from Mary Jo Foley ]
+# BIO = O O B-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	[	[	X
+2	via	via	X
+3	Microsoft	Microsoft	X
+4	Watch	Watch	X
+5	from	from	X
+6	Mary	Mary	X
+7	Jo	Jo	X
+8	Foley	Foley	X
+9	]	]	X
+# text = ( And , by the way , is anybody else just a little nostalgic for the days when that was a good thing ? )
+# BIO = O O O O B-NP I-NP O O O O O O O O O B-NP I-NP O O O B-NP I-NP I-NP O O
+# RELS = 
+1	(	(	X
+2	And	And	X
+3	,	,	X
+4	by	by	X
+5	the	the	X
+6	way	way	X
+7	,	,	X
+8	is	is	X
+9	anybody	anybody	X
+10	else	else	X
+11	just	just	X
+12	a	a	X
+13	little	little	X
+14	nostalgic	nostalgic	X
+15	for	for	X
+16	the	the	X
+17	days	days	X
+18	when	when	X
+19	that	that	X
+20	was	was	X
+21	a	a	X
+22	good	good	X
+23	thing	thing	X
+24	?	?	X
+25	)	)	X
+# text = This BuzzMachine post argues that Google 's rush toward ubiquity might backfire -- which we 've all heard before , but it 's particularly well - put in this post .
+# BIO = B-NP I-NP I-NP O O B-NP O B-NP O B-NP O O O O O O O O O O O O O O O O O O B-NP I-NP O
+# RELS = 
+1	This	This	X
+2	BuzzMachine	BuzzMachine	X
+3	post	post	X
+4	argues	argues	X
+5	that	that	X
+6	Google	Google	X
+7	's	's	X
+8	rush	rush	X
+9	toward	toward	X
+10	ubiquity	ubiquity	X
+11	might	might	X
+12	backfire	backfire	X
+13	--	--	X
+14	which	which	X
+15	we	we	X
+16	've	've	X
+17	all	all	X
+18	heard	heard	X
+19	before	before	X
+20	,	,	X
+21	but	but	X
+22	it	it	X
+23	's	's	X
+24	particularly	particularly	X
+25	well	well	X
+26	-	-	X
+27	put	put	X
+28	in	in	X
+29	this	this	X
+30	post	post	X
+31	.	.	X
+# text = Google is a nice search engine .
+# BIO = B-NP O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	Google	Google	X
+2	is	is	X
+3	a	a	X
+4	nice	nice	X
+5	search	search	X
+6	engine	engine	X
+7	.	.	X
+# text = Does anybody use it for anything else ?
+# BIO = O O O O O O O O
+# RELS = 
+1	Does	Does	X
+2	anybody	anybody	X
+3	use	use	X
+4	it	it	X
+5	for	for	X
+6	anything	anything	X
+7	else	else	X
+8	?	?	X
+# text = They own blogger , of course .
+# BIO = O O B-NP O O B-NP O
+# RELS = 
+1	They	They	X
+2	own	own	X
+3	blogger	blogger	X
+4	,	,	X
+5	of	of	X
+6	course	course	X
+7	.	.	X
+# text = Is that a money maker ?
+# BIO = O O B-NP I-NP I-NP O
+# RELS = 
+1	Is	Is	X
+2	that	that	X
+3	a	a	X
+4	money	money	X
+5	maker	maker	X
+6	?	?	X
+# text = I 'm staying away from the stock .
+# BIO = O O O O O B-NP I-NP O
+# RELS = 
+1	I	I	X
+2	'm	'm	X
+3	staying	staying	X
+4	away	away	X
+5	from	from	X
+6	the	the	X
+7	stock	stock	X
+8	.	.	X
+# text = I doubt the very few who actually read my blog have not come across this yet , but I figured I would put it out there anyways .
+# BIO = O O O O O O O O O B-NP O O O O O O O O O O O O O O O O O O
+# RELS = 
+1	I	I	X
+2	doubt	doubt	X
+3	the	the	X
+4	very	very	X
+5	few	few	X
+6	who	who	X
+7	actually	actually	X
+8	read	read	X
+9	my	my	X
+10	blog	blog	X
+11	have	have	X
+12	not	not	X
+13	come	come	X
+14	across	across	X
+15	this	this	X
+16	yet	yet	X
+17	,	,	X
+18	but	but	X
+19	I	I	X
+20	figured	figured	X
+21	I	I	X
+22	would	would	X
+23	put	put	X
+24	it	it	X
+25	out	out	X
+26	there	there	X
+27	anyways	anyways	X
+28	.	.	X
+# text = John Donovan from Argghhh! has put out a excellent slide show on what was actually found and fought for in Fallujah .
+# BIO = B-NP I-NP O B-NP O O O B-NP I-NP I-NP I-NP O O O O O O O O O B-NP O
+# RELS = 
+1	John	John	X
+2	Donovan	Donovan	X
+3	from	from	X
+4	Argghhh!	Argghhh!	X
+5	has	has	X
+6	put	put	X
+7	out	out	X
+8	a	a	X
+9	excellent	excellent	X
+10	slide	slide	X
+11	show	show	X
+12	on	on	X
+13	what	what	X
+14	was	was	X
+15	actually	actually	X
+16	found	found	X
+17	and	and	X
+18	fought	fought	X
+19	for	for	X
+20	in	in	X
+21	Fallujah	Fallujah	X
+22	.	.	X
+# text = Click here To view it .
+# BIO = O O O O O O
+# RELS = 
+1	Click	Click	X
+2	here	here	X
+3	To	To	X
+4	view	view	X
+5	it	it	X
+6	.	.	X
+# text = He makes some good observations on a few of the pic's .
+# BIO = O O B-NP I-NP I-NP O O O O B-NP I-NP O
+# RELS = 
+1	He	He	X
+2	makes	makes	X
+3	some	some	X
+4	good	good	X
+5	observations	observations	X
+6	on	on	X
+7	a	a	X
+8	few	few	X
+9	of	of	X
+10	the	the	X
+11	pic's	pic's	X
+12	.	.	X
+# text = One of the pictures shows a flag that was found in Fallujah .
+# BIO = O O B-NP I-NP O B-NP I-NP O O O O B-NP O
+# RELS = 
+1	One	One	X
+2	of	of	X
+3	the	the	X
+4	pictures	pictures	X
+5	shows	shows	X
+6	a	a	X
+7	flag	flag	X
+8	that	that	X
+9	was	was	X
+10	found	found	X
+11	in	in	X
+12	Fallujah	Fallujah	X
+13	.	.	X
+# text = On the next two pictures he took screenshots of two beheading video's .
+# BIO = O B-NP I-NP I-NP I-NP O O B-NP O O B-NP I-NP O
+# RELS = 
+1	On	On	X
+2	the	the	X
+3	next	next	X
+4	two	two	X
+5	pictures	pictures	X
+6	he	he	X
+7	took	took	X
+8	screenshots	screenshots	X
+9	of	of	X
+10	two	two	X
+11	beheading	beheading	X
+12	video's	video's	X
+13	.	.	X
+# text = Compare the flags to the Fallujah one .
+# BIO = O B-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	Compare	Compare	X
+2	the	the	X
+3	flags	flags	X
+4	to	to	X
+5	the	the	X
+6	Fallujah	Fallujah	X
+7	one	one	X
+8	.	.	X
+# text = You have to see these slides .... they are amazing .
+# BIO = O O O O B-NP I-NP O O O O O
+# RELS = 
+1	You	You	X
+2	have	have	X
+3	to	to	X
+4	see	see	X
+5	these	these	X
+6	slides	slides	X
+7	....	....	X
+8	they	they	X
+9	are	are	X
+10	amazing	amazing	X
+11	.	.	X
+# text = This Fallujah operation my turn out to be the most important operation done by the US Military since the end of the war .
+# BIO = B-NP I-NP I-NP O O O O O B-NP I-NP I-NP I-NP O O B-NP I-NP I-NP O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	This	This	X
+2	Fallujah	Fallujah	X
+3	operation	operation	X
+4	my	my	X
+5	turn	turn	X
+6	out	out	X
+7	to	to	X
+8	be	be	X
+9	the	the	X
+10	most	most	X
+11	important	important	X
+12	operation	operation	X
+13	done	done	X
+14	by	by	X
+15	the	the	X
+16	US	US	X
+17	Military	Military	X
+18	since	since	X
+19	the	the	X
+20	end	end	X
+21	of	of	X
+22	the	the	X
+23	war	war	X
+24	.	.	X
+# text = Let me join the chorus of annoyance over Google 's new toolbar , which , as noted in the linked article , commits just about every sin an online marketer could commit , and makes up a few new ones besides .
+# BIO = O O O B-NP I-NP O B-NP O B-NP O B-NP I-NP O O O O O O B-NP I-NP I-NP O O O O B-NP I-NP I-NP I-NP I-NP O O O O O O B-NP I-NP I-NP I-NP O O
+# RELS = 
+1	Let	Let	X
+2	me	me	X
+3	join	join	X
+4	the	the	X
+5	chorus	chorus	X
+6	of	of	X
+7	annoyance	annoyance	X
+8	over	over	X
+9	Google	Google	X
+10	's	's	X
+11	new	new	X
+12	toolbar	toolbar	X
+13	,	,	X
+14	which	which	X
+15	,	,	X
+16	as	as	X
+17	noted	noted	X
+18	in	in	X
+19	the	the	X
+20	linked	linked	X
+21	article	article	X
+22	,	,	X
+23	commits	commits	X
+24	just	just	X
+25	about	about	X
+26	every	every	X
+27	sin	sin	X
+28	an	an	X
+29	online	online	X
+30	marketer	marketer	X
+31	could	could	X
+32	commit	commit	X
+33	,	,	X
+34	and	and	X
+35	makes	makes	X
+36	up	up	X
+37	a	a	X
+38	few	few	X
+39	new	new	X
+40	ones	ones	X
+41	besides	besides	X
+42	.	.	X
+# text = I 'm not fond of the Google - hates - privacy argument
+# BIO = O O O O O B-NP I-NP I-NP I-NP I-NP I-NP I-NP
+# RELS = 
+1	I	I	X
+2	'm	'm	X
+3	not	not	X
+4	fond	fond	X
+5	of	of	X
+6	the	the	X
+7	Google	Google	X
+8	-	-	X
+9	hates	hates	X
+10	-	-	X
+11	privacy	privacy	X
+12	argument	argument	X
+# text = ( You do n't need to use their site , you can opt - out of sharing your information , you do n't need to send stuff to anyone with a Gmail account , and if -- wonder of wonders -- you 're worried that you might send something to someone who would forward an excerpt to someone who would then store it on a Gmail account ... you have far , far too much time on your hands ) .
+# BIO = O O O O O O O O B-NP O O O O O O O O O B-NP O O O O O O O B-NP O O O B-NP I-NP I-NP O O O O B-NP O B-NP O O O O O O O O O O O O O O B-NP I-NP O O O O O O O O B-NP I-NP I-NP O O O O O O O B-NP I-NP O O B-NP O O
+# RELS = 
+1	(	(	X
+2	You	You	X
+3	do	do	X
+4	n't	n't	X
+5	need	need	X
+6	to	to	X
+7	use	use	X
+8	their	their	X
+9	site	site	X
+10	,	,	X
+11	you	you	X
+12	can	can	X
+13	opt	opt	X
+14	-	-	X
+15	out	out	X
+16	of	of	X
+17	sharing	sharing	X
+18	your	your	X
+19	information	information	X
+20	,	,	X
+21	you	you	X
+22	do	do	X
+23	n't	n't	X
+24	need	need	X
+25	to	to	X
+26	send	send	X
+27	stuff	stuff	X
+28	to	to	X
+29	anyone	anyone	X
+30	with	with	X
+31	a	a	X
+32	Gmail	Gmail	X
+33	account	account	X
+34	,	,	X
+35	and	and	X
+36	if	if	X
+37	--	--	X
+38	wonder	wonder	X
+39	of	of	X
+40	wonders	wonders	X
+41	--	--	X
+42	you	you	X
+43	're	're	X
+44	worried	worried	X
+45	that	that	X
+46	you	you	X
+47	might	might	X
+48	send	send	X
+49	something	something	X
+50	to	to	X
+51	someone	someone	X
+52	who	who	X
+53	would	would	X
+54	forward	forward	X
+55	an	an	X
+56	excerpt	excerpt	X
+57	to	to	X
+58	someone	someone	X
+59	who	who	X
+60	would	would	X
+61	then	then	X
+62	store	store	X
+63	it	it	X
+64	on	on	X
+65	a	a	X
+66	Gmail	Gmail	X
+67	account	account	X
+68	...	...	X
+69	you	you	X
+70	have	have	X
+71	far	far	X
+72	,	,	X
+73	far	far	X
+74	too	too	X
+75	much	much	X
+76	time	time	X
+77	on	on	X
+78	your	your	X
+79	hands	hands	X
+80	)	)	X
+81	.	.	X
+# text = However , this toolbar is really bad news .
+# BIO = O O B-NP I-NP O O B-NP I-NP O
+# RELS = 
+1	However	However	X
+2	,	,	X
+3	this	this	X
+4	toolbar	toolbar	X
+5	is	is	X
+6	really	really	X
+7	bad	bad	X
+8	news	news	X
+9	.	.	X
+# text = On the other hand , it looks pretty cool .
+# BIO = O B-NP I-NP I-NP O O O O O O
+# RELS = 
+1	On	On	X
+2	the	the	X
+3	other	other	X
+4	hand	hand	X
+5	,	,	X
+6	it	it	X
+7	looks	looks	X
+8	pretty	pretty	X
+9	cool	cool	X
+10	.	.	X
+# text = Iran says it is creating nuclear energy without wanting nuclear weapons .
+# BIO = B-NP O O O O B-NP I-NP O O B-NP I-NP O
+# RELS = 
+1	Iran	Iran	X
+2	says	says	X
+3	it	it	X
+4	is	is	X
+5	creating	creating	X
+6	nuclear	nuclear	X
+7	energy	energy	X
+8	without	without	X
+9	wanting	wanting	X
+10	nuclear	nuclear	X
+11	weapons	weapons	X
+12	.	.	X
+# text = The United States does n't believe the Iranian Government .
+# BIO = B-NP I-NP I-NP O O O B-NP I-NP I-NP O
+# RELS = 
+1	The	The	X
+2	United	United	X
+3	States	States	X
+4	does	does	X
+5	n't	n't	X
+6	believe	believe	X
+7	the	the	X
+8	Iranian	Iranian	X
+9	Government	Government	X
+10	.	.	X
+# text = One can suspect the Iranian Government .
+# BIO = O O O B-NP I-NP I-NP O
+# RELS = 
+1	One	One	X
+2	can	can	X
+3	suspect	suspect	X
+4	the	the	X
+5	Iranian	Iranian	X
+6	Government	Government	X
+7	.	.	X
+# text = But there is no proof .
+# BIO = O O O B-NP I-NP O
+# RELS = 
+1	But	But	X
+2	there	there	X
+3	is	is	X
+4	no	no	X
+5	proof	proof	X
+6	.	.	X
+# text = I read an Article in Time magazine accusing the Iranian Government of being willing to start a nuclear war and I sympathise with the Article .
+# BIO = O O B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP O O O O O B-NP I-NP I-NP O O O O B-NP I-NP O
+# RELS = 
+1	I	I	X
+2	read	read	X
+3	an	an	X
+4	Article	Article	X
+5	in	in	X
+6	Time	Time	X
+7	magazine	magazine	X
+8	accusing	accusing	X
+9	the	the	X
+10	Iranian	Iranian	X
+11	Government	Government	X
+12	of	of	X
+13	being	being	X
+14	willing	willing	X
+15	to	to	X
+16	start	start	X
+17	a	a	X
+18	nuclear	nuclear	X
+19	war	war	X
+20	and	and	X
+21	I	I	X
+22	sympathise	sympathise	X
+23	with	with	X
+24	the	the	X
+25	Article	Article	X
+26	.	.	X
+# text = They are certainly being nasty to the United Nations Security Council in connection with the anti-proliferation treaty .
+# BIO = O O O O O O B-NP I-NP I-NP I-NP I-NP O B-NP O B-NP I-NP I-NP O
+# RELS = 
+1	They	They	X
+2	are	are	X
+3	certainly	certainly	X
+4	being	being	X
+5	nasty	nasty	X
+6	to	to	X
+7	the	the	X
+8	United	United	X
+9	Nations	Nations	X
+10	Security	Security	X
+11	Council	Council	X
+12	in	in	X
+13	connection	connection	X
+14	with	with	X
+15	the	the	X
+16	anti-proliferation	anti-proliferation	X
+17	treaty	treaty	X
+18	.	.	X
+# text = The President has also said he would like to see Israel wiped off the map which he could n't even begin to try without nuclear weapons .
+# BIO = B-NP I-NP O O O O O O O O B-NP O O B-NP I-NP O O O O O O O O O B-NP I-NP O
+# RELS = 
+1	The	The	X
+2	President	President	X
+3	has	has	X
+4	also	also	X
+5	said	said	X
+6	he	he	X
+7	would	would	X
+8	like	like	X
+9	to	to	X
+10	see	see	X
+11	Israel	Israel	X
+12	wiped	wiped	X
+13	off	off	X
+14	the	the	X
+15	map	map	X
+16	which	which	X
+17	he	he	X
+18	could	could	X
+19	n't	n't	X
+20	even	even	X
+21	begin	begin	X
+22	to	to	X
+23	try	try	X
+24	without	without	X
+25	nuclear	nuclear	X
+26	weapons	weapons	X
+27	.	.	X
+# text = But he has insisted that he wants nuclear power for peaceful purposes .
+# BIO = O O O O O O O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	But	But	X
+2	he	he	X
+3	has	has	X
+4	insisted	insisted	X
+5	that	that	X
+6	he	he	X
+7	wants	wants	X
+8	nuclear	nuclear	X
+9	power	power	X
+10	for	for	X
+11	peaceful	peaceful	X
+12	purposes	purposes	X
+13	.	.	X
+# text = Many people want to use diplomacy with Iran rather than military pressure .
+# BIO = B-NP I-NP O O O B-NP O B-NP O O B-NP I-NP O
+# RELS = 
+1	Many	Many	X
+2	people	people	X
+3	want	want	X
+4	to	to	X
+5	use	use	X
+6	diplomacy	diplomacy	X
+7	with	with	X
+8	Iran	Iran	X
+9	rather	rather	X
+10	than	than	X
+11	military	military	X
+12	pressure	pressure	X
+13	.	.	X
+# text = But will diplomacy work ?
+# BIO = O O B-NP O O
+# RELS = 
+1	But	But	X
+2	will	will	X
+3	diplomacy	diplomacy	X
+4	work	work	X
+5	?	?	X
+# text = And can anyone use military pressure without proof ?
+# BIO = O O O O B-NP I-NP O B-NP O
+# RELS = 
+1	And	And	X
+2	can	can	X
+3	anyone	anyone	X
+4	use	use	X
+5	military	military	X
+6	pressure	pressure	X
+7	without	without	X
+8	proof	proof	X
+9	?	?	X
+# text = One reader pointed out that the President watched the Americans in the embassy when they took them hostage .
+# BIO = O B-NP O O O B-NP I-NP O B-NP I-NP O B-NP I-NP O O O O B-NP O
+# RELS = 
+1	One	One	X
+2	reader	reader	X
+3	pointed	pointed	X
+4	out	out	X
+5	that	that	X
+6	the	the	X
+7	President	President	X
+8	watched	watched	X
+9	the	the	X
+10	Americans	Americans	X
+11	in	in	X
+12	the	the	X
+13	embassy	embassy	X
+14	when	when	X
+15	they	they	X
+16	took	took	X
+17	them	them	X
+18	hostage	hostage	X
+19	.	.	X
+# text = He has denied this .
+# BIO = O O O O O
+# RELS = 
+1	He	He	X
+2	has	has	X
+3	denied	denied	X
+4	this	this	X
+5	.	.	X
+# text = We do n't have to believe him .
+# BIO = O O O O O O O O
+# RELS = 
+1	We	We	X
+2	do	do	X
+3	n't	n't	X
+4	have	have	X
+5	to	to	X
+6	believe	believe	X
+7	him	him	X
+8	.	.	X
+# text = But we ca n't prove it .
+# BIO = O O O O O O O
+# RELS = 
+1	But	But	X
+2	we	we	X
+3	ca	ca	X
+4	n't	n't	X
+5	prove	prove	X
+6	it	it	X
+7	.	.	X
+# text = It does seem that Iranians frequently make statements and then hide behind lack of proof .
+# BIO = O O O O B-NP O O B-NP O O O O B-NP O B-NP O
+# RELS = 
+1	It	It	X
+2	does	does	X
+3	seem	seem	X
+4	that	that	X
+5	Iranians	Iranians	X
+6	frequently	frequently	X
+7	make	make	X
+8	statements	statements	X
+9	and	and	X
+10	then	then	X
+11	hide	hide	X
+12	behind	behind	X
+13	lack	lack	X
+14	of	of	X
+15	proof	proof	X
+16	.	.	X
+# text = Angry crowds chanted anti-American slogans in the western city of Falluja ( pop. 256,000 ) as the security police killed in a friendly fire incident by US troops were buried on Saturday .
+# BIO = B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP O B-NP O B-NP O O O B-NP I-NP I-NP O O B-NP I-NP I-NP I-NP O B-NP I-NP O O O B-NP O
+# RELS = 
+1	Angry	Angry	X
+2	crowds	crowds	X
+3	chanted	chanted	X
+4	anti-American	anti-American	X
+5	slogans	slogans	X
+6	in	in	X
+7	the	the	X
+8	western	western	X
+9	city	city	X
+10	of	of	X
+11	Falluja	Falluja	X
+12	(	(	X
+13	pop.	pop.	X
+14	256,000	256,000	X
+15	)	)	X
+16	as	as	X
+17	the	the	X
+18	security	security	X
+19	police	police	X
+20	killed	killed	X
+21	in	in	X
+22	a	a	X
+23	friendly	friendly	X
+24	fire	fire	X
+25	incident	incident	X
+26	by	by	X
+27	US	US	X
+28	troops	troops	X
+29	were	were	X
+30	buried	buried	X
+31	on	on	X
+32	Saturday	Saturday	X
+33	.	.	X
+# text = Reuters reported that " Sunni clerics in the town issued a ' Declaration by the people of Fallujah ' condemning the deaths of the security guards and police , announcing three days of mourning , and calling for a general strike today . "
+# BIO = B-NP O O O B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP O B-NP I-NP O B-NP O O B-NP I-NP O B-NP I-NP I-NP O B-NP O O O B-NP O B-NP O O O O B-NP I-NP I-NP I-NP O O
+# RELS = 
+1	Reuters	Reuters	X
+2	reported	reported	X
+3	that	that	X
+4	"	"	X
+5	Sunni	Sunni	X
+6	clerics	clerics	X
+7	in	in	X
+8	the	the	X
+9	town	town	X
+10	issued	issued	X
+11	a	a	X
+12	'	'	X
+13	Declaration	Declaration	X
+14	by	by	X
+15	the	the	X
+16	people	people	X
+17	of	of	X
+18	Fallujah	Fallujah	X
+19	'	'	X
+20	condemning	condemning	X
+21	the	the	X
+22	deaths	deaths	X
+23	of	of	X
+24	the	the	X
+25	security	security	X
+26	guards	guards	X
+27	and	and	X
+28	police	police	X
+29	,	,	X
+30	announcing	announcing	X
+31	three	three	X
+32	days	days	X
+33	of	of	X
+34	mourning	mourning	X
+35	,	,	X
+36	and	and	X
+37	calling	calling	X
+38	for	for	X
+39	a	a	X
+40	general	general	X
+41	strike	strike	X
+42	today	today	X
+43	.	.	X
+44	"	"	X
+# text = It read , " The people of Fallujah condemn the massacre which was committed on Friday against people dedicated to the protection of Fallujah .
+# BIO = O O O O B-NP I-NP O B-NP O B-NP I-NP O O O O B-NP O B-NP I-NP O B-NP I-NP O B-NP O
+# RELS = 
+1	It	It	X
+2	read	read	X
+3	,	,	X
+4	"	"	X
+5	The	The	X
+6	people	people	X
+7	of	of	X
+8	Fallujah	Fallujah	X
+9	condemn	condemn	X
+10	the	the	X
+11	massacre	massacre	X
+12	which	which	X
+13	was	was	X
+14	committed	committed	X
+15	on	on	X
+16	Friday	Friday	X
+17	against	against	X
+18	people	people	X
+19	dedicated	dedicated	X
+20	to	to	X
+21	the	the	X
+22	protection	protection	X
+23	of	of	X
+24	Fallujah	Fallujah	X
+25	.	.	X
+# text = Let aggressive ( American ) leaders and soldiers know that we are capable of protecting the city 's security and safety , and ask them to lift their hands from the city . "
+# BIO = O B-NP I-NP I-NP I-NP I-NP O B-NP O O O O O O O B-NP I-NP O B-NP O B-NP O O O O O O O B-NP O B-NP I-NP O O
+# RELS = 
+1	Let	Let	X
+2	aggressive	aggressive	X
+3	(	(	X
+4	American	American	X
+5	)	)	X
+6	leaders	leaders	X
+7	and	and	X
+8	soldiers	soldiers	X
+9	know	know	X
+10	that	that	X
+11	we	we	X
+12	are	are	X
+13	capable	capable	X
+14	of	of	X
+15	protecting	protecting	X
+16	the	the	X
+17	city	city	X
+18	's	's	X
+19	security	security	X
+20	and	and	X
+21	safety	safety	X
+22	,	,	X
+23	and	and	X
+24	ask	ask	X
+25	them	them	X
+26	to	to	X
+27	lift	lift	X
+28	their	their	X
+29	hands	hands	X
+30	from	from	X
+31	the	the	X
+32	city	city	X
+33	.	.	X
+34	"	"	X
+# text = The clerics demanded talks with local US commanders .
+# BIO = B-NP I-NP O B-NP O B-NP I-NP I-NP O
+# RELS = 
+1	The	The	X
+2	clerics	clerics	X
+3	demanded	demanded	X
+4	talks	talks	X
+5	with	with	X
+6	local	local	X
+7	US	US	X
+8	commanders	commanders	X
+9	.	.	X
+# text = Falluja has long been roiled by tense relations with the US soldiers there , since local Sunnis either remain committed to Arab nationalism or have become Sunni fundamentalists or even radicals .
+# BIO = B-NP O O O O O B-NP I-NP O B-NP I-NP I-NP O O O B-NP I-NP O O O O B-NP I-NP O O O B-NP I-NP O O B-NP O
+# RELS = 
+1	Falluja	Falluja	X
+2	has	has	X
+3	long	long	X
+4	been	been	X
+5	roiled	roiled	X
+6	by	by	X
+7	tense	tense	X
+8	relations	relations	X
+9	with	with	X
+10	the	the	X
+11	US	US	X
+12	soldiers	soldiers	X
+13	there	there	X
+14	,	,	X
+15	since	since	X
+16	local	local	X
+17	Sunnis	Sunnis	X
+18	either	either	X
+19	remain	remain	X
+20	committed	committed	X
+21	to	to	X
+22	Arab	Arab	X
+23	nationalism	nationalism	X
+24	or	or	X
+25	have	have	X
+26	become	become	X
+27	Sunni	Sunni	X
+28	fundamentalists	fundamentalists	X
+29	or	or	X
+30	even	even	X
+31	radicals	radicals	X
+32	.	.	X
+# text = Cities such as Falluja received special treatment from Saddam and enjoyed a disproportionate share of the country 's wealth and power .
+# BIO = B-NP O O B-NP O B-NP I-NP O B-NP O O B-NP I-NP I-NP O B-NP I-NP O B-NP O B-NP O
+# RELS = 
+1	Cities	Cities	X
+2	such	such	X
+3	as	as	X
+4	Falluja	Falluja	X
+5	received	received	X
+6	special	special	X
+7	treatment	treatment	X
+8	from	from	X
+9	Saddam	Saddam	X
+10	and	and	X
+11	enjoyed	enjoyed	X
+12	a	a	X
+13	disproportionate	disproportionate	X
+14	share	share	X
+15	of	of	X
+16	the	the	X
+17	country	country	X
+18	's	's	X
+19	wealth	wealth	X
+20	and	and	X
+21	power	power	X
+22	.	.	X
+# text = They know that the American advent implies for them a demotion , and an elevation of the Shiites and Kurds , and they refuse to go quietly .
+# BIO = O O O B-NP I-NP I-NP O O O B-NP I-NP O O B-NP I-NP O B-NP I-NP O B-NP O O O O O O O O
+# RELS = 
+1	They	They	X
+2	know	know	X
+3	that	that	X
+4	the	the	X
+5	American	American	X
+6	advent	advent	X
+7	implies	implies	X
+8	for	for	X
+9	them	them	X
+10	a	a	X
+11	demotion	demotion	X
+12	,	,	X
+13	and	and	X
+14	an	an	X
+15	elevation	elevation	X
+16	of	of	X
+17	the	the	X
+18	Shiites	Shiites	X
+19	and	and	X
+20	Kurds	Kurds	X
+21	,	,	X
+22	and	and	X
+23	they	they	X
+24	refuse	refuse	X
+25	to	to	X
+26	go	go	X
+27	quietly	quietly	X
+28	.	.	X
+# text = See http://www.gulf-news.com/Articles/news.asp?ArticleID=97508
+# BIO = O B-NP
+# RELS = 
+1	See	See	X
+2	http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	X
+# text = The Supreme Court announced its ruling today in Hamdan v. Rumsfeld divided along idelogical lines with John Roberts abstaining due to his involvement at the D.C. Circuit level and Anthony Kennedy joining the liberals in a 5 - 3 decision that is 185 pages long .
+# BIO = B-NP I-NP I-NP O O B-NP I-NP O B-NP O B-NP O O B-NP I-NP O B-NP I-NP O O O O B-NP O B-NP I-NP I-NP I-NP O B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP I-NP I-NP O O O B-NP O O
+# RELS = 
+1	The	The	X
+2	Supreme	Supreme	X
+3	Court	Court	X
+4	announced	announced	X
+5	its	its	X
+6	ruling	ruling	X
+7	today	today	X
+8	in	in	X
+9	Hamdan	Hamdan	X
+10	v.	v.	X
+11	Rumsfeld	Rumsfeld	X
+12	divided	divided	X
+13	along	along	X
+14	idelogical	idelogical	X
+15	lines	lines	X
+16	with	with	X
+17	John	John	X
+18	Roberts	Roberts	X
+19	abstaining	abstaining	X
+20	due	due	X
+21	to	to	X
+22	his	his	X
+23	involvement	involvement	X
+24	at	at	X
+25	the	the	X
+26	D.C.	D.C.	X
+27	Circuit	Circuit	X
+28	level	level	X
+29	and	and	X
+30	Anthony	Anthony	X
+31	Kennedy	Kennedy	X
+32	joining	joining	X
+33	the	the	X
+34	liberals	liberals	X
+35	in	in	X
+36	a	a	X
+37	5	5	X
+38	-	-	X
+39	3	3	X
+40	decision	decision	X
+41	that	that	X
+42	is	is	X
+43	185	185	X
+44	pages	pages	X
+45	long	long	X
+46	.	.	X
+# text = The actual vote is a little confusing .
+# BIO = B-NP I-NP I-NP O O O O O
+# RELS = 
+1	The	The	X
+2	actual	actual	X
+3	vote	vote	X
+4	is	is	X
+5	a	a	X
+6	little	little	X
+7	confusing	confusing	X
+8	.	.	X
+# text = Stay with me now : John Paul STEVENS delivered the opinion of the Court with respect to Parts I through IV , VI through VI - D - iii , VI - D - v , and VII , in which KENNEDY , SOUTER , GINSBURG , and BREYER joined , and an opinion with respect to Parts V and VI - D - iv , in which SOUTER , GINSBURG , and BREYER joined .
+# BIO = O O O O O B-NP I-NP I-NP O B-NP I-NP O B-NP I-NP O B-NP O B-NP O O O O O O O O B-NP O O O O O B-NP O O O O O O O O B-NP O B-NP O B-NP O O B-NP O O O B-NP I-NP O B-NP O B-NP O O O O B-NP O O O O O B-NP O B-NP O O B-NP O O
+# RELS = 
+1	Stay	Stay	X
+2	with	with	X
+3	me	me	X
+4	now	now	X
+5	:	:	X
+6	John	John	X
+7	Paul	Paul	X
+8	STEVENS	STEVENS	X
+9	delivered	delivered	X
+10	the	the	X
+11	opinion	opinion	X
+12	of	of	X
+13	the	the	X
+14	Court	Court	X
+15	with	with	X
+16	respect	respect	X
+17	to	to	X
+18	Parts	Parts	X
+19	I	I	X
+20	through	through	X
+21	IV	IV	X
+22	,	,	X
+23	VI	VI	X
+24	through	through	X
+25	VI	VI	X
+26	-	-	X
+27	D	D	X
+28	-	-	X
+29	iii	iii	X
+30	,	,	X
+31	VI	VI	X
+32	-	-	X
+33	D	D	X
+34	-	-	X
+35	v	v	X
+36	,	,	X
+37	and	and	X
+38	VII	VII	X
+39	,	,	X
+40	in	in	X
+41	which	which	X
+42	KENNEDY	KENNEDY	X
+43	,	,	X
+44	SOUTER	SOUTER	X
+45	,	,	X
+46	GINSBURG	GINSBURG	X
+47	,	,	X
+48	and	and	X
+49	BREYER	BREYER	X
+50	joined	joined	X
+51	,	,	X
+52	and	and	X
+53	an	an	X
+54	opinion	opinion	X
+55	with	with	X
+56	respect	respect	X
+57	to	to	X
+58	Parts	Parts	X
+59	V	V	X
+60	and	and	X
+61	VI	VI	X
+62	-	-	X
+63	D	D	X
+64	-	-	X
+65	iv	iv	X
+66	,	,	X
+67	in	in	X
+68	which	which	X
+69	SOUTER	SOUTER	X
+70	,	,	X
+71	GINSBURG	GINSBURG	X
+72	,	,	X
+73	and	and	X
+74	BREYER	BREYER	X
+75	joined	joined	X
+76	.	.	X
+# text = BREYER filed a concurring opinion , in which KENNEDY , SOUTER , and GINSBURG joined .
+# BIO = B-NP O B-NP I-NP I-NP O O O B-NP O B-NP O O B-NP O O
+# RELS = 
+1	BREYER	BREYER	X
+2	filed	filed	X
+3	a	a	X
+4	concurring	concurring	X
+5	opinion	opinion	X
+6	,	,	X
+7	in	in	X
+8	which	which	X
+9	KENNEDY	KENNEDY	X
+10	,	,	X
+11	SOUTER	SOUTER	X
+12	,	,	X
+13	and	and	X
+14	GINSBURG	GINSBURG	X
+15	joined	joined	X
+16	.	.	X
+# text = KENNEDY filed an opinion concurring in part , in which SOUTER , GINSBURG , and BREYER joined as to Parts I and II .
+# BIO = B-NP O B-NP I-NP O O B-NP O O O B-NP O B-NP O O B-NP O O O B-NP O O O O
+# RELS = 
+1	KENNEDY	KENNEDY	X
+2	filed	filed	X
+3	an	an	X
+4	opinion	opinion	X
+5	concurring	concurring	X
+6	in	in	X
+7	part	part	X
+8	,	,	X
+9	in	in	X
+10	which	which	X
+11	SOUTER	SOUTER	X
+12	,	,	X
+13	GINSBURG	GINSBURG	X
+14	,	,	X
+15	and	and	X
+16	BREYER	BREYER	X
+17	joined	joined	X
+18	as	as	X
+19	to	to	X
+20	Parts	Parts	X
+21	I	I	X
+22	and	and	X
+23	II	II	X
+24	.	.	X
+# text = SCALIA filed a dissenting opinion , in which THOMAS and ALITO joined .
+# BIO = B-NP O B-NP I-NP I-NP O O O B-NP O B-NP O O
+# RELS = 
+1	SCALIA	SCALIA	X
+2	filed	filed	X
+3	a	a	X
+4	dissenting	dissenting	X
+5	opinion	opinion	X
+6	,	,	X
+7	in	in	X
+8	which	which	X
+9	THOMAS	THOMAS	X
+10	and	and	X
+11	ALITO	ALITO	X
+12	joined	joined	X
+13	.	.	X
+# text = THOMAS filed a dissenting opinion , in which SCALIA joined , and in which ALITO joined as to all but Parts I , II - C - 1 , and III - B - 2 .
+# BIO = B-NP O B-NP I-NP I-NP O O O B-NP O O O O O B-NP O O O O O B-NP O O O O B-NP O O O O O O B-NP O O O
+# RELS = 
+1	THOMAS	THOMAS	X
+2	filed	filed	X
+3	a	a	X
+4	dissenting	dissenting	X
+5	opinion	opinion	X
+6	,	,	X
+7	in	in	X
+8	which	which	X
+9	SCALIA	SCALIA	X
+10	joined	joined	X
+11	,	,	X
+12	and	and	X
+13	in	in	X
+14	which	which	X
+15	ALITO	ALITO	X
+16	joined	joined	X
+17	as	as	X
+18	to	to	X
+19	all	all	X
+20	but	but	X
+21	Parts	Parts	X
+22	I	I	X
+23	,	,	X
+24	II	II	X
+25	-	-	X
+26	C	C	X
+27	-	-	X
+28	1	1	X
+29	,	,	X
+30	and	and	X
+31	III	III	X
+32	-	-	X
+33	B	B	X
+34	-	-	X
+35	2	2	X
+36	.	.	X
+# text = ALITO filed a dissenting opinion , in which SCALIA and THOMAS joined as to Parts I through III .
+# BIO = B-NP O B-NP I-NP I-NP O O O B-NP O B-NP O O O B-NP O O O O
+# RELS = 
+1	ALITO	ALITO	X
+2	filed	filed	X
+3	a	a	X
+4	dissenting	dissenting	X
+5	opinion	opinion	X
+6	,	,	X
+7	in	in	X
+8	which	which	X
+9	SCALIA	SCALIA	X
+10	and	and	X
+11	THOMAS	THOMAS	X
+12	joined	joined	X
+13	as	as	X
+14	to	to	X
+15	Parts	Parts	X
+16	I	I	X
+17	through	through	X
+18	III	III	X
+19	.	.	X
+# text = It will take me a little while to read the whole thing , but I rarely agree with a John Paul Stevens opinion .
+# BIO = O O O O B-NP I-NP I-NP O O B-NP I-NP I-NP O O O O O O B-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	It	It	X
+2	will	will	X
+3	take	take	X
+4	me	me	X
+5	a	a	X
+6	little	little	X
+7	while	while	X
+8	to	to	X
+9	read	read	X
+10	the	the	X
+11	whole	whole	X
+12	thing	thing	X
+13	,	,	X
+14	but	but	X
+15	I	I	X
+16	rarely	rarely	X
+17	agree	agree	X
+18	with	with	X
+19	a	a	X
+20	John	John	X
+21	Paul	Paul	X
+22	Stevens	Stevens	X
+23	opinion	opinion	X
+24	.	.	X
+# text = I 'll post highlights from the opinion and dissents when I 'm finished .
+# BIO = O O O B-NP O B-NP I-NP O B-NP O O O O O
+# RELS = 
+1	I	I	X
+2	'll	'll	X
+3	post	post	X
+4	highlights	highlights	X
+5	from	from	X
+6	the	the	X
+7	opinion	opinion	X
+8	and	and	X
+9	dissents	dissents	X
+10	when	when	X
+11	I	I	X
+12	'm	'm	X
+13	finished	finished	X
+14	.	.	X
+# text = Important news such as President Bush 's miniscule calibrations on his marriage amendment / anti-gay ( update : he 's not against gays in the bedroom , just at the altar , where of course their relationships should not only be frowned upon but should be constitutionally excluded ) has pushed Sudan not just off the front pages , or the A section , but out of the NY Times and Washington Post completely .
+# BIO = B-NP I-NP O O B-NP I-NP O B-NP I-NP O O B-NP I-NP O O O B-NP O O O O O B-NP O B-NP I-NP O O O B-NP I-NP O O O B-NP O B-NP O O O O O O O O O O O O O O B-NP O O O B-NP I-NP I-NP O O B-NP I-NP I-NP O O O O B-NP I-NP I-NP O B-NP I-NP O O
+# RELS = (7,8,11,12,on)
+1	Important	Important	X
+2	news	news	X
+3	such	such	X
+4	as	as	X
+5	President	President	X
+6	Bush	Bush	X
+7	's	's	X
+8	miniscule	miniscule	X
+9	calibrations	calibrations	X
+10	on	on	X
+11	his	his	X
+12	marriage	marriage	X
+13	amendment	amendment	X
+14	/	/	X
+15	anti-gay	anti-gay	X
+16	(	(	X
+17	update	update	X
+18	:	:	X
+19	he	he	X
+20	's	's	X
+21	not	not	X
+22	against	against	X
+23	gays	gays	X
+24	in	in	X
+25	the	the	X
+26	bedroom	bedroom	X
+27	,	,	X
+28	just	just	X
+29	at	at	X
+30	the	the	X
+31	altar	altar	X
+32	,	,	X
+33	where	where	X
+34	of	of	X
+35	course	course	X
+36	their	their	X
+37	relationships	relationships	X
+38	should	should	X
+39	not	not	X
+40	only	only	X
+41	be	be	X
+42	frowned	frowned	X
+43	upon	upon	X
+44	but	but	X
+45	should	should	X
+46	be	be	X
+47	constitutionally	constitutionally	X
+48	excluded	excluded	X
+49	)	)	X
+50	has	has	X
+51	pushed	pushed	X
+52	Sudan	Sudan	X
+53	not	not	X
+54	just	just	X
+55	off	off	X
+56	the	the	X
+57	front	front	X
+58	pages	pages	X
+59	,	,	X
+60	or	or	X
+61	the	the	X
+62	A	A	X
+63	section	section	X
+64	,	,	X
+65	but	but	X
+66	out	out	X
+67	of	of	X
+68	the	the	X
+69	NY	NY	X
+70	Times	Times	X
+71	and	and	X
+72	Washington	Washington	X
+73	Post	Post	X
+74	completely	completely	X
+75	.	.	X
+# text = I had to go to the BBC for this report .
+# BIO = O O O O O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	I	I	X
+2	had	had	X
+3	to	to	X
+4	go	go	X
+5	to	to	X
+6	the	the	X
+7	BBC	BBC	X
+8	for	for	X
+9	this	this	X
+10	report	report	X
+11	.	.	X
+# text = It 's symptomatic , I suppose , of our fast - paced , 24 hour news - cycle lives , that the biggest short - term humanitarian crisis in the world would quickly be eclipsed , once our Secretary of State was finished with his whirlwind tour , from the newspapers .
+# BIO = O O O O O O O O O O O B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O O B-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP I-NP O O O O O O O B-NP O B-NP O O O O B-NP I-NP O O B-NP I-NP O
+# RELS = 
+1	It	It	X
+2	's	's	X
+3	symptomatic	symptomatic	X
+4	,	,	X
+5	I	I	X
+6	suppose	suppose	X
+7	,	,	X
+8	of	of	X
+9	our	our	X
+10	fast	fast	X
+11	-	-	X
+12	paced	paced	X
+13	,	,	X
+14	24	24	X
+15	hour	hour	X
+16	news	news	X
+17	-	-	X
+18	cycle	cycle	X
+19	lives	lives	X
+20	,	,	X
+21	that	that	X
+22	the	the	X
+23	biggest	biggest	X
+24	short	short	X
+25	-	-	X
+26	term	term	X
+27	humanitarian	humanitarian	X
+28	crisis	crisis	X
+29	in	in	X
+30	the	the	X
+31	world	world	X
+32	would	would	X
+33	quickly	quickly	X
+34	be	be	X
+35	eclipsed	eclipsed	X
+36	,	,	X
+37	once	once	X
+38	our	our	X
+39	Secretary	Secretary	X
+40	of	of	X
+41	State	State	X
+42	was	was	X
+43	finished	finished	X
+44	with	with	X
+45	his	his	X
+46	whirlwind	whirlwind	X
+47	tour	tour	X
+48	,	,	X
+49	from	from	X
+50	the	the	X
+51	newspapers	newspapers	X
+52	.	.	X
+# text = It 's just disappointing .
+# BIO = O O O O O
+# RELS = 
+1	It	It	X
+2	's	's	X
+3	just	just	X
+4	disappointing	disappointing	X
+5	.	.	X
+# text = Most troubling , however , is the fact that the political will to end the crisis expressed a few short weeks ago seems to have ebbed .
+# BIO = O O O O O O B-NP I-NP O B-NP I-NP I-NP O O B-NP I-NP O B-NP I-NP I-NP I-NP O O O O O O
+# RELS = 
+1	Most	Most	X
+2	troubling	troubling	X
+3	,	,	X
+4	however	however	X
+5	,	,	X
+6	is	is	X
+7	the	the	X
+8	fact	fact	X
+9	that	that	X
+10	the	the	X
+11	political	political	X
+12	will	will	X
+13	to	to	X
+14	end	end	X
+15	the	the	X
+16	crisis	crisis	X
+17	expressed	expressed	X
+18	a	a	X
+19	few	few	X
+20	short	short	X
+21	weeks	weeks	X
+22	ago	ago	X
+23	seems	seems	X
+24	to	to	X
+25	have	have	X
+26	ebbed	ebbed	X
+27	.	.	X
+# text = At that time , UN Secretary General Kofi Annan demanded steps be taken to end the ethnic violence in Darfur within 48 hours .
+# BIO = O B-NP I-NP O B-NP I-NP I-NP I-NP I-NP O B-NP O O O O B-NP I-NP I-NP O B-NP O O B-NP O
+# RELS = 
+1	At	At	X
+2	that	that	X
+3	time	time	X
+4	,	,	X
+5	UN	UN	X
+6	Secretary	Secretary	X
+7	General	General	X
+8	Kofi	Kofi	X
+9	Annan	Annan	X
+10	demanded	demanded	X
+11	steps	steps	X
+12	be	be	X
+13	taken	taken	X
+14	to	to	X
+15	end	end	X
+16	the	the	X
+17	ethnic	ethnic	X
+18	violence	violence	X
+19	in	in	X
+20	Darfur	Darfur	X
+21	within	within	X
+22	48	48	X
+23	hours	hours	X
+24	.	.	X
+# text = Two weeks later , and the violence continues .
+# BIO = O B-NP O O O B-NP I-NP O O
+# RELS = 
+1	Two	Two	X
+2	weeks	weeks	X
+3	later	later	X
+4	,	,	X
+5	and	and	X
+6	the	the	X
+7	violence	violence	X
+8	continues	continues	X
+9	.	.	X
+# text = The African Union is clearly not up to the task of keeping the peace , pledging 300 troops to an area that will need 15,000 , according to analysts .
+# BIO = B-NP I-NP I-NP O O O O O B-NP I-NP O O B-NP I-NP O O O B-NP O B-NP I-NP O O O O O O O B-NP O
+# RELS = 
+1	The	The	X
+2	African	African	X
+3	Union	Union	X
+4	is	is	X
+5	clearly	clearly	X
+6	not	not	X
+7	up	up	X
+8	to	to	X
+9	the	the	X
+10	task	task	X
+11	of	of	X
+12	keeping	keeping	X
+13	the	the	X
+14	peace	peace	X
+15	,	,	X
+16	pledging	pledging	X
+17	300	300	X
+18	troops	troops	X
+19	to	to	X
+20	an	an	X
+21	area	area	X
+22	that	that	X
+23	will	will	X
+24	need	need	X
+25	15,000	15,000	X
+26	,	,	X
+27	according	according	X
+28	to	to	X
+29	analysts	analysts	X
+30	.	.	X
+# text = And international donors have given only half of the relief aid that Darfur needs , according to the local UN officials .
+# BIO = O B-NP I-NP O O O B-NP O B-NP I-NP I-NP O B-NP O O O O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	And	And	X
+2	international	international	X
+3	donors	donors	X
+4	have	have	X
+5	given	given	X
+6	only	only	X
+7	half	half	X
+8	of	of	X
+9	the	the	X
+10	relief	relief	X
+11	aid	aid	X
+12	that	that	X
+13	Darfur	Darfur	X
+14	needs	needs	X
+15	,	,	X
+16	according	according	X
+17	to	to	X
+18	the	the	X
+19	local	local	X
+20	UN	UN	X
+21	officials	officials	X
+22	.	.	X
+# text = So hear we are , two weeks later , after that dazzling PR display two weeks ago by Powell and Annan , and the situation on the ground in Darfur appears basically unchanged .
+# BIO = O O O O O O B-NP O O O B-NP I-NP I-NP I-NP O B-NP O O B-NP O B-NP O O B-NP I-NP O B-NP I-NP O B-NP O O O O
+# RELS = (23,24,26,27,on)
+1	So	So	X
+2	hear	hear	X
+3	we	we	X
+4	are	are	X
+5	,	,	X
+6	two	two	X
+7	weeks	weeks	X
+8	later	later	X
+9	,	,	X
+10	after	after	X
+11	that	that	X
+12	dazzling	dazzling	X
+13	PR	PR	X
+14	display	display	X
+15	two	two	X
+16	weeks	weeks	X
+17	ago	ago	X
+18	by	by	X
+19	Powell	Powell	X
+20	and	and	X
+21	Annan	Annan	X
+22	,	,	X
+23	and	and	X
+24	the	the	X
+25	situation	situation	X
+26	on	on	X
+27	the	the	X
+28	ground	ground	X
+29	in	in	X
+30	Darfur	Darfur	X
+31	appears	appears	X
+32	basically	basically	X
+33	unchanged	unchanged	X
+34	.	.	X
+# text = Warren Buffett is giving away 85 % of his wealth , mostly to the Bill and Melinda Gates Foundation .
+# BIO = B-NP I-NP O O O O O O O B-NP O O O B-NP I-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	Warren	Warren	X
+2	Buffett	Buffett	X
+3	is	is	X
+4	giving	giving	X
+5	away	away	X
+6	85	85	X
+7	%	%	X
+8	of	of	X
+9	his	his	X
+10	wealth	wealth	X
+11	,	,	X
+12	mostly	mostly	X
+13	to	to	X
+14	the	the	X
+15	Bill	Bill	X
+16	and	and	X
+17	Melinda	Melinda	X
+18	Gates	Gates	X
+19	Foundation	Foundation	X
+20	.	.	X
+# text = It 's a move that really worries me ; Buffett 's usual justification for keeping most of his money was that he was still compounding the value of his fortune at a pretty high rate , so any gifts now would mean significantly less money for the foundation later .
+# BIO = O O B-NP I-NP O O O O O B-NP O B-NP I-NP O O O O O B-NP O O O O O O B-NP I-NP O O B-NP O B-NP I-NP I-NP I-NP O O B-NP I-NP O O O O B-NP I-NP O B-NP I-NP O O
+# RELS = 
+1	It	It	X
+2	's	's	X
+3	a	a	X
+4	move	move	X
+5	that	that	X
+6	really	really	X
+7	worries	worries	X
+8	me	me	X
+9	;	;	X
+10	Buffett	Buffett	X
+11	's	's	X
+12	usual	usual	X
+13	justification	justification	X
+14	for	for	X
+15	keeping	keeping	X
+16	most	most	X
+17	of	of	X
+18	his	his	X
+19	money	money	X
+20	was	was	X
+21	that	that	X
+22	he	he	X
+23	was	was	X
+24	still	still	X
+25	compounding	compounding	X
+26	the	the	X
+27	value	value	X
+28	of	of	X
+29	his	his	X
+30	fortune	fortune	X
+31	at	at	X
+32	a	a	X
+33	pretty	pretty	X
+34	high	high	X
+35	rate	rate	X
+36	,	,	X
+37	so	so	X
+38	any	any	X
+39	gifts	gifts	X
+40	now	now	X
+41	would	would	X
+42	mean	mean	X
+43	significantly	significantly	X
+44	less	less	X
+45	money	money	X
+46	for	for	X
+47	the	the	X
+48	foundation	foundation	X
+49	later	later	X
+50	.	.	X
+# text = It 's a little hard to parse , but at this point his ostensible view is that the Gateses are very good money - redistributors , and he wants them to have the money as soon as possible .
+# BIO = O O O O O O O O O O B-NP I-NP O B-NP I-NP O O B-NP I-NP O O B-NP I-NP I-NP I-NP O O O O O O O B-NP I-NP O O O O O
+# RELS = 
+1	It	It	X
+2	's	's	X
+3	a	a	X
+4	little	little	X
+5	hard	hard	X
+6	to	to	X
+7	parse	parse	X
+8	,	,	X
+9	but	but	X
+10	at	at	X
+11	this	this	X
+12	point	point	X
+13	his	his	X
+14	ostensible	ostensible	X
+15	view	view	X
+16	is	is	X
+17	that	that	X
+18	the	the	X
+19	Gateses	Gateses	X
+20	are	are	X
+21	very	very	X
+22	good	good	X
+23	money	money	X
+24	-	-	X
+25	redistributors	redistributors	X
+26	,	,	X
+27	and	and	X
+28	he	he	X
+29	wants	wants	X
+30	them	them	X
+31	to	to	X
+32	have	have	X
+33	the	the	X
+34	money	money	X
+35	as	as	X
+36	soon	soon	X
+37	as	as	X
+38	possible	possible	X
+39	.	.	X
+# text = Which essentially sounds like he 's worried that Bill or Melinda are going to die soon .
+# BIO = O O O O O O O O B-NP O B-NP O O O O O O
+# RELS = 
+1	Which	Which	X
+2	essentially	essentially	X
+3	sounds	sounds	X
+4	like	like	X
+5	he	he	X
+6	's	's	X
+7	worried	worried	X
+8	that	that	X
+9	Bill	Bill	X
+10	or	or	X
+11	Melinda	Melinda	X
+12	are	are	X
+13	going	going	X
+14	to	to	X
+15	die	die	X
+16	soon	soon	X
+17	.	.	X
+# text = I assume his actual reason is that he 's worried that Berkshire Hathaway just ca n't grow quickly enough to justify his usual charity policy .
+# BIO = O O O B-NP I-NP O O O O O O B-NP I-NP O O O O O O O O O B-NP I-NP I-NP O
+# RELS = 
+1	I	I	X
+2	assume	assume	X
+3	his	his	X
+4	actual	actual	X
+5	reason	reason	X
+6	is	is	X
+7	that	that	X
+8	he	he	X
+9	's	's	X
+10	worried	worried	X
+11	that	that	X
+12	Berkshire	Berkshire	X
+13	Hathaway	Hathaway	X
+14	just	just	X
+15	ca	ca	X
+16	n't	n't	X
+17	grow	grow	X
+18	quickly	quickly	X
+19	enough	enough	X
+20	to	to	X
+21	justify	justify	X
+22	his	his	X
+23	usual	usual	X
+24	charity	charity	X
+25	policy	policy	X
+26	.	.	X
+# text = I 'm not sure how the market will react .
+# BIO = O O O O O B-NP I-NP O O O
+# RELS = 
+1	I	I	X
+2	'm	'm	X
+3	not	not	X
+4	sure	sure	X
+5	how	how	X
+6	the	the	X
+7	market	market	X
+8	will	will	X
+9	react	react	X
+10	.	.	X
+# text = It does n't change the company 's intrinsic worth , and as the article notes , the company might be added to a major index once the shares get more liquid .
+# BIO = O O O O B-NP I-NP O B-NP I-NP O O O B-NP I-NP O O B-NP I-NP O O O O B-NP I-NP I-NP O B-NP I-NP O O O O
+# RELS = 
+1	It	It	X
+2	does	does	X
+3	n't	n't	X
+4	change	change	X
+5	the	the	X
+6	company	company	X
+7	's	's	X
+8	intrinsic	intrinsic	X
+9	worth	worth	X
+10	,	,	X
+11	and	and	X
+12	as	as	X
+13	the	the	X
+14	article	article	X
+15	notes	notes	X
+16	,	,	X
+17	the	the	X
+18	company	company	X
+19	might	might	X
+20	be	be	X
+21	added	added	X
+22	to	to	X
+23	a	a	X
+24	major	major	X
+25	index	index	X
+26	once	once	X
+27	the	the	X
+28	shares	shares	X
+29	get	get	X
+30	more	more	X
+31	liquid	liquid	X
+32	.	.	X
+# text = On the other hand , this is essentially a statement that the company is overpriced from the guy who knows it best -- and happens to be the best investor of the last century .
+# BIO = O B-NP I-NP I-NP O O O O B-NP I-NP O B-NP I-NP O O O B-NP I-NP O O O O O O O O O B-NP I-NP I-NP O B-NP I-NP I-NP O
+# RELS = (8,9,1,3,on)
+1	On	On	X
+2	the	the	X
+3	other	other	X
+4	hand	hand	X
+5	,	,	X
+6	this	this	X
+7	is	is	X
+8	essentially	essentially	X
+9	a	a	X
+10	statement	statement	X
+11	that	that	X
+12	the	the	X
+13	company	company	X
+14	is	is	X
+15	overpriced	overpriced	X
+16	from	from	X
+17	the	the	X
+18	guy	guy	X
+19	who	who	X
+20	knows	knows	X
+21	it	it	X
+22	best	best	X
+23	--	--	X
+24	and	and	X
+25	happens	happens	X
+26	to	to	X
+27	be	be	X
+28	the	the	X
+29	best	best	X
+30	investor	investor	X
+31	of	of	X
+32	the	the	X
+33	last	last	X
+34	century	century	X
+35	.	.	X
+# text = em ... no ... the Gates foundation mainly invests in medical research and education , that means donating now adds a tremendous value compared to donating in ten years .
+# BIO = O O O O B-NP I-NP I-NP O O O B-NP I-NP O B-NP O O O O O O B-NP I-NP I-NP O O O O O B-NP O
+# RELS = 
+1	em	em	X
+2	...	...	X
+3	no	no	X
+4	...	...	X
+5	the	the	X
+6	Gates	Gates	X
+7	foundation	foundation	X
+8	mainly	mainly	X
+9	invests	invests	X
+10	in	in	X
+11	medical	medical	X
+12	research	research	X
+13	and	and	X
+14	education	education	X
+15	,	,	X
+16	that	that	X
+17	means	means	X
+18	donating	donating	X
+19	now	now	X
+20	adds	adds	X
+21	a	a	X
+22	tremendous	tremendous	X
+23	value	value	X
+24	compared	compared	X
+25	to	to	X
+26	donating	donating	X
+27	in	in	X
+28	ten	ten	X
+29	years	years	X
+30	.	.	X
+# text = Because the 10.000.000 people dying from malaria will otherwise be dead .
+# BIO = O B-NP I-NP I-NP O O B-NP O O O O O
+# RELS = 
+1	Because	Because	X
+2	the	the	X
+3	10.000.000	10.000.000	X
+4	people	people	X
+5	dying	dying	X
+6	from	from	X
+7	malaria	malaria	X
+8	will	will	X
+9	otherwise	otherwise	X
+10	be	be	X
+11	dead	dead	X
+12	.	.	X
+# text = i.e .
+# BIO = O O
+# RELS = 
+1	i.e	i.e	X
+2	.	.	X
+# text = He 's not giving 85 % away , he 's giving a number of shares each year that decrease in number at the rate of 5 % a year ( until gone ? ) .
+# BIO = O O O O O O O O O O O B-NP I-NP O B-NP I-NP I-NP O O O B-NP O B-NP I-NP O O O B-NP I-NP O O O O O O
+# RELS = 
+1	He	He	X
+2	's	's	X
+3	not	not	X
+4	giving	giving	X
+5	85	85	X
+6	%	%	X
+7	away	away	X
+8	,	,	X
+9	he	he	X
+10	's	's	X
+11	giving	giving	X
+12	a	a	X
+13	number	number	X
+14	of	of	X
+15	shares	shares	X
+16	each	each	X
+17	year	year	X
+18	that	that	X
+19	decrease	decrease	X
+20	in	in	X
+21	number	number	X
+22	at	at	X
+23	the	the	X
+24	rate	rate	X
+25	of	of	X
+26	5	5	X
+27	%	%	X
+28	a	a	X
+29	year	year	X
+30	(	(	X
+31	until	until	X
+32	gone	gone	X
+33	?	?	X
+34	)	)	X
+35	.	.	X
+# text = He mentions his wife 's death having an effect on him .
+# BIO = O O O B-NP O B-NP O B-NP I-NP O O O
+# RELS = 
+1	He	He	X
+2	mentions	mentions	X
+3	his	his	X
+4	wife	wife	X
+5	's	's	X
+6	death	death	X
+7	having	having	X
+8	an	an	X
+9	effect	effect	X
+10	on	on	X
+11	him	him	X
+12	.	.	X
+# text = It sounds pretty rational that he 's saying that Bill and Melinda are at a prime spot , so starting the money hose now is a good idea , but Buffet is still keeping most of his donation inside of Berkshire where it will compound .
+# BIO = O O O O O O O O O B-NP O B-NP O O B-NP I-NP I-NP O O O B-NP I-NP I-NP O O B-NP I-NP I-NP O O B-NP O O O O O O B-NP O O B-NP O O O O O
+# RELS = 
+1	It	It	X
+2	sounds	sounds	X
+3	pretty	pretty	X
+4	rational	rational	X
+5	that	that	X
+6	he	he	X
+7	's	's	X
+8	saying	saying	X
+9	that	that	X
+10	Bill	Bill	X
+11	and	and	X
+12	Melinda	Melinda	X
+13	are	are	X
+14	at	at	X
+15	a	a	X
+16	prime	prime	X
+17	spot	spot	X
+18	,	,	X
+19	so	so	X
+20	starting	starting	X
+21	the	the	X
+22	money	money	X
+23	hose	hose	X
+24	now	now	X
+25	is	is	X
+26	a	a	X
+27	good	good	X
+28	idea	idea	X
+29	,	,	X
+30	but	but	X
+31	Buffet	Buffet	X
+32	is	is	X
+33	still	still	X
+34	keeping	keeping	X
+35	most	most	X
+36	of	of	X
+37	his	his	X
+38	donation	donation	X
+39	inside	inside	X
+40	of	of	X
+41	Berkshire	Berkshire	X
+42	where	where	X
+43	it	it	X
+44	will	will	X
+45	compound	compound	X
+46	.	.	X
+# text = Bill over at The Fourth Rail has an excellent essay on how the MSM and the UN , even the leftist countries in Europe , are basically accepting terrorist organizations as legitimate forms of a political party :
+# BIO = B-NP O O B-NP I-NP I-NP O B-NP I-NP I-NP O O B-NP I-NP O B-NP I-NP O O B-NP I-NP I-NP O B-NP O O O O B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	Bill	Bill	X
+2	over	over	X
+3	at	at	X
+4	The	The	X
+5	Fourth	Fourth	X
+6	Rail	Rail	X
+7	has	has	X
+8	an	an	X
+9	excellent	excellent	X
+10	essay	essay	X
+11	on	on	X
+12	how	how	X
+13	the	the	X
+14	MSM	MSM	X
+15	and	and	X
+16	the	the	X
+17	UN	UN	X
+18	,	,	X
+19	even	even	X
+20	the	the	X
+21	leftist	leftist	X
+22	countries	countries	X
+23	in	in	X
+24	Europe	Europe	X
+25	,	,	X
+26	are	are	X
+27	basically	basically	X
+28	accepting	accepting	X
+29	terrorist	terrorist	X
+30	organizations	organizations	X
+31	as	as	X
+32	legitimate	legitimate	X
+33	forms	forms	X
+34	of	of	X
+35	a	a	X
+36	political	political	X
+37	party	party	X
+38	:	:	X
+# text = On the same day Palestinians protest in support of Hezbollah and Syria , the terrorist group Hamas has indicated it will participate in the scheduled upcoming Parliamentary elections .
+# BIO = O B-NP I-NP I-NP I-NP O O B-NP O B-NP O B-NP O B-NP I-NP I-NP I-NP O O O O O O B-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	On	On	X
+2	the	the	X
+3	same	same	X
+4	day	day	X
+5	Palestinians	Palestinians	X
+6	protest	protest	X
+7	in	in	X
+8	support	support	X
+9	of	of	X
+10	Hezbollah	Hezbollah	X
+11	and	and	X
+12	Syria	Syria	X
+13	,	,	X
+14	the	the	X
+15	terrorist	terrorist	X
+16	group	group	X
+17	Hamas	Hamas	X
+18	has	has	X
+19	indicated	indicated	X
+20	it	it	X
+21	will	will	X
+22	participate	participate	X
+23	in	in	X
+24	the	the	X
+25	scheduled	scheduled	X
+26	upcoming	upcoming	X
+27	Parliamentary	Parliamentary	X
+28	elections	elections	X
+29	.	.	X
+# text = To the north in Lebanon , there is serious debate within Hezbollah about entering the Lebanese political process in light of Syria 's promised withdrawal .
+# BIO = O B-NP I-NP O B-NP O O O B-NP I-NP O B-NP O O B-NP I-NP I-NP I-NP O B-NP O B-NP O B-NP I-NP O
+# RELS = 
+1	To	To	X
+2	the	the	X
+3	north	north	X
+4	in	in	X
+5	Lebanon	Lebanon	X
+6	,	,	X
+7	there	there	X
+8	is	is	X
+9	serious	serious	X
+10	debate	debate	X
+11	within	within	X
+12	Hezbollah	Hezbollah	X
+13	about	about	X
+14	entering	entering	X
+15	the	the	X
+16	Lebanese	Lebanese	X
+17	political	political	X
+18	process	process	X
+19	in	in	X
+20	light	light	X
+21	of	of	X
+22	Syria	Syria	X
+23	's	's	X
+24	promised	promised	X
+25	withdrawal	withdrawal	X
+26	.	.	X
+# text = Syria has agreed to withdraw under the conditions set forth in UNSC Resolution 1559 , which has already begun .
+# BIO = B-NP O O O O O B-NP I-NP O O O B-NP I-NP O O O O O O O
+# RELS = 
+1	Syria	Syria	X
+2	has	has	X
+3	agreed	agreed	X
+4	to	to	X
+5	withdraw	withdraw	X
+6	under	under	X
+7	the	the	X
+8	conditions	conditions	X
+9	set	set	X
+10	forth	forth	X
+11	in	in	X
+12	UNSC	UNSC	X
+13	Resolution	Resolution	X
+14	1559	1559	X
+15	,	,	X
+16	which	which	X
+17	has	has	X
+18	already	already	X
+19	begun	begun	X
+20	.	.	X
+# text = UN Secretary - General Kofi Annan has indicated it is time to " recognize Hezbollah " after easily being duped by " the message on the placards they are using " .
+# BIO = B-NP I-NP I-NP I-NP I-NP I-NP O O O O B-NP O O O B-NP O O O O O O O B-NP I-NP O B-NP I-NP O O O O O
+# RELS = (22,23,25,26,on)
+1	UN	UN	X
+2	Secretary	Secretary	X
+3	-	-	X
+4	General	General	X
+5	Kofi	Kofi	X
+6	Annan	Annan	X
+7	has	has	X
+8	indicated	indicated	X
+9	it	it	X
+10	is	is	X
+11	time	time	X
+12	to	to	X
+13	"	"	X
+14	recognize	recognize	X
+15	Hezbollah	Hezbollah	X
+16	"	"	X
+17	after	after	X
+18	easily	easily	X
+19	being	being	X
+20	duped	duped	X
+21	by	by	X
+22	"	"	X
+23	the	the	X
+24	message	message	X
+25	on	on	X
+26	the	the	X
+27	placards	placards	X
+28	they	they	X
+29	are	are	X
+30	using	using	X
+31	"	"	X
+32	.	.	X
+# text = This acceptance of blatantly terrorist groups as legitimate freedom movements is a cancerous tumor on the United Nations and the media .
+# BIO = B-NP I-NP O O B-NP I-NP O B-NP I-NP I-NP O B-NP I-NP I-NP O B-NP I-NP I-NP O B-NP I-NP O
+# RELS = (11,13,15,17,on)
+1	This	This	X
+2	acceptance	acceptance	X
+3	of	of	X
+4	blatantly	blatantly	X
+5	terrorist	terrorist	X
+6	groups	groups	X
+7	as	as	X
+8	legitimate	legitimate	X
+9	freedom	freedom	X
+10	movements	movements	X
+11	is	is	X
+12	a	a	X
+13	cancerous	cancerous	X
+14	tumor	tumor	X
+15	on	on	X
+16	the	the	X
+17	United	United	X
+18	Nations	Nations	X
+19	and	and	X
+20	the	the	X
+21	media	media	X
+22	.	.	X
+# text = Over three years after 9-11 , the United Nations , despite their attempts to project strength in fighting terrorism , still can not properly define the word " terrorist " , waffling over the issue of whether the murder of innocent civilians are terrorist acts .
+# BIO = O O B-NP O O O B-NP I-NP I-NP O O O B-NP O O B-NP O O B-NP O O O O O O B-NP I-NP O B-NP O O O O B-NP I-NP O O B-NP I-NP O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	Over	Over	X
+2	three	three	X
+3	years	years	X
+4	after	after	X
+5	9-11	9-11	X
+6	,	,	X
+7	the	the	X
+8	United	United	X
+9	Nations	Nations	X
+10	,	,	X
+11	despite	despite	X
+12	their	their	X
+13	attempts	attempts	X
+14	to	to	X
+15	project	project	X
+16	strength	strength	X
+17	in	in	X
+18	fighting	fighting	X
+19	terrorism	terrorism	X
+20	,	,	X
+21	still	still	X
+22	can	can	X
+23	not	not	X
+24	properly	properly	X
+25	define	define	X
+26	the	the	X
+27	word	word	X
+28	"	"	X
+29	terrorist	terrorist	X
+30	"	"	X
+31	,	,	X
+32	waffling	waffling	X
+33	over	over	X
+34	the	the	X
+35	issue	issue	X
+36	of	of	X
+37	whether	whether	X
+38	the	the	X
+39	murder	murder	X
+40	of	of	X
+41	innocent	innocent	X
+42	civilians	civilians	X
+43	are	are	X
+44	terrorist	terrorist	X
+45	acts	acts	X
+46	.	.	X
+# text = The media routinely obscures the lines between terrorism and legitimate resistance , as the recent article by Daniel Okrent of The New York Times demonstrates .
+# BIO = B-NP I-NP O O B-NP I-NP O B-NP O B-NP I-NP O O B-NP I-NP I-NP O B-NP I-NP O B-NP I-NP I-NP I-NP O O
+# RELS = 
+1	The	The	X
+2	media	media	X
+3	routinely	routinely	X
+4	obscures	obscures	X
+5	the	the	X
+6	lines	lines	X
+7	between	between	X
+8	terrorism	terrorism	X
+9	and	and	X
+10	legitimate	legitimate	X
+11	resistance	resistance	X
+12	,	,	X
+13	as	as	X
+14	the	the	X
+15	recent	recent	X
+16	article	article	X
+17	by	by	X
+18	Daniel	Daniel	X
+19	Okrent	Okrent	X
+20	of	of	X
+21	The	The	X
+22	New	New	X
+23	York	York	X
+24	Times	Times	X
+25	demonstrates	demonstrates	X
+26	.	.	X
+# text = ...
+# BIO = O
+# RELS = 
+1	...	...	X
+# text = The decision to sidestep the obvious to satisfy the need to avoid confrontation does not bring peace , but only delays the eventual conflict as the predators of Hamas and Hezbollah exploit the inherent weakness of the internationals and the media .
+# BIO = B-NP I-NP O O O O O O B-NP I-NP O O B-NP O O O B-NP O O O O B-NP I-NP I-NP O B-NP I-NP O B-NP O B-NP O B-NP I-NP I-NP O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	The	The	X
+2	decision	decision	X
+3	to	to	X
+4	sidestep	sidestep	X
+5	the	the	X
+6	obvious	obvious	X
+7	to	to	X
+8	satisfy	satisfy	X
+9	the	the	X
+10	need	need	X
+11	to	to	X
+12	avoid	avoid	X
+13	confrontation	confrontation	X
+14	does	does	X
+15	not	not	X
+16	bring	bring	X
+17	peace	peace	X
+18	,	,	X
+19	but	but	X
+20	only	only	X
+21	delays	delays	X
+22	the	the	X
+23	eventual	eventual	X
+24	conflict	conflict	X
+25	as	as	X
+26	the	the	X
+27	predators	predators	X
+28	of	of	X
+29	Hamas	Hamas	X
+30	and	and	X
+31	Hezbollah	Hezbollah	X
+32	exploit	exploit	X
+33	the	the	X
+34	inherent	inherent	X
+35	weakness	weakness	X
+36	of	of	X
+37	the	the	X
+38	internationals	internationals	X
+39	and	and	X
+40	the	the	X
+41	media	media	X
+42	.	.	X
+# text = I 've been fuming over this fact for a few weeks now , ever since some organizations and governments suggested we need to accept the fact that Hezbollah will get involved in running Lebanon .
+# BIO = O O O O O B-NP I-NP O B-NP I-NP I-NP O O O O B-NP I-NP O B-NP O O O O O B-NP I-NP O B-NP O O O O O B-NP O
+# RELS = 
+1	I	I	X
+2	've	've	X
+3	been	been	X
+4	fuming	fuming	X
+5	over	over	X
+6	this	this	X
+7	fact	fact	X
+8	for	for	X
+9	a	a	X
+10	few	few	X
+11	weeks	weeks	X
+12	now	now	X
+13	,	,	X
+14	ever	ever	X
+15	since	since	X
+16	some	some	X
+17	organizations	organizations	X
+18	and	and	X
+19	governments	governments	X
+20	suggested	suggested	X
+21	we	we	X
+22	need	need	X
+23	to	to	X
+24	accept	accept	X
+25	the	the	X
+26	fact	fact	X
+27	that	that	X
+28	Hezbollah	Hezbollah	X
+29	will	will	X
+30	get	get	X
+31	involved	involved	X
+32	in	in	X
+33	running	running	X
+34	Lebanon	Lebanon	X
+35	.	.	X
+# text = Wtf is this ?
+# BIO = O O O O
+# RELS = 
+1	Wtf	Wtf	X
+2	is	is	X
+3	this	this	X
+4	?	?	X
+# text = This is a terrorist organization plain and simple .
+# BIO = O O B-NP I-NP I-NP O O O O
+# RELS = 
+1	This	This	X
+2	is	is	X
+3	a	a	X
+4	terrorist	terrorist	X
+5	organization	organization	X
+6	plain	plain	X
+7	and	and	X
+8	simple	simple	X
+9	.	.	X
+# text = This is the organization that bombed our Marine barracks in 1983 , took Americans hostage throughout the 80's and now they should be considered a legitimate organization ?
+# BIO = O O B-NP I-NP O O O B-NP I-NP O O O O B-NP I-NP O B-NP I-NP O O O O O O B-NP I-NP I-NP O
+# RELS = 
+1	This	This	X
+2	is	is	X
+3	the	the	X
+4	organization	organization	X
+5	that	that	X
+6	bombed	bombed	X
+7	our	our	X
+8	Marine	Marine	X
+9	barracks	barracks	X
+10	in	in	X
+11	1983	1983	X
+12	,	,	X
+13	took	took	X
+14	Americans	Americans	X
+15	hostage	hostage	X
+16	throughout	throughout	X
+17	the	the	X
+18	80's	80's	X
+19	and	and	X
+20	now	now	X
+21	they	they	X
+22	should	should	X
+23	be	be	X
+24	considered	considered	X
+25	a	a	X
+26	legitimate	legitimate	X
+27	organization	organization	X
+28	?	?	X
+# text = This is just another reason to never trust the MSM , and certainly not the Europeans .
+# BIO = O O O B-NP I-NP O O O B-NP I-NP O O O O B-NP I-NP O
+# RELS = 
+1	This	This	X
+2	is	is	X
+3	just	just	X
+4	another	another	X
+5	reason	reason	X
+6	to	to	X
+7	never	never	X
+8	trust	trust	X
+9	the	the	X
+10	MSM	MSM	X
+11	,	,	X
+12	and	and	X
+13	certainly	certainly	X
+14	not	not	X
+15	the	the	X
+16	Europeans	Europeans	X
+17	.	.	X
+# text = The Iraqi Islamic Party lead by Muhsin Abdul Hamid , has been among the few Sunni Muslim groups willing to cooperate ( even if rather lukewarmly ) with the Americans .
+# BIO = B-NP I-NP I-NP I-NP O O B-NP I-NP I-NP O O O O B-NP I-NP I-NP I-NP I-NP I-NP O O O O O O O O O B-NP I-NP O
+# RELS = 
+1	The	The	X
+2	Iraqi	Iraqi	X
+3	Islamic	Islamic	X
+4	Party	Party	X
+5	lead	lead	X
+6	by	by	X
+7	Muhsin	Muhsin	X
+8	Abdul	Abdul	X
+9	Hamid	Hamid	X
+10	,	,	X
+11	has	has	X
+12	been	been	X
+13	among	among	X
+14	the	the	X
+15	few	few	X
+16	Sunni	Sunni	X
+17	Muslim	Muslim	X
+18	groups	groups	X
+19	willing	willing	X
+20	to	to	X
+21	cooperate	cooperate	X
+22	(	(	X
+23	even	even	X
+24	if	if	X
+25	rather	rather	X
+26	lukewarmly	lukewarmly	X
+27	)	)	X
+28	with	with	X
+29	the	the	X
+30	Americans	Americans	X
+31	.	.	X
+# text = It is now threatening to pull out of the Allawi caretaker government .
+# BIO = O O O O O O O O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	It	It	X
+2	is	is	X
+3	now	now	X
+4	threatening	threatening	X
+5	to	to	X
+6	pull	pull	X
+7	out	out	X
+8	of	of	X
+9	the	the	X
+10	Allawi	Allawi	X
+11	caretaker	caretaker	X
+12	government	government	X
+13	.	.	X
+# text = The IIP had also been the main force urging Sunni Arabs to participate in the elections scheduled for January , and had been opposed in this stance by the Association of Muslim Scholars .
+# BIO = B-NP I-NP O O O B-NP I-NP I-NP O B-NP I-NP O O O B-NP I-NP O O B-NP O O O O O O B-NP I-NP O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	The	The	X
+2	IIP	IIP	X
+3	had	had	X
+4	also	also	X
+5	been	been	X
+6	the	the	X
+7	main	main	X
+8	force	force	X
+9	urging	urging	X
+10	Sunni	Sunni	X
+11	Arabs	Arabs	X
+12	to	to	X
+13	participate	participate	X
+14	in	in	X
+15	the	the	X
+16	elections	elections	X
+17	scheduled	scheduled	X
+18	for	for	X
+19	January	January	X
+20	,	,	X
+21	and	and	X
+22	had	had	X
+23	been	been	X
+24	opposed	opposed	X
+25	in	in	X
+26	this	this	X
+27	stance	stance	X
+28	by	by	X
+29	the	the	X
+30	Association	Association	X
+31	of	of	X
+32	Muslim	Muslim	X
+33	Scholars	Scholars	X
+34	.	.	X
+# text = That the Iraqi Islamic Party is now contemplating leaving the Allawi government raises the question of whether a mass Sunni Arab boycott of the elections is in the offing , thus fatally weakening the legitimacy of any new government .
+# BIO = O B-NP I-NP I-NP I-NP O O O O B-NP I-NP I-NP O B-NP I-NP O O B-NP I-NP I-NP I-NP I-NP O B-NP I-NP O O B-NP I-NP O O O O B-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	That	That	X
+2	the	the	X
+3	Iraqi	Iraqi	X
+4	Islamic	Islamic	X
+5	Party	Party	X
+6	is	is	X
+7	now	now	X
+8	contemplating	contemplating	X
+9	leaving	leaving	X
+10	the	the	X
+11	Allawi	Allawi	X
+12	government	government	X
+13	raises	raises	X
+14	the	the	X
+15	question	question	X
+16	of	of	X
+17	whether	whether	X
+18	a	a	X
+19	mass	mass	X
+20	Sunni	Sunni	X
+21	Arab	Arab	X
+22	boycott	boycott	X
+23	of	of	X
+24	the	the	X
+25	elections	elections	X
+26	is	is	X
+27	in	in	X
+28	the	the	X
+29	offing	offing	X
+30	,	,	X
+31	thus	thus	X
+32	fatally	fatally	X
+33	weakening	weakening	X
+34	the	the	X
+35	legitimacy	legitimacy	X
+36	of	of	X
+37	any	any	X
+38	new	new	X
+39	government	government	X
+40	.	.	X
+# text = Az - Zaman : The Association of Muslim Scholars forbade Iraqis to participate in the attack on Fallujah with the Americans .
+# BIO = B-NP O B-NP O B-NP I-NP O B-NP I-NP O B-NP O O O B-NP I-NP O B-NP O B-NP I-NP O
+# RELS = (14,15,17,17,on)
+1	Az	Az	X
+2	-	-	X
+3	Zaman	Zaman	X
+4	:	:	X
+5	The	The	X
+6	Association	Association	X
+7	of	of	X
+8	Muslim	Muslim	X
+9	Scholars	Scholars	X
+10	forbade	forbade	X
+11	Iraqis	Iraqis	X
+12	to	to	X
+13	participate	participate	X
+14	in	in	X
+15	the	the	X
+16	attack	attack	X
+17	on	on	X
+18	Fallujah	Fallujah	X
+19	with	with	X
+20	the	the	X
+21	Americans	Americans	X
+22	.	.	X
+# text = In a communique , the AMS said that for Iraqis to take part with " raiding forces " in the assault on a city , the population of which is Muslim ( such as Fallujah ) would be considered the most mortal of mortal sins .
+# BIO = O B-NP I-NP O B-NP I-NP O O O B-NP O O B-NP O O B-NP I-NP O O B-NP I-NP O B-NP I-NP O B-NP I-NP O O O O O O O B-NP O O O O O O O O B-NP I-NP O
+# RELS = (19,20,22,23,on)
+1	In	In	X
+2	a	a	X
+3	communique	communique	X
+4	,	,	X
+5	the	the	X
+6	AMS	AMS	X
+7	said	said	X
+8	that	that	X
+9	for	for	X
+10	Iraqis	Iraqis	X
+11	to	to	X
+12	take	take	X
+13	part	part	X
+14	with	with	X
+15	"	"	X
+16	raiding	raiding	X
+17	forces	forces	X
+18	"	"	X
+19	in	in	X
+20	the	the	X
+21	assault	assault	X
+22	on	on	X
+23	a	a	X
+24	city	city	X
+25	,	,	X
+26	the	the	X
+27	population	population	X
+28	of	of	X
+29	which	which	X
+30	is	is	X
+31	Muslim	Muslim	X
+32	(	(	X
+33	such	such	X
+34	as	as	X
+35	Fallujah	Fallujah	X
+36	)	)	X
+37	would	would	X
+38	be	be	X
+39	considered	considered	X
+40	the	the	X
+41	most	most	X
+42	mortal	mortal	X
+43	of	of	X
+44	mortal	mortal	X
+45	sins	sins	X
+46	.	.	X
+# text = The Sunni AMS told Iraqis , " You sinned when you participated with occupation forces in the assault on Najaf , and beware lest you repeat this same sin in Fallujah .
+# BIO = B-NP I-NP I-NP O B-NP O O O O O O O O B-NP I-NP O B-NP I-NP O B-NP O O O O O O B-NP I-NP I-NP O B-NP O
+# RELS = (16,17,19,19,on)
+1	The	The	X
+2	Sunni	Sunni	X
+3	AMS	AMS	X
+4	told	told	X
+5	Iraqis	Iraqis	X
+6	,	,	X
+7	"	"	X
+8	You	You	X
+9	sinned	sinned	X
+10	when	when	X
+11	you	you	X
+12	participated	participated	X
+13	with	with	X
+14	occupation	occupation	X
+15	forces	forces	X
+16	in	in	X
+17	the	the	X
+18	assault	assault	X
+19	on	on	X
+20	Najaf	Najaf	X
+21	,	,	X
+22	and	and	X
+23	beware	beware	X
+24	lest	lest	X
+25	you	you	X
+26	repeat	repeat	X
+27	this	this	X
+28	same	same	X
+29	sin	sin	X
+30	in	in	X
+31	Fallujah	Fallujah	X
+32	.	.	X
+# text = Remember that the Occupation is emphemeral . "
+# BIO = O O B-NP I-NP O O O O
+# RELS = 
+1	Remember	Remember	X
+2	that	that	X
+3	the	the	X
+4	Occupation	Occupation	X
+5	is	is	X
+6	emphemeral	emphemeral	X
+7	.	.	X
+8	"	"	X
+# text = The radical Shiite Sadr movement issued a statement forbidding the participation of Iraqi troops in the attack on Fallujah , as well .
+# BIO = B-NP I-NP I-NP I-NP I-NP O B-NP I-NP O B-NP I-NP O B-NP I-NP O B-NP I-NP O B-NP O O O O
+# RELS = (15,16,18,18,on)
+1	The	The	X
+2	radical	radical	X
+3	Shiite	Shiite	X
+4	Sadr	Sadr	X
+5	movement	movement	X
+6	issued	issued	X
+7	a	a	X
+8	statement	statement	X
+9	forbidding	forbidding	X
+10	the	the	X
+11	participation	participation	X
+12	of	of	X
+13	Iraqi	Iraqi	X
+14	troops	troops	X
+15	in	in	X
+16	the	the	X
+17	attack	attack	X
+18	on	on	X
+19	Fallujah	Fallujah	X
+20	,	,	X
+21	as	as	X
+22	well	well	X
+23	.	.	X
+# text = The statement said , " We direct an appeal at the men in the Iraqi forces , whether national guards or others , the majority of whom are Muslim , calling upon them to refrain for commiting this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity , and we ask them to view this war as illegal . "
+# BIO = B-NP I-NP O O O O O B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP O O B-NP I-NP O B-NP O B-NP I-NP O O O O O O O O O O O O B-NP I-NP I-NP O B-NP I-NP O B-NP O O O O O B-NP O B-NP I-NP O B-NP I-NP O O O O O O O B-NP I-NP O O O O
+# RELS = 
+1	The	The	X
+2	statement	statement	X
+3	said	said	X
+4	,	,	X
+5	"	"	X
+6	We	We	X
+7	direct	direct	X
+8	an	an	X
+9	appeal	appeal	X
+10	at	at	X
+11	the	the	X
+12	men	men	X
+13	in	in	X
+14	the	the	X
+15	Iraqi	Iraqi	X
+16	forces	forces	X
+17	,	,	X
+18	whether	whether	X
+19	national	national	X
+20	guards	guards	X
+21	or	or	X
+22	others	others	X
+23	,	,	X
+24	the	the	X
+25	majority	majority	X
+26	of	of	X
+27	whom	whom	X
+28	are	are	X
+29	Muslim	Muslim	X
+30	,	,	X
+31	calling	calling	X
+32	upon	upon	X
+33	them	them	X
+34	to	to	X
+35	refrain	refrain	X
+36	for	for	X
+37	commiting	commiting	X
+38	this	this	X
+39	enormous	enormous	X
+40	sin	sin	X
+41	under	under	X
+42	the	the	X
+43	banner	banner	X
+44	of	of	X
+45	forces	forces	X
+46	that	that	X
+47	do	do	X
+48	not	not	X
+49	respect	respect	X
+50	our	our	X
+51	religion	religion	X
+52	or	or	X
+53	any	any	X
+54	principles	principles	X
+55	of	of	X
+56	basic	basic	X
+57	humanity	humanity	X
+58	,	,	X
+59	and	and	X
+60	we	we	X
+61	ask	ask	X
+62	them	them	X
+63	to	to	X
+64	view	view	X
+65	this	this	X
+66	war	war	X
+67	as	as	X
+68	illegal	illegal	X
+69	.	.	X
+70	"	"	X
+# text = It called a " ploy " the assertaion that the attack was merely on foreign fighters at Fallujah .
+# BIO = O O B-NP I-NP I-NP O B-NP I-NP O B-NP I-NP O O O B-NP I-NP O B-NP O
+# RELS = 
+1	It	It	X
+2	called	called	X
+3	a	a	X
+4	"	"	X
+5	ploy	ploy	X
+6	"	"	X
+7	the	the	X
+8	assertaion	assertaion	X
+9	that	that	X
+10	the	the	X
+11	attack	attack	X
+12	was	was	X
+13	merely	merely	X
+14	on	on	X
+15	foreign	foreign	X
+16	fighters	fighters	X
+17	at	at	X
+18	Fallujah	Fallujah	X
+19	.	.	X
+# text = The convergence of views among the more militant Sunni Muslim clerics of AMS and the radical Shiites of the Sadr movement has been seen before , last spring during the initial US assault on Fallujah and during the US attack on Mahdi Army militiamen in Najaf .
+# BIO = B-NP I-NP O B-NP O B-NP I-NP I-NP I-NP I-NP I-NP O B-NP O B-NP I-NP I-NP O B-NP I-NP I-NP O O O O O B-NP I-NP O B-NP I-NP I-NP I-NP O B-NP O O B-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O
+# RELS = (29,32,34,34,on) ; (37,39,41,43,on)
+1	The	The	X
+2	convergence	convergence	X
+3	of	of	X
+4	views	views	X
+5	among	among	X
+6	the	the	X
+7	more	more	X
+8	militant	militant	X
+9	Sunni	Sunni	X
+10	Muslim	Muslim	X
+11	clerics	clerics	X
+12	of	of	X
+13	AMS	AMS	X
+14	and	and	X
+15	the	the	X
+16	radical	radical	X
+17	Shiites	Shiites	X
+18	of	of	X
+19	the	the	X
+20	Sadr	Sadr	X
+21	movement	movement	X
+22	has	has	X
+23	been	been	X
+24	seen	seen	X
+25	before	before	X
+26	,	,	X
+27	last	last	X
+28	spring	spring	X
+29	during	during	X
+30	the	the	X
+31	initial	initial	X
+32	US	US	X
+33	assault	assault	X
+34	on	on	X
+35	Fallujah	Fallujah	X
+36	and	and	X
+37	during	during	X
+38	the	the	X
+39	US	US	X
+40	attack	attack	X
+41	on	on	X
+42	Mahdi	Mahdi	X
+43	Army	Army	X
+44	militiamen	militiamen	X
+45	in	in	X
+46	Najaf	Najaf	X
+47	.	.	X
+# text = Most Shiites , however , are still reluctant to take major risks to support the Sunnis of Fallujah , many of whom had supported Saddam and his anti-Shiite pogroms .
+# BIO = B-NP I-NP O O O O O O O O B-NP I-NP O O B-NP I-NP O B-NP O O O O O O B-NP O O B-NP I-NP O
+# RELS = 
+1	Most	Most	X
+2	Shiites	Shiites	X
+3	,	,	X
+4	however	however	X
+5	,	,	X
+6	are	are	X
+7	still	still	X
+8	reluctant	reluctant	X
+9	to	to	X
+10	take	take	X
+11	major	major	X
+12	risks	risks	X
+13	to	to	X
+14	support	support	X
+15	the	the	X
+16	Sunnis	Sunnis	X
+17	of	of	X
+18	Fallujah	Fallujah	X
+19	,	,	X
+20	many	many	X
+21	of	of	X
+22	whom	whom	X
+23	had	had	X
+24	supported	supported	X
+25	Saddam	Saddam	X
+26	and	and	X
+27	his	his	X
+28	anti-Shiite	anti-Shiite	X
+29	pogroms	pogroms	X
+30	.	.	X
+# text = President Bush pinched a few nerves yesterday with his choice of words :
+# BIO = B-NP I-NP O B-NP I-NP I-NP I-NP O O B-NP O B-NP O
+# RELS = 
+1	President	President	X
+2	Bush	Bush	X
+3	pinched	pinched	X
+4	a	a	X
+5	few	few	X
+6	nerves	nerves	X
+7	yesterday	yesterday	X
+8	with	with	X
+9	his	his	X
+10	choice	choice	X
+11	of	of	X
+12	words	words	X
+13	:	:	X
+# text = WASHINGTON ( Reuters ) -
+# BIO = B-NP O B-NP O O
+# RELS = 
+1	WASHINGTON	WASHINGTON	X
+2	(	(	X
+3	Reuters	Reuters	X
+4	)	)	X
+5	-	-	X
+# text = U.S. Muslim groups criticized President Bush on Thursday for calling a foiled plot to blow up airplanes part of a " war with Islamic fascists , " saying the term could inflame anti-Muslim tensions .
+# BIO = B-NP I-NP I-NP O B-NP I-NP O B-NP O O B-NP I-NP I-NP O O O B-NP I-NP O B-NP I-NP I-NP O B-NP I-NP O O O B-NP I-NP O O B-NP I-NP O
+# RELS = 
+1	U.S.	U.S.	X
+2	Muslim	Muslim	X
+3	groups	groups	X
+4	criticized	criticized	X
+5	President	President	X
+6	Bush	Bush	X
+7	on	on	X
+8	Thursday	Thursday	X
+9	for	for	X
+10	calling	calling	X
+11	a	a	X
+12	foiled	foiled	X
+13	plot	plot	X
+14	to	to	X
+15	blow	blow	X
+16	up	up	X
+17	airplanes	airplanes	X
+18	part	part	X
+19	of	of	X
+20	a	a	X
+21	"	"	X
+22	war	war	X
+23	with	with	X
+24	Islamic	Islamic	X
+25	fascists	fascists	X
+26	,	,	X
+27	"	"	X
+28	saying	saying	X
+29	the	the	X
+30	term	term	X
+31	could	could	X
+32	inflame	inflame	X
+33	anti-Muslim	anti-Muslim	X
+34	tensions	tensions	X
+35	.	.	X
+# text = U.S. officials have said the plot , thwarted by Britain , to blow up several aircraft over the Atlantic bore many of the hallmarks of al Qaeda .
+# BIO = B-NP I-NP O O B-NP I-NP O O O B-NP O O O O B-NP I-NP O B-NP I-NP O O O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	U.S.	U.S.	X
+2	officials	officials	X
+3	have	have	X
+4	said	said	X
+5	the	the	X
+6	plot	plot	X
+7	,	,	X
+8	thwarted	thwarted	X
+9	by	by	X
+10	Britain	Britain	X
+11	,	,	X
+12	to	to	X
+13	blow	blow	X
+14	up	up	X
+15	several	several	X
+16	aircraft	aircraft	X
+17	over	over	X
+18	the	the	X
+19	Atlantic	Atlantic	X
+20	bore	bore	X
+21	many	many	X
+22	of	of	X
+23	the	the	X
+24	hallmarks	hallmarks	X
+25	of	of	X
+26	al	al	X
+27	Qaeda	Qaeda	X
+28	.	.	X
+# text = " We believe this is an ill - advised term and we believe that it is counterproductive to associate Islam or Muslims with fascism , " said Nihad Awad , executive director of the Council on American - Islamic Relations advocacy group .
+# BIO = O O O O O B-NP I-NP I-NP I-NP I-NP O O O O O O O O O B-NP O B-NP O B-NP O O O B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+# RELS = (33,41,33,41,on)
+1	"	"	X
+2	We	We	X
+3	believe	believe	X
+4	this	this	X
+5	is	is	X
+6	an	an	X
+7	ill	ill	X
+8	-	-	X
+9	advised	advised	X
+10	term	term	X
+11	and	and	X
+12	we	we	X
+13	believe	believe	X
+14	that	that	X
+15	it	it	X
+16	is	is	X
+17	counterproductive	counterproductive	X
+18	to	to	X
+19	associate	associate	X
+20	Islam	Islam	X
+21	or	or	X
+22	Muslims	Muslims	X
+23	with	with	X
+24	fascism	fascism	X
+25	,	,	X
+26	"	"	X
+27	said	said	X
+28	Nihad	Nihad	X
+29	Awad	Awad	X
+30	,	,	X
+31	executive	executive	X
+32	director	director	X
+33	of	of	X
+34	the	the	X
+35	Council	Council	X
+36	on	on	X
+37	American	American	X
+38	-	-	X
+39	Islamic	Islamic	X
+40	Relations	Relations	X
+41	advocacy	advocacy	X
+42	group	group	X
+43	.	.	X
+# text = Which is why he did n't say we 're at war with Islamic people .
+# BIO = O O O O O O O O O O B-NP O B-NP I-NP O
+# RELS = 
+1	Which	Which	X
+2	is	is	X
+3	why	why	X
+4	he	he	X
+5	did	did	X
+6	n't	n't	X
+7	say	say	X
+8	we	we	X
+9	're	're	X
+10	at	at	X
+11	war	war	X
+12	with	with	X
+13	Islamic	Islamic	X
+14	people	people	X
+15	.	.	X
+# text = We 're at war with Islamic fascists .
+# BIO = O O O B-NP O B-NP I-NP O
+# RELS = 
+1	We	We	X
+2	're	're	X
+3	at	at	X
+4	war	war	X
+5	with	with	X
+6	Islamic	Islamic	X
+7	fascists	fascists	X
+8	.	.	X
+# text = By using the word " Islamic " as an adjective Bush was purposely not associating Muslims with fascism , hence the qualifier .
+# BIO = O O B-NP I-NP O O O O B-NP I-NP I-NP O O O O B-NP O B-NP O O B-NP I-NP O
+# RELS = 
+1	By	By	X
+2	using	using	X
+3	the	the	X
+4	word	word	X
+5	"	"	X
+6	Islamic	Islamic	X
+7	"	"	X
+8	as	as	X
+9	an	an	X
+10	adjective	adjective	X
+11	Bush	Bush	X
+12	was	was	X
+13	purposely	purposely	X
+14	not	not	X
+15	associating	associating	X
+16	Muslims	Muslims	X
+17	with	with	X
+18	fascism	fascism	X
+19	,	,	X
+20	hence	hence	X
+21	the	the	X
+22	qualifier	qualifier	X
+23	.	.	X
+# text = And if you have n't heard by now , the roster of suspected terrorists has not a Tom , Dick or Harry among them :
+# BIO = O O O O O O O O O B-NP I-NP O B-NP I-NP O O B-NP I-NP O B-NP O B-NP O O O
+# RELS = 
+1	And	And	X
+2	if	if	X
+3	you	you	X
+4	have	have	X
+5	n't	n't	X
+6	heard	heard	X
+7	by	by	X
+8	now	now	X
+9	,	,	X
+10	the	the	X
+11	roster	roster	X
+12	of	of	X
+13	suspected	suspected	X
+14	terrorists	terrorists	X
+15	has	has	X
+16	not	not	X
+17	a	a	X
+18	Tom	Tom	X
+19	,	,	X
+20	Dick	Dick	X
+21	or	or	X
+22	Harry	Harry	X
+23	among	among	X
+24	them	them	X
+25	:	:	X
+# text = Umir Hussain , 24 , London E14
+# BIO = B-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Umir	Umir	X
+2	Hussain	Hussain	X
+3	,	,	X
+4	24	24	X
+5	,	,	X
+6	London	London	X
+7	E14	E14	X
+# text = Muhammed Usman Saddique , 24 , London E17
+# BIO = B-NP I-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Muhammed	Muhammed	X
+2	Usman	Usman	X
+3	Saddique	Saddique	X
+4	,	,	X
+5	24	24	X
+6	,	,	X
+7	London	London	X
+8	E17	E17	X
+# text = Waheed Zaman , 22 , London E17
+# BIO = B-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Waheed	Waheed	X
+2	Zaman	Zaman	X
+3	,	,	X
+4	22	22	X
+5	,	,	X
+6	London	London	X
+7	E17	E17	X
+# text = Assan Abdullah Khan , 22 , London E17
+# BIO = B-NP I-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Assan	Assan	X
+2	Abdullah	Abdullah	X
+3	Khan	Khan	X
+4	,	,	X
+5	22	22	X
+6	,	,	X
+7	London	London	X
+8	E17	E17	X
+# text = Waseem Kayani , 28 , High Wycombe
+# BIO = B-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Waseem	Waseem	X
+2	Kayani	Kayani	X
+3	,	,	X
+4	28	28	X
+5	,	,	X
+6	High	High	X
+7	Wycombe	Wycombe	X
+# text = Waheed Arafat Khan , 24 , London E17
+# BIO = B-NP I-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Waheed	Waheed	X
+2	Arafat	Arafat	X
+3	Khan	Khan	X
+4	,	,	X
+5	24	24	X
+6	,	,	X
+7	London	London	X
+8	E17	E17	X
+# text = Cossor Ali , 24 , London E17
+# BIO = B-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Cossor	Cossor	X
+2	Ali	Ali	X
+3	,	,	X
+4	24	24	X
+5	,	,	X
+6	London	London	X
+7	E17	E17	X
+# text = Tayib Rauf , 21 , Birmingham
+# BIO = B-NP I-NP O O O B-NP
+# RELS = 
+1	Tayib	Tayib	X
+2	Rauf	Rauf	X
+3	,	,	X
+4	21	21	X
+5	,	,	X
+6	Birmingham	Birmingham	X
+# text = Ibrahim Savant , 26 , London E17
+# BIO = B-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Ibrahim	Ibrahim	X
+2	Savant	Savant	X
+3	,	,	X
+4	26	26	X
+5	,	,	X
+6	London	London	X
+7	E17	E17	X
+# text = Osman Adam Khatib , 20 , London E17
+# BIO = B-NP I-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Osman	Osman	X
+2	Adam	Adam	X
+3	Khatib	Khatib	X
+4	,	,	X
+5	20	20	X
+6	,	,	X
+7	London	London	X
+8	E17	E17	X
+# text = Shamin Mohammed Uddin , 36 , Stoke Newington
+# BIO = B-NP I-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Shamin	Shamin	X
+2	Mohammed	Mohammed	X
+3	Uddin	Uddin	X
+4	,	,	X
+5	36	36	X
+6	,	,	X
+7	Stoke	Stoke	X
+8	Newington	Newington	X
+# text = Amin Asmin Tariq , 23 , London E17
+# BIO = B-NP I-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Amin	Amin	X
+2	Asmin	Asmin	X
+3	Tariq	Tariq	X
+4	,	,	X
+5	23	23	X
+6	,	,	X
+7	London	London	X
+8	E17	E17	X
+# text = Shazad Khuram Ali , 27 , High Wycombe
+# BIO = B-NP I-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Shazad	Shazad	X
+2	Khuram	Khuram	X
+3	Ali	Ali	X
+4	,	,	X
+5	27	27	X
+6	,	,	X
+7	High	High	X
+8	Wycombe	Wycombe	X
+# text = Tanvir Hussain , 24 , London E10
+# BIO = B-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Tanvir	Tanvir	X
+2	Hussain	Hussain	X
+3	,	,	X
+4	24	24	X
+5	,	,	X
+6	London	London	X
+7	E10	E10	X
+# text = Umar Islam , 28 , ( born Brian Young ) High Wycombe
+# BIO = B-NP I-NP O O O O O B-NP I-NP O B-NP I-NP
+# RELS = 
+1	Umar	Umar	X
+2	Islam	Islam	X
+3	,	,	X
+4	28	28	X
+5	,	,	X
+6	(	(	X
+7	born	born	X
+8	Brian	Brian	X
+9	Young	Young	X
+10	)	)	X
+11	High	High	X
+12	Wycombe	Wycombe	X
+# text = Assad Sarwar , 25 , High Wycombe
+# BIO = B-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Assad	Assad	X
+2	Sarwar	Sarwar	X
+3	,	,	X
+4	25	25	X
+5	,	,	X
+6	High	High	X
+7	Wycombe	Wycombe	X
+# text = Abdullah Ali , 26 , London E17
+# BIO = B-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Abdullah	Abdullah	X
+2	Ali	Ali	X
+3	,	,	X
+4	26	26	X
+5	,	,	X
+6	London	London	X
+7	E17	E17	X
+# text = Abdul Muneem Patel , 17 , London E5
+# BIO = B-NP I-NP I-NP O O O B-NP I-NP
+# RELS = 
+1	Abdul	Abdul	X
+2	Muneem	Muneem	X
+3	Patel	Patel	X
+4	,	,	X
+5	17	17	X
+6	,	,	X
+7	London	London	X
+8	E5	E5	X
+# text = Nabeel Hussain , 21 , Waltham Forest Lest you be confused with the suspects from an earlier plot foiled in Canada a few months ago : Fahim Ahmad , 21 , Toronto ;
+# BIO = B-NP I-NP O O O B-NP I-NP O O O O O B-NP I-NP O B-NP I-NP I-NP O O B-NP I-NP I-NP I-NP O O B-NP I-NP O O O B-NP O
+# RELS = 
+1	Nabeel	Nabeel	X
+2	Hussain	Hussain	X
+3	,	,	X
+4	21	21	X
+5	,	,	X
+6	Waltham	Waltham	X
+7	Forest	Forest	X
+8	Lest	Lest	X
+9	you	you	X
+10	be	be	X
+11	confused	confused	X
+12	with	with	X
+13	the	the	X
+14	suspects	suspects	X
+15	from	from	X
+16	an	an	X
+17	earlier	earlier	X
+18	plot	plot	X
+19	foiled	foiled	X
+20	in	in	X
+21	Canada	Canada	X
+22	a	a	X
+23	few	few	X
+24	months	months	X
+25	ago	ago	X
+26	:	:	X
+27	Fahim	Fahim	X
+28	Ahmad	Ahmad	X
+29	,	,	X
+30	21	21	X
+31	,	,	X
+32	Toronto	Toronto	X
+33	;	;	X
+# text = Zakaria Amara , 20 , Mississauga , Ont. ;
+# BIO = B-NP I-NP O O O B-NP O B-NP O
+# RELS = 
+1	Zakaria	Zakaria	X
+2	Amara	Amara	X
+3	,	,	X
+4	20	20	X
+5	,	,	X
+6	Mississauga	Mississauga	X
+7	,	,	X
+8	Ont.	Ont.	X
+9	;	;	X
+# text = Asad Ansari , 21 , Mississauga ;
+# BIO = B-NP I-NP O O O B-NP O
+# RELS = 
+1	Asad	Asad	X
+2	Ansari	Ansari	X
+3	,	,	X
+4	21	21	X
+5	,	,	X
+6	Mississauga	Mississauga	X
+7	;	;	X
+# text = Shareef Abdelhaleen , 30 , Mississauga ;
+# BIO = B-NP I-NP O O O B-NP O
+# RELS = 
+1	Shareef	Shareef	X
+2	Abdelhaleen	Abdelhaleen	X
+3	,	,	X
+4	30	30	X
+5	,	,	X
+6	Mississauga	Mississauga	X
+7	;	;	X
+# text = Qayyum Abdul Jamal , 43 , Mississauga ;
+# BIO = B-NP I-NP I-NP O O O B-NP O
+# RELS = 
+1	Qayyum	Qayyum	X
+2	Abdul	Abdul	X
+3	Jamal	Jamal	X
+4	,	,	X
+5	43	43	X
+6	,	,	X
+7	Mississauga	Mississauga	X
+8	;	;	X
+# text = Mohammed Dirie , 22 , Kingston , Ont. ;
+# BIO = B-NP I-NP O O O B-NP O B-NP O
+# RELS = 
+1	Mohammed	Mohammed	X
+2	Dirie	Dirie	X
+3	,	,	X
+4	22	22	X
+5	,	,	X
+6	Kingston	Kingston	X
+7	,	,	X
+8	Ont.	Ont.	X
+9	;	;	X
+# text = Yasim Abdi Mohamed , 24 , Kingston ;
+# BIO = B-NP I-NP I-NP O O O B-NP O
+# RELS = 
+1	Yasim	Yasim	X
+2	Abdi	Abdi	X
+3	Mohamed	Mohamed	X
+4	,	,	X
+5	24	24	X
+6	,	,	X
+7	Kingston	Kingston	X
+8	;	;	X
+# text = Jahmaal James , 23 , Toronto ;
+# BIO = B-NP I-NP O O O B-NP O
+# RELS = 
+1	Jahmaal	Jahmaal	X
+2	James	James	X
+3	,	,	X
+4	23	23	X
+5	,	,	X
+6	Toronto	Toronto	X
+7	;	;	X
+# text = Amin Mohamed Durrani , 19 , Toronto ;
+# BIO = B-NP I-NP I-NP O O O B-NP O
+# RELS = 
+1	Amin	Amin	X
+2	Mohamed	Mohamed	X
+3	Durrani	Durrani	X
+4	,	,	X
+5	19	19	X
+6	,	,	X
+7	Toronto	Toronto	X
+8	;	;	X
+# text = Steven Vikash Chand alias Abdul Shakur , 25 , Toronto ;
+# BIO = B-NP I-NP I-NP I-NP I-NP I-NP O O O B-NP O
+# RELS = 
+1	Steven	Steven	X
+2	Vikash	Vikash	X
+3	Chand	Chand	X
+4	alias	alias	X
+5	Abdul	Abdul	X
+6	Shakur	Shakur	X
+7	,	,	X
+8	25	25	X
+9	,	,	X
+10	Toronto	Toronto	X
+11	;	;	X
+# text = Ahmad Mustafa Ghany , 21 , Mississauga ;
+# BIO = B-NP I-NP I-NP O O O B-NP O
+# RELS = 
+1	Ahmad	Ahmad	X
+2	Mustafa	Mustafa	X
+3	Ghany	Ghany	X
+4	,	,	X
+5	21	21	X
+6	,	,	X
+7	Mississauga	Mississauga	X
+8	;	;	X
+# text = Saad Khalid , 19 , of Eclipse Avenue , Mississauga .
+# BIO = B-NP I-NP O O O O B-NP I-NP O B-NP O
+# RELS = 
+1	Saad	Saad	X
+2	Khalid	Khalid	X
+3	,	,	X
+4	19	19	X
+5	,	,	X
+6	of	of	X
+7	Eclipse	Eclipse	X
+8	Avenue	Avenue	X
+9	,	,	X
+10	Mississauga	Mississauga	X
+11	.	.	X
+# text = We 've got a Steven , the one word that did n't crash my spell - check , despite it being followed by a Vikash Chand Abdul Shakur .
+# BIO = O O O B-NP I-NP O B-NP I-NP I-NP O O O O O B-NP O B-NP O O O O O O B-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	We	We	X
+2	've	've	X
+3	got	got	X
+4	a	a	X
+5	Steven	Steven	X
+6	,	,	X
+7	the	the	X
+8	one	one	X
+9	word	word	X
+10	that	that	X
+11	did	did	X
+12	n't	n't	X
+13	crash	crash	X
+14	my	my	X
+15	spell	spell	X
+16	-	-	X
+17	check	check	X
+18	,	,	X
+19	despite	despite	X
+20	it	it	X
+21	being	being	X
+22	followed	followed	X
+23	by	by	X
+24	a	a	X
+25	Vikash	Vikash	X
+26	Chand	Chand	X
+27	Abdul	Abdul	X
+28	Shakur	Shakur	X
+29	.	.	X
+# text = Folks , if it 's Islamic , and fascist , it 's an Islamic fascist .
+# BIO = B-NP O O O O O O O O O O O B-NP I-NP I-NP O
+# RELS = 
+1	Folks	Folks	X
+2	,	,	X
+3	if	if	X
+4	it	it	X
+5	's	's	X
+6	Islamic	Islamic	X
+7	,	,	X
+8	and	and	X
+9	fascist	fascist	X
+10	,	,	X
+11	it	it	X
+12	's	's	X
+13	an	an	X
+14	Islamic	Islamic	X
+15	fascist	fascist	X
+16	.	.	X
+# text = But because we do n't want to sound hateful we must pretend everyone 's a possible suspect and make airline travel more miserable than it 's ever been .
+# BIO = O O O O O O O O O O O O O O B-NP I-NP I-NP O O B-NP I-NP O O O O O O O O
+# RELS = 
+1	But	But	X
+2	because	because	X
+3	we	we	X
+4	do	do	X
+5	n't	n't	X
+6	want	want	X
+7	to	to	X
+8	sound	sound	X
+9	hateful	hateful	X
+10	we	we	X
+11	must	must	X
+12	pretend	pretend	X
+13	everyone	everyone	X
+14	's	's	X
+15	a	a	X
+16	possible	possible	X
+17	suspect	suspect	X
+18	and	and	X
+19	make	make	X
+20	airline	airline	X
+21	travel	travel	X
+22	more	more	X
+23	miserable	miserable	X
+24	than	than	X
+25	it	it	X
+26	's	's	X
+27	ever	ever	X
+28	been	been	X
+29	.	.	X
+# text = On the internet site of Monotheism and Holy War ( al - Tawhid wa al - Jihad ) , the group allegedly declared , " We announce that the Tawhid and Jihad Group , its prince and soldiers , have pledged allegiance to the sheikh of the mujahideen Osama bin Laden . "
+# BIO = O B-NP I-NP I-NP O B-NP O B-NP I-NP O B-NP O B-NP I-NP I-NP O B-NP O O B-NP I-NP O O O O O O O B-NP I-NP I-NP I-NP I-NP O O B-NP O B-NP O O O B-NP O B-NP I-NP O B-NP I-NP I-NP I-NP I-NP O O
+# RELS = 
+1	On	On	X
+2	the	the	X
+3	internet	internet	X
+4	site	site	X
+5	of	of	X
+6	Monotheism	Monotheism	X
+7	and	and	X
+8	Holy	Holy	X
+9	War	War	X
+10	(	(	X
+11	al	al	X
+12	-	-	X
+13	Tawhid	Tawhid	X
+14	wa	wa	X
+15	al	al	X
+16	-	-	X
+17	Jihad	Jihad	X
+18	)	)	X
+19	,	,	X
+20	the	the	X
+21	group	group	X
+22	allegedly	allegedly	X
+23	declared	declared	X
+24	,	,	X
+25	"	"	X
+26	We	We	X
+27	announce	announce	X
+28	that	that	X
+29	the	the	X
+30	Tawhid	Tawhid	X
+31	and	and	X
+32	Jihad	Jihad	X
+33	Group	Group	X
+34	,	,	X
+35	its	its	X
+36	prince	prince	X
+37	and	and	X
+38	soldiers	soldiers	X
+39	,	,	X
+40	have	have	X
+41	pledged	pledged	X
+42	allegiance	allegiance	X
+43	to	to	X
+44	the	the	X
+45	sheikh	sheikh	X
+46	of	of	X
+47	the	the	X
+48	mujahideen	mujahideen	X
+49	Osama	Osama	X
+50	bin	bin	X
+51	Laden	Laden	X
+52	.	.	X
+53	"	"	X
+# text = This pledge is a new development .
+# BIO = B-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	This	This	X
+2	pledge	pledge	X
+3	is	is	X
+4	a	a	X
+5	new	new	X
+6	development	development	X
+7	.	.	X
+# text = Abu Musab al - Zarqawi and his group are said to have been bitter rivals of al - Qaeda during the Afghan resistance days .
+# BIO = B-NP I-NP I-NP O B-NP O O B-NP O O O O O B-NP I-NP O B-NP O B-NP O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	Abu	Abu	X
+2	Musab	Musab	X
+3	al	al	X
+4	-	-	X
+5	Zarqawi	Zarqawi	X
+6	and	and	X
+7	his	his	X
+8	group	group	X
+9	are	are	X
+10	said	said	X
+11	to	to	X
+12	have	have	X
+13	been	been	X
+14	bitter	bitter	X
+15	rivals	rivals	X
+16	of	of	X
+17	al	al	X
+18	-	-	X
+19	Qaeda	Qaeda	X
+20	during	during	X
+21	the	the	X
+22	Afghan	Afghan	X
+23	resistance	resistance	X
+24	days	days	X
+25	.	.	X
+# text = One witness at the Moutasaddiq trial in Germany alleged that Zarqawi had not allowed Monotheism and Holy War to share resources with al - Qaeda in the early zeroes of the 21st century .
+# BIO = O B-NP O B-NP I-NP I-NP O B-NP O O B-NP O O O B-NP O B-NP I-NP O O B-NP O B-NP O B-NP O B-NP I-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	One	One	X
+2	witness	witness	X
+3	at	at	X
+4	the	the	X
+5	Moutasaddiq	Moutasaddiq	X
+6	trial	trial	X
+7	in	in	X
+8	Germany	Germany	X
+9	alleged	alleged	X
+10	that	that	X
+11	Zarqawi	Zarqawi	X
+12	had	had	X
+13	not	not	X
+14	allowed	allowed	X
+15	Monotheism	Monotheism	X
+16	and	and	X
+17	Holy	Holy	X
+18	War	War	X
+19	to	to	X
+20	share	share	X
+21	resources	resources	X
+22	with	with	X
+23	al	al	X
+24	-	-	X
+25	Qaeda	Qaeda	X
+26	in	in	X
+27	the	the	X
+28	early	early	X
+29	zeroes	zeroes	X
+30	of	of	X
+31	the	the	X
+32	21st	21st	X
+33	century	century	X
+34	.	.	X
+# text = If the statement is true , it is a worrying sign that even the divided small radical guerrilla groups are being " picked up " by al - Qaeda .
+# BIO = O B-NP I-NP O O O O O B-NP I-NP I-NP O O B-NP I-NP I-NP I-NP I-NP I-NP O O O O O O O B-NP O B-NP O
+# RELS = 
+1	If	If	X
+2	the	the	X
+3	statement	statement	X
+4	is	is	X
+5	true	true	X
+6	,	,	X
+7	it	it	X
+8	is	is	X
+9	a	a	X
+10	worrying	worrying	X
+11	sign	sign	X
+12	that	that	X
+13	even	even	X
+14	the	the	X
+15	divided	divided	X
+16	small	small	X
+17	radical	radical	X
+18	guerrilla	guerrilla	X
+19	groups	groups	X
+20	are	are	X
+21	being	being	X
+22	"	"	X
+23	picked	picked	X
+24	up	up	X
+25	"	"	X
+26	by	by	X
+27	al	al	X
+28	-	-	X
+29	Qaeda	Qaeda	X
+30	.	.	X
+# text = This consolidation is obviously a result of Bush 's aggressive invasion of Iraq and of the botching of the aftermath .
+# BIO = B-NP I-NP O O B-NP I-NP O B-NP O B-NP I-NP O B-NP O O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	This	This	X
+2	consolidation	consolidation	X
+3	is	is	X
+4	obviously	obviously	X
+5	a	a	X
+6	result	result	X
+7	of	of	X
+8	Bush	Bush	X
+9	's	's	X
+10	aggressive	aggressive	X
+11	invasion	invasion	X
+12	of	of	X
+13	Iraq	Iraq	X
+14	and	and	X
+15	of	of	X
+16	the	the	X
+17	botching	botching	X
+18	of	of	X
+19	the	the	X
+20	aftermath	aftermath	X
+21	.	.	X
+# text = It is a setback for the war on terror .
+# BIO = O O B-NP I-NP O B-NP I-NP O B-NP O
+# RELS = (5,6,8,8,on)
+1	It	It	X
+2	is	is	X
+3	a	a	X
+4	setback	setback	X
+5	for	for	X
+6	the	the	X
+7	war	war	X
+8	on	on	X
+9	terror	terror	X
+10	.	.	X
+# text = Al - Qaeda in Afghanistan was a group of only a few hundred " Afghan Arabs " who pledged personal loyalty to Usamah Bin Laden .
+# BIO = B-NP O B-NP O B-NP O B-NP I-NP O O O B-ATTR O O B-NP I-NP O O O B-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	Al	Al	X
+2	-	-	X
+3	Qaeda	Qaeda	X
+4	in	in	X
+5	Afghanistan	Afghanistan	X
+6	was	was	X
+7	a	a	X
+8	group	group	X
+9	of	of	X
+10	only	only	X
+11	a	a	X
+12	few	few	X
+13	hundred	hundred	X
+14	"	"	X
+15	Afghan	Afghan	X
+16	Arabs	Arabs	X
+17	"	"	X
+18	who	who	X
+19	pledged	pledged	X
+20	personal	personal	X
+21	loyalty	loyalty	X
+22	to	to	X
+23	Usamah	Usamah	X
+24	Bin	Bin	X
+25	Laden	Laden	X
+26	.	.	X
+# text = It could notionally be expanded to encompass the 5,000 - strong " 55th Brigade " of the Taliban regime , though this is not the technical definition .
+# BIO = O O O O O O O B-NP I-NP I-NP I-NP I-NP I-NP I-NP O O B-NP I-NP I-NP O O O O O B-NP I-NP I-NP O
+# RELS = 
+1	It	It	X
+2	could	could	X
+3	notionally	notionally	X
+4	be	be	X
+5	expanded	expanded	X
+6	to	to	X
+7	encompass	encompass	X
+8	the	the	X
+9	5,000	5,000	X
+10	-	-	X
+11	strong	strong	X
+12	"	"	X
+13	55th	55th	X
+14	Brigade	Brigade	X
+15	"	"	X
+16	of	of	X
+17	the	the	X
+18	Taliban	Taliban	X
+19	regime	regime	X
+20	,	,	X
+21	though	though	X
+22	this	this	X
+23	is	is	X
+24	not	not	X
+25	the	the	X
+26	technical	technical	X
+27	definition	definition	X
+28	.	.	X
+# text = Because Usamah is Saudi , my guess is that they were especially influenced by an extremist form of the Wahhabi school of Islam that predominates among Saudia 's some 15 million citizens .
+# BIO = O B-NP O O O O B-NP O O O O O O O B-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O O B-NP O O O O B-NP O
+# RELS = 
+1	Because	Because	X
+2	Usamah	Usamah	X
+3	is	is	X
+4	Saudi	Saudi	X
+5	,	,	X
+6	my	my	X
+7	guess	guess	X
+8	is	is	X
+9	that	that	X
+10	they	they	X
+11	were	were	X
+12	especially	especially	X
+13	influenced	influenced	X
+14	by	by	X
+15	an	an	X
+16	extremist	extremist	X
+17	form	form	X
+18	of	of	X
+19	the	the	X
+20	Wahhabi	Wahhabi	X
+21	school	school	X
+22	of	of	X
+23	Islam	Islam	X
+24	that	that	X
+25	predominates	predominates	X
+26	among	among	X
+27	Saudia	Saudia	X
+28	's	's	X
+29	some	some	X
+30	15	15	X
+31	million	million	X
+32	citizens	citizens	X
+33	.	.	X
+# text = In 1998 they were joined by Egyptians from the al - Jihad al - Islami group of Ayman al - Zawahiri ( many of these were from Upper Egypt , especially Asyut and environs ) .
+# BIO = O O O O O O B-NP O B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP I-NP O B-NP O O O O O O B-NP I-NP O O B-NP O B-NP O O
+# RELS = 
+1	In	In	X
+2	1998	1998	X
+3	they	they	X
+4	were	were	X
+5	joined	joined	X
+6	by	by	X
+7	Egyptians	Egyptians	X
+8	from	from	X
+9	the	the	X
+10	al	al	X
+11	-	-	X
+12	Jihad	Jihad	X
+13	al	al	X
+14	-	-	X
+15	Islami	Islami	X
+16	group	group	X
+17	of	of	X
+18	Ayman	Ayman	X
+19	al	al	X
+20	-	-	X
+21	Zawahiri	Zawahiri	X
+22	(	(	X
+23	many	many	X
+24	of	of	X
+25	these	these	X
+26	were	were	X
+27	from	from	X
+28	Upper	Upper	X
+29	Egypt	Egypt	X
+30	,	,	X
+31	especially	especially	X
+32	Asyut	Asyut	X
+33	and	and	X
+34	environs	environs	X
+35	)	)	X
+36	.	.	X
+# text = After that point , al - Qaeda was a joint enterprise between the Egyptian extremists and the polyglot Arabs around Bin Laden , only some of whom were Saudi .
+# BIO = O B-NP I-NP O B-NP O B-NP O B-NP I-NP I-NP O B-NP I-NP I-NP O B-NP I-NP I-NP O B-NP I-NP O O O O O O O O
+# RELS = 
+1	After	After	X
+2	that	that	X
+3	point	point	X
+4	,	,	X
+5	al	al	X
+6	-	-	X
+7	Qaeda	Qaeda	X
+8	was	was	X
+9	a	a	X
+10	joint	joint	X
+11	enterprise	enterprise	X
+12	between	between	X
+13	the	the	X
+14	Egyptian	Egyptian	X
+15	extremists	extremists	X
+16	and	and	X
+17	the	the	X
+18	polyglot	polyglot	X
+19	Arabs	Arabs	X
+20	around	around	X
+21	Bin	Bin	X
+22	Laden	Laden	X
+23	,	,	X
+24	only	only	X
+25	some	some	X
+26	of	of	X
+27	whom	whom	X
+28	were	were	X
+29	Saudi	Saudi	X
+30	.	.	X
+# text = Zarqawi is a Jordanian , and his Monotheism and Holy War group in Afghanistan probably had a distinctive coloration as mainly Jordanian , Palestinian and Syrian .
+# BIO = B-NP O B-NP I-NP O O O B-NP O B-NP I-NP I-NP O B-NP O O B-NP I-NP I-NP O O O O O O O O
+# RELS = 
+1	Zarqawi	Zarqawi	X
+2	is	is	X
+3	a	a	X
+4	Jordanian	Jordanian	X
+5	,	,	X
+6	and	and	X
+7	his	his	X
+8	Monotheism	Monotheism	X
+9	and	and	X
+10	Holy	Holy	X
+11	War	War	X
+12	group	group	X
+13	in	in	X
+14	Afghanistan	Afghanistan	X
+15	probably	probably	X
+16	had	had	X
+17	a	a	X
+18	distinctive	distinctive	X
+19	coloration	coloration	X
+20	as	as	X
+21	mainly	mainly	X
+22	Jordanian	Jordanian	X
+23	,	,	X
+24	Palestinian	Palestinian	X
+25	and	and	X
+26	Syrian	Syrian	X
+27	.	.	X
+# text = They also had a special connection to some extremists in Jordan and Germany .
+# BIO = O O O B-NP I-NP I-NP O B-NP I-NP O B-NP O B-NP O
+# RELS = 
+1	They	They	X
+2	also	also	X
+3	had	had	X
+4	a	a	X
+5	special	special	X
+6	connection	connection	X
+7	to	to	X
+8	some	some	X
+9	extremists	extremists	X
+10	in	in	X
+11	Jordan	Jordan	X
+12	and	and	X
+13	Germany	Germany	X
+14	.	.	X
+# text = They are probably especially oriented toward the Salafi school of modern Islamic thought , which has a Protestant - like emphasis on going back to the original practice of the early companions of the Prophet Muhammad .
+# BIO = O O O O O O B-NP I-NP I-NP O B-NP I-NP I-NP O O O B-NP I-NP I-NP I-NP I-NP O O O O B-NP I-NP I-NP O B-NP I-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	They	They	X
+2	are	are	X
+3	probably	probably	X
+4	especially	especially	X
+5	oriented	oriented	X
+6	toward	toward	X
+7	the	the	X
+8	Salafi	Salafi	X
+9	school	school	X
+10	of	of	X
+11	modern	modern	X
+12	Islamic	Islamic	X
+13	thought	thought	X
+14	,	,	X
+15	which	which	X
+16	has	has	X
+17	a	a	X
+18	Protestant	Protestant	X
+19	-	-	X
+20	like	like	X
+21	emphasis	emphasis	X
+22	on	on	X
+23	going	going	X
+24	back	back	X
+25	to	to	X
+26	the	the	X
+27	original	original	X
+28	practice	practice	X
+29	of	of	X
+30	the	the	X
+31	early	early	X
+32	companions	companions	X
+33	of	of	X
+34	the	the	X
+35	Prophet	Prophet	X
+36	Muhammad	Muhammad	X
+37	.	.	X
+# text = ( Most Salafis are not militant or violent , though they tend to be rather narrow - minded in my experience , on the order of Protestant Pietists ) .
+# BIO = O B-NP I-NP O O O O O O O O O O O O B-ATTR O O O O B-NP O O B-NP I-NP O B-NP I-NP O O
+# RELS = 
+1	(	(	X
+2	Most	Most	X
+3	Salafis	Salafis	X
+4	are	are	X
+5	not	not	X
+6	militant	militant	X
+7	or	or	X
+8	violent	violent	X
+9	,	,	X
+10	though	though	X
+11	they	they	X
+12	tend	tend	X
+13	to	to	X
+14	be	be	X
+15	rather	rather	X
+16	narrow	narrow	X
+17	-	-	X
+18	minded	minded	X
+19	in	in	X
+20	my	my	X
+21	experience	experience	X
+22	,	,	X
+23	on	on	X
+24	the	the	X
+25	order	order	X
+26	of	of	X
+27	Protestant	Protestant	X
+28	Pietists	Pietists	X
+29	)	)	X
+30	.	.	X
+# text = Monotheism and Holy War obviously does have a violent interpretation of Salafism , rather as the the leaders of the so - called German Peasant Rebellion among early Protestants did .
+# BIO = B-NP O B-NP I-NP O O O B-NP I-NP I-NP O B-NP O O O O B-NP I-NP O B-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP I-NP O O
+# RELS = 
+1	Monotheism	Monotheism	X
+2	and	and	X
+3	Holy	Holy	X
+4	War	War	X
+5	obviously	obviously	X
+6	does	does	X
+7	have	have	X
+8	a	a	X
+9	violent	violent	X
+10	interpretation	interpretation	X
+11	of	of	X
+12	Salafism	Salafism	X
+13	,	,	X
+14	rather	rather	X
+15	as	as	X
+16	the	the	X
+17	the	the	X
+18	leaders	leaders	X
+19	of	of	X
+20	the	the	X
+21	so	so	X
+22	-	-	X
+23	called	called	X
+24	German	German	X
+25	Peasant	Peasant	X
+26	Rebellion	Rebellion	X
+27	among	among	X
+28	early	early	X
+29	Protestants	Protestants	X
+30	did	did	X
+31	.	.	X
+# text = Another worrisome sign is that local Iraqi Sunni fundamentalists opposed to the US presence in Iraq have begun joining Monotheism and Holy War , and wearing its distinctive orange and black insignia .
+# BIO = B-NP I-NP I-NP O O B-NP I-NP I-NP I-NP O O B-NP I-NP I-NP O B-NP O O O B-NP O B-NP I-NP O O O O B-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	Another	Another	X
+2	worrisome	worrisome	X
+3	sign	sign	X
+4	is	is	X
+5	that	that	X
+6	local	local	X
+7	Iraqi	Iraqi	X
+8	Sunni	Sunni	X
+9	fundamentalists	fundamentalists	X
+10	opposed	opposed	X
+11	to	to	X
+12	the	the	X
+13	US	US	X
+14	presence	presence	X
+15	in	in	X
+16	Iraq	Iraq	X
+17	have	have	X
+18	begun	begun	X
+19	joining	joining	X
+20	Monotheism	Monotheism	X
+21	and	and	X
+22	Holy	Holy	X
+23	War	War	X
+24	,	,	X
+25	and	and	X
+26	wearing	wearing	X
+27	its	its	X
+28	distinctive	distinctive	X
+29	orange	orange	X
+30	and	and	X
+31	black	black	X
+32	insignia	insignia	X
+33	.	.	X
+# text = These have been sighted among Iraqi crowds on Haifa Street in Baghdad and in Samarra .
+# BIO = O O O O O B-NP I-NP O B-NP I-NP O B-NP O O B-NP O
+# RELS = (5,6,8,9,on)
+1	These	These	X
+2	have	have	X
+3	been	been	X
+4	sighted	sighted	X
+5	among	among	X
+6	Iraqi	Iraqi	X
+7	crowds	crowds	X
+8	on	on	X
+9	Haifa	Haifa	X
+10	Street	Street	X
+11	in	in	X
+12	Baghdad	Baghdad	X
+13	and	and	X
+14	in	in	X
+15	Samarra	Samarra	X
+16	.	.	X
+# text = So now there are hundreds of al - Qaeda members in Iraq where there had been none before .
+# BIO = O O O O B-NP O B-NP O B-NP I-NP O B-NP O O O O O O O
+# RELS = 
+1	So	So	X
+2	now	now	X
+3	there	there	X
+4	are	are	X
+5	hundreds	hundreds	X
+6	of	of	X
+7	al	al	X
+8	-	-	X
+9	Qaeda	Qaeda	X
+10	members	members	X
+11	in	in	X
+12	Iraq	Iraq	X
+13	where	where	X
+14	there	there	X
+15	had	had	X
+16	been	been	X
+17	none	none	X
+18	before	before	X
+19	.	.	X
+# text = The consolidation of smaller local radical fundamentalist groups with al - Qaeda can also be seen in the case of the Fizazi group in Tangiers that morphed into the Moroccan Islamic Combatant Group , had members who met with September 11 ringleader Muhammad Atta , and ultimately was in part responsible for the Madrid train bombings .
+# BIO = B-NP I-NP O B-NP I-NP I-NP I-NP I-NP O B-NP O B-NP O O O O O B-NP I-NP O B-NP I-NP I-NP O B-NP O O O B-NP I-NP I-NP I-NP I-NP O O B-NP O O O B-NP O B-NP I-NP I-NP O O O O O B-NP O O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	The	The	X
+2	consolidation	consolidation	X
+3	of	of	X
+4	smaller	smaller	X
+5	local	local	X
+6	radical	radical	X
+7	fundamentalist	fundamentalist	X
+8	groups	groups	X
+9	with	with	X
+10	al	al	X
+11	-	-	X
+12	Qaeda	Qaeda	X
+13	can	can	X
+14	also	also	X
+15	be	be	X
+16	seen	seen	X
+17	in	in	X
+18	the	the	X
+19	case	case	X
+20	of	of	X
+21	the	the	X
+22	Fizazi	Fizazi	X
+23	group	group	X
+24	in	in	X
+25	Tangiers	Tangiers	X
+26	that	that	X
+27	morphed	morphed	X
+28	into	into	X
+29	the	the	X
+30	Moroccan	Moroccan	X
+31	Islamic	Islamic	X
+32	Combatant	Combatant	X
+33	Group	Group	X
+34	,	,	X
+35	had	had	X
+36	members	members	X
+37	who	who	X
+38	met	met	X
+39	with	with	X
+40	September	September	X
+41	11	11	X
+42	ringleader	ringleader	X
+43	Muhammad	Muhammad	X
+44	Atta	Atta	X
+45	,	,	X
+46	and	and	X
+47	ultimately	ultimately	X
+48	was	was	X
+49	in	in	X
+50	part	part	X
+51	responsible	responsible	X
+52	for	for	X
+53	the	the	X
+54	Madrid	Madrid	X
+55	train	train	X
+56	bombings	bombings	X
+57	.	.	X
+# text = The September 11 Panel will issue its findings on Thursday .
+# BIO = B-NP I-NP I-NP I-NP O O O B-NP O B-NP O
+# RELS = 
+1	The	The	X
+2	September	September	X
+3	11	11	X
+4	Panel	Panel	X
+5	will	will	X
+6	issue	issue	X
+7	its	its	X
+8	findings	findings	X
+9	on	on	X
+10	Thursday	Thursday	X
+11	.	.	X
+# text = It notes 10 points at which the US made key mistakes that might have stopped Bin Laden 's plot .
+# BIO = O O O B-NP O O B-NP I-NP O B-NP I-NP O O O O B-NP I-NP O B-NP O
+# RELS = 
+1	It	It	X
+2	notes	notes	X
+3	10	10	X
+4	points	points	X
+5	at	at	X
+6	which	which	X
+7	the	the	X
+8	US	US	X
+9	made	made	X
+10	key	key	X
+11	mistakes	mistakes	X
+12	that	that	X
+13	might	might	X
+14	have	have	X
+15	stopped	stopped	X
+16	Bin	Bin	X
+17	Laden	Laden	X
+18	's	's	X
+19	plot	plot	X
+20	.	.	X
+# text = Four of these were under Clinton and 6 under Bush .
+# BIO = O O O O O B-NP O O O B-NP O
+# RELS = 
+1	Four	Four	X
+2	of	of	X
+3	these	these	X
+4	were	were	X
+5	under	under	X
+6	Clinton	Clinton	X
+7	and	and	X
+8	6	6	X
+9	under	under	X
+10	Bush	Bush	X
+11	.	.	X
+# text = Bush came out today and said that if he had known what was coming , he would have expended every effort to stop it , and that so would have Clinton .
+# BIO = B-NP O O B-NP O O O O O O O O O O O O O O O B-NP I-NP O O O O O O O O O B-NP O
+# RELS = 
+1	Bush	Bush	X
+2	came	came	X
+3	out	out	X
+4	today	today	X
+5	and	and	X
+6	said	said	X
+7	that	that	X
+8	if	if	X
+9	he	he	X
+10	had	had	X
+11	known	known	X
+12	what	what	X
+13	was	was	X
+14	coming	coming	X
+15	,	,	X
+16	he	he	X
+17	would	would	X
+18	have	have	X
+19	expended	expended	X
+20	every	every	X
+21	effort	effort	X
+22	to	to	X
+23	stop	stop	X
+24	it	it	X
+25	,	,	X
+26	and	and	X
+27	that	that	X
+28	so	so	X
+29	would	would	X
+30	have	have	X
+31	Clinton	Clinton	X
+32	.	.	X
+# text = This statement is , despite its facade of fair - mindedness , so many weasel words .
+# BIO = B-NP I-NP O O O O B-NP O B-NP I-NP I-NP O O B-NP I-NP I-NP O
+# RELS = 
+1	This	This	X
+2	statement	statement	X
+3	is	is	X
+4	,	,	X
+5	despite	despite	X
+6	its	its	X
+7	facade	facade	X
+8	of	of	X
+9	fair	fair	X
+10	-	-	X
+11	mindedness	mindedness	X
+12	,	,	X
+13	so	so	X
+14	many	many	X
+15	weasel	weasel	X
+16	words	words	X
+17	.	.	X
+# text = Of course Bush would have tried to stop 9/11 if he had known it was coming .
+# BIO = O B-NP I-NP O O O O O O O O O O O O O O
+# RELS = 
+1	Of	Of	X
+2	course	course	X
+3	Bush	Bush	X
+4	would	would	X
+5	have	have	X
+6	tried	tried	X
+7	to	to	X
+8	stop	stop	X
+9	9/11	9/11	X
+10	if	if	X
+11	he	he	X
+12	had	had	X
+13	known	known	X
+14	it	it	X
+15	was	was	X
+16	coming	coming	X
+17	.	.	X
+# text = The question is , " Should he have known it was coming ? "
+# BIO = B-NP I-NP O O O O O O O O O O O O
+# RELS = 
+1	The	The	X
+2	question	question	X
+3	is	is	X
+4	,	,	X
+5	"	"	X
+6	Should	Should	X
+7	he	he	X
+8	have	have	X
+9	known	known	X
+10	it	it	X
+11	was	was	X
+12	coming	coming	X
+13	?	?	X
+14	"	"	X
+# text = The answer is , " Yes ! "
+# BIO = B-NP I-NP O O O O O O
+# RELS = 
+1	The	The	X
+2	answer	answer	X
+3	is	is	X
+4	,	,	X
+5	"	"	X
+6	Yes	Yes	X
+7	!	!	X
+8	"	"	X
+# text = We now know that Bush and his administration came into office obsessed with Iraq .
+# BIO = O O O O B-NP O O B-NP O O B-NP O O B-NP O
+# RELS = 
+1	We	We	X
+2	now	now	X
+3	know	know	X
+4	that	that	X
+5	Bush	Bush	X
+6	and	and	X
+7	his	his	X
+8	administration	administration	X
+9	came	came	X
+10	into	into	X
+11	office	office	X
+12	obsessed	obsessed	X
+13	with	with	X
+14	Iraq	Iraq	X
+15	.	.	X
+# text = Cheney was looking at maps of Iraq oil fields and muttering about opportunities for US companies there , already in January or February of 2001 .
+# BIO = B-NP O O O B-NP O B-NP I-NP I-NP O O O B-NP O B-NP I-NP O O O O B-NP O B-NP O O O
+# RELS = 
+1	Cheney	Cheney	X
+2	was	was	X
+3	looking	looking	X
+4	at	at	X
+5	maps	maps	X
+6	of	of	X
+7	Iraq	Iraq	X
+8	oil	oil	X
+9	fields	fields	X
+10	and	and	X
+11	muttering	muttering	X
+12	about	about	X
+13	opportunities	opportunities	X
+14	for	for	X
+15	US	US	X
+16	companies	companies	X
+17	there	there	X
+18	,	,	X
+19	already	already	X
+20	in	in	X
+21	January	January	X
+22	or	or	X
+23	February	February	X
+24	of	of	X
+25	2001	2001	X
+26	.	.	X
+# text = Wolfowitz contradicted counter-terrorism czar Richard Clarke when the latter spoke of the al - Qaeda threat , insisting that the preeminent threat of terrorism against the US came from Iraq , and indicating he accepted Laurie Mylroie 's crackpot conspiracy theory that Saddam was behind the 1993 World Trade Towers bombing .
+# BIO = B-NP O B-NP I-NP I-NP I-NP O O O O O B-NP I-NP I-NP I-NP I-NP O O O B-NP I-NP I-NP O B-NP O B-NP I-NP O O B-NP O O O O O B-NP I-NP O B-NP I-NP I-NP O B-NP O O B-NP I-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	Wolfowitz	Wolfowitz	X
+2	contradicted	contradicted	X
+3	counter-terrorism	counter-terrorism	X
+4	czar	czar	X
+5	Richard	Richard	X
+6	Clarke	Clarke	X
+7	when	when	X
+8	the	the	X
+9	latter	latter	X
+10	spoke	spoke	X
+11	of	of	X
+12	the	the	X
+13	al	al	X
+14	-	-	X
+15	Qaeda	Qaeda	X
+16	threat	threat	X
+17	,	,	X
+18	insisting	insisting	X
+19	that	that	X
+20	the	the	X
+21	preeminent	preeminent	X
+22	threat	threat	X
+23	of	of	X
+24	terrorism	terrorism	X
+25	against	against	X
+26	the	the	X
+27	US	US	X
+28	came	came	X
+29	from	from	X
+30	Iraq	Iraq	X
+31	,	,	X
+32	and	and	X
+33	indicating	indicating	X
+34	he	he	X
+35	accepted	accepted	X
+36	Laurie	Laurie	X
+37	Mylroie	Mylroie	X
+38	's	's	X
+39	crackpot	crackpot	X
+40	conspiracy	conspiracy	X
+41	theory	theory	X
+42	that	that	X
+43	Saddam	Saddam	X
+44	was	was	X
+45	behind	behind	X
+46	the	the	X
+47	1993	1993	X
+48	World	World	X
+49	Trade	Trade	X
+50	Towers	Towers	X
+51	bombing	bombing	X
+52	.	.	X
+# text = If you believe crackpot theories instead of focusing on the reality -- that was an al - Qaeda operation mainly carried out by al - Gamaa al - Islamiyyah , an Egyptian terrorist component allied with Bin Laden -- then you will concentrate on the wrong threat .
+# BIO = O O O B-NP I-NP O O O O B-NP I-NP O O O B-NP I-NP I-NP I-NP I-NP O O O O B-NP O B-NP I-NP O B-NP O B-NP I-NP I-NP I-NP O O B-NP I-NP O O O O O O B-NP I-NP I-NP O
+# RELS = 
+1	If	If	X
+2	you	you	X
+3	believe	believe	X
+4	crackpot	crackpot	X
+5	theories	theories	X
+6	instead	instead	X
+7	of	of	X
+8	focusing	focusing	X
+9	on	on	X
+10	the	the	X
+11	reality	reality	X
+12	--	--	X
+13	that	that	X
+14	was	was	X
+15	an	an	X
+16	al	al	X
+17	-	-	X
+18	Qaeda	Qaeda	X
+19	operation	operation	X
+20	mainly	mainly	X
+21	carried	carried	X
+22	out	out	X
+23	by	by	X
+24	al	al	X
+25	-	-	X
+26	Gamaa	Gamaa	X
+27	al	al	X
+28	-	-	X
+29	Islamiyyah	Islamiyyah	X
+30	,	,	X
+31	an	an	X
+32	Egyptian	Egyptian	X
+33	terrorist	terrorist	X
+34	component	component	X
+35	allied	allied	X
+36	with	with	X
+37	Bin	Bin	X
+38	Laden	Laden	X
+39	--	--	X
+40	then	then	X
+41	you	you	X
+42	will	will	X
+43	concentrate	concentrate	X
+44	on	on	X
+45	the	the	X
+46	wrong	wrong	X
+47	threat	threat	X
+48	.	.	X
+# text = Even after the attacks on September 11 , Bush was obsessing about Iraq .
+# BIO = O O B-NP I-NP O B-NP O O B-NP O O O B-NP O
+# RELS = 
+1	Even	Even	X
+2	after	after	X
+3	the	the	X
+4	attacks	attacks	X
+5	on	on	X
+6	September	September	X
+7	11	11	X
+8	,	,	X
+9	Bush	Bush	X
+10	was	was	X
+11	obsessing	obsessing	X
+12	about	about	X
+13	Iraq	Iraq	X
+14	.	.	X
+# text = Wolfowitz lied to him and said that there was a 10 to 50 % chance that Iraq was behind them .
+# BIO = B-NP O O O O O O O O B-NP I-NP I-NP I-NP I-NP I-NP O B-NP O O O O
+# RELS = 
+1	Wolfowitz	Wolfowitz	X
+2	lied	lied	X
+3	to	to	X
+4	him	him	X
+5	and	and	X
+6	said	said	X
+7	that	that	X
+8	there	there	X
+9	was	was	X
+10	a	a	X
+11	10	10	X
+12	to	to	X
+13	50	50	X
+14	%	%	X
+15	chance	chance	X
+16	that	that	X
+17	Iraq	Iraq	X
+18	was	was	X
+19	behind	behind	X
+20	them	them	X
+21	.	.	X
+# text = ( On what evidence ?
+# BIO = O O B-NP I-NP O
+# RELS = 
+1	(	(	X
+2	On	On	X
+3	what	what	X
+4	evidence	evidence	X
+5	?	?	X
+# text = The hijackers were obviously al - Qaeda , and no operational links between al - Qaeda and Iraq had ever been found ) .
+# BIO = B-NP I-NP O O B-NP O B-NP O O B-NP I-NP I-NP O B-NP O B-NP O B-NP O O O O O O
+# RELS = 
+1	The	The	X
+2	hijackers	hijackers	X
+3	were	were	X
+4	obviously	obviously	X
+5	al	al	X
+6	-	-	X
+7	Qaeda	Qaeda	X
+8	,	,	X
+9	and	and	X
+10	no	no	X
+11	operational	operational	X
+12	links	links	X
+13	between	between	X
+14	al	al	X
+15	-	-	X
+16	Qaeda	Qaeda	X
+17	and	and	X
+18	Iraq	Iraq	X
+19	had	had	X
+20	ever	ever	X
+21	been	been	X
+22	found	found	X
+23	)	)	X
+24	.	.	X
+# text = Rumsfeld initially rejected an attack on al - Qaeda bases in Afghanistan , saying there were " no good targets " in Afghanistan .
+# BIO = B-NP O O B-NP I-NP O B-NP O B-NP I-NP O B-NP O O O O O B-NP I-NP I-NP O O B-NP O
+# RELS = (3,4,8,9,on)
+1	Rumsfeld	Rumsfeld	X
+2	initially	initially	X
+3	rejected	rejected	X
+4	an	an	X
+5	attack	attack	X
+6	on	on	X
+7	al	al	X
+8	-	-	X
+9	Qaeda	Qaeda	X
+10	bases	bases	X
+11	in	in	X
+12	Afghanistan	Afghanistan	X
+13	,	,	X
+14	saying	saying	X
+15	there	there	X
+16	were	were	X
+17	"	"	X
+18	no	no	X
+19	good	good	X
+20	targets	targets	X
+21	"	"	X
+22	in	in	X
+23	Afghanistan	Afghanistan	X
+24	.	.	X
+# text = ( What about 40 al - Qaeda bases that had trained the 9/11 hijackers and other terrorists gunning for the United States ?? )
+# BIO = O O O O B-NP O B-NP I-NP O O O B-NP I-NP I-NP O B-NP I-NP O O B-NP I-NP I-NP O O
+# RELS = 
+1	(	(	X
+2	What	What	X
+3	about	about	X
+4	40	40	X
+5	al	al	X
+6	-	-	X
+7	Qaeda	Qaeda	X
+8	bases	bases	X
+9	that	that	X
+10	had	had	X
+11	trained	trained	X
+12	the	the	X
+13	9/11	9/11	X
+14	hijackers	hijackers	X
+15	and	and	X
+16	other	other	X
+17	terrorists	terrorists	X
+18	gunning	gunning	X
+19	for	for	X
+20	the	the	X
+21	United	United	X
+22	States	States	X
+23	??	??	X
+24	)	)	X
+# text = The Pentagon did not even have a plan for dealing with Afghanistan or al - Qaeda that it could pull off the shelf , according to Bob Woodward .
+# BIO = B-NP I-NP O O O O B-NP I-NP O O O B-NP O B-NP O B-NP O O O O O B-NP I-NP O O O B-NP I-NP O
+# RELS = 
+1	The	The	X
+2	Pentagon	Pentagon	X
+3	did	did	X
+4	not	not	X
+5	even	even	X
+6	have	have	X
+7	a	a	X
+8	plan	plan	X
+9	for	for	X
+10	dealing	dealing	X
+11	with	with	X
+12	Afghanistan	Afghanistan	X
+13	or	or	X
+14	al	al	X
+15	-	-	X
+16	Qaeda	Qaeda	X
+17	that	that	X
+18	it	it	X
+19	could	could	X
+20	pull	pull	X
+21	off	off	X
+22	the	the	X
+23	shelf	shelf	X
+24	,	,	X
+25	according	according	X
+26	to	to	X
+27	Bob	Bob	X
+28	Woodward	Woodward	X
+29	.	.	X
+# text = Bush did not have his eye on the ball .
+# BIO = B-NP O O O O B-NP O B-NP I-NP O
+# RELS = 
+1	Bush	Bush	X
+2	did	did	X
+3	not	not	X
+4	have	have	X
+5	his	his	X
+6	eye	eye	X
+7	on	on	X
+8	the	the	X
+9	ball	ball	X
+10	.	.	X
+# text = Neither did Cheney , Rumsfeld , or Wolfowitz .
+# BIO = O O B-NP O B-NP O O B-NP O
+# RELS = 
+1	Neither	Neither	X
+2	did	did	X
+3	Cheney	Cheney	X
+4	,	,	X
+5	Rumsfeld	Rumsfeld	X
+6	,	,	X
+7	or	or	X
+8	Wolfowitz	Wolfowitz	X
+9	.	.	X
+# text = They were playing Captain Ahab to Saddam 's great white whale .
+# BIO = O O O B-NP I-NP O B-NP O B-NP I-NP I-NP O
+# RELS = 
+1	They	They	X
+2	were	were	X
+3	playing	playing	X
+4	Captain	Captain	X
+5	Ahab	Ahab	X
+6	to	to	X
+7	Saddam	Saddam	X
+8	's	's	X
+9	great	great	X
+10	white	white	X
+11	whale	whale	X
+12	.	.	X
+# text = Imperial Hubris makes the case that lots of people in the CIA and counter-terrorism divisions elsewhere in the US government knew all about Bin Laden and the threat he posed .
+# BIO = B-NP I-NP O B-NP I-NP O B-NP O B-NP O B-NP I-NP O B-NP I-NP O O B-NP I-NP I-NP O O O B-NP I-NP O B-NP I-NP O O O
+# RELS = 
+1	Imperial	Imperial	X
+2	Hubris	Hubris	X
+3	makes	makes	X
+4	the	the	X
+5	case	case	X
+6	that	that	X
+7	lots	lots	X
+8	of	of	X
+9	people	people	X
+10	in	in	X
+11	the	the	X
+12	CIA	CIA	X
+13	and	and	X
+14	counter-terrorism	counter-terrorism	X
+15	divisions	divisions	X
+16	elsewhere	elsewhere	X
+17	in	in	X
+18	the	the	X
+19	US	US	X
+20	government	government	X
+21	knew	knew	X
+22	all	all	X
+23	about	about	X
+24	Bin	Bin	X
+25	Laden	Laden	X
+26	and	and	X
+27	the	the	X
+28	threat	threat	X
+29	he	he	X
+30	posed	posed	X
+31	.	.	X
+# text = They were from all accounts marginalized and not listened to .
+# BIO = O O O B-NP I-NP O O O O O O
+# RELS = 
+1	They	They	X
+2	were	were	X
+3	from	from	X
+4	all	all	X
+5	accounts	accounts	X
+6	marginalized	marginalized	X
+7	and	and	X
+8	not	not	X
+9	listened	listened	X
+10	to	to	X
+11	.	.	X
+# text = Bush demoted Dick Clarke , among the most vocal and focused of the al - Qaeda experts , from his cabinet .
+# BIO = B-NP O B-NP I-NP O O O O O O O O B-NP I-NP I-NP I-NP I-NP O O O B-NP O
+# RELS = 
+1	Bush	Bush	X
+2	demoted	demoted	X
+3	Dick	Dick	X
+4	Clarke	Clarke	X
+5	,	,	X
+6	among	among	X
+7	the	the	X
+8	most	most	X
+9	vocal	vocal	X
+10	and	and	X
+11	focused	focused	X
+12	of	of	X
+13	the	the	X
+14	al	al	X
+15	-	-	X
+16	Qaeda	Qaeda	X
+17	experts	experts	X
+18	,	,	X
+19	from	from	X
+20	his	his	X
+21	cabinet	cabinet	X
+22	.	.	X
+# text = Dick could never thereafter get any real cooperation from the cabinet officers , who outranked him , and he could not convince them to go to battle stations in the summer of 2001 when George Tenet 's hair was " on fire " about the excited chatter the CIA was picking up from radical Islamist terrorists .
+# BIO = B-NP O O O O B-NP I-NP I-NP O B-NP I-NP I-NP O O O O O O O O O O O O O O B-NP I-NP O B-NP I-NP O O O B-NP I-NP O B-NP O O O B-NP O O B-NP I-NP I-NP I-NP I-NP O O O O B-NP I-NP I-NP O
+# RELS = 
+1	Dick	Dick	X
+2	could	could	X
+3	never	never	X
+4	thereafter	thereafter	X
+5	get	get	X
+6	any	any	X
+7	real	real	X
+8	cooperation	cooperation	X
+9	from	from	X
+10	the	the	X
+11	cabinet	cabinet	X
+12	officers	officers	X
+13	,	,	X
+14	who	who	X
+15	outranked	outranked	X
+16	him	him	X
+17	,	,	X
+18	and	and	X
+19	he	he	X
+20	could	could	X
+21	not	not	X
+22	convince	convince	X
+23	them	them	X
+24	to	to	X
+25	go	go	X
+26	to	to	X
+27	battle	battle	X
+28	stations	stations	X
+29	in	in	X
+30	the	the	X
+31	summer	summer	X
+32	of	of	X
+33	2001	2001	X
+34	when	when	X
+35	George	George	X
+36	Tenet	Tenet	X
+37	's	's	X
+38	hair	hair	X
+39	was	was	X
+40	"	"	X
+41	on	on	X
+42	fire	fire	X
+43	"	"	X
+44	about	about	X
+45	the	the	X
+46	excited	excited	X
+47	chatter	chatter	X
+48	the	the	X
+49	CIA	CIA	X
+50	was	was	X
+51	picking	picking	X
+52	up	up	X
+53	from	from	X
+54	radical	radical	X
+55	Islamist	Islamist	X
+56	terrorists	terrorists	X
+57	.	.	X
+# text = As for the Clinton administration , let me say one thing in its defense .
+# BIO = O O B-NP I-NP I-NP O O O O O B-NP O O B-NP O
+# RELS = 
+1	As	As	X
+2	for	for	X
+3	the	the	X
+4	Clinton	Clinton	X
+5	administration	administration	X
+6	,	,	X
+7	let	let	X
+8	me	me	X
+9	say	say	X
+10	one	one	X
+11	thing	thing	X
+12	in	in	X
+13	its	its	X
+14	defense	defense	X
+15	.	.	X
+# text = Clinton had worked out a deal with Pakistani Prime Minister Nawaz Sharif in summer of 1999 that would have allowed the US to send a Special Ops team in after Bin Laden in Qandahar , based from Pakistan .
+# BIO = B-NP O O O B-NP I-NP O B-NP I-NP I-NP I-NP I-NP O B-NP O O O O O O B-NP I-NP O O B-NP I-NP I-NP I-NP O O B-NP I-NP O B-NP O O O B-NP O
+# RELS = 
+1	Clinton	Clinton	X
+2	had	had	X
+3	worked	worked	X
+4	out	out	X
+5	a	a	X
+6	deal	deal	X
+7	with	with	X
+8	Pakistani	Pakistani	X
+9	Prime	Prime	X
+10	Minister	Minister	X
+11	Nawaz	Nawaz	X
+12	Sharif	Sharif	X
+13	in	in	X
+14	summer	summer	X
+15	of	of	X
+16	1999	1999	X
+17	that	that	X
+18	would	would	X
+19	have	have	X
+20	allowed	allowed	X
+21	the	the	X
+22	US	US	X
+23	to	to	X
+24	send	send	X
+25	a	a	X
+26	Special	Special	X
+27	Ops	Ops	X
+28	team	team	X
+29	in	in	X
+30	after	after	X
+31	Bin	Bin	X
+32	Laden	Laden	X
+33	in	in	X
+34	Qandahar	Qandahar	X
+35	,	,	X
+36	based	based	X
+37	from	from	X
+38	Pakistan	Pakistan	X
+39	.	.	X
+# text = I presume you need the Pakistan base for rescue operations in case anything went wrong .
+# BIO = O O O O B-NP I-NP I-NP O B-NP I-NP O B-NP O O O O
+# RELS = 
+1	I	I	X
+2	presume	presume	X
+3	you	you	X
+4	need	need	X
+5	the	the	X
+6	Pakistan	Pakistan	X
+7	base	base	X
+8	for	for	X
+9	rescue	rescue	X
+10	operations	operations	X
+11	in	in	X
+12	case	case	X
+13	anything	anything	X
+14	went	went	X
+15	wrong	wrong	X
+16	.	.	X
+# text = You also need Pakistani air space .
+# BIO = O O O B-NP I-NP I-NP O
+# RELS = 
+1	You	You	X
+2	also	also	X
+3	need	need	X
+4	Pakistani	Pakistani	X
+5	air	air	X
+6	space	space	X
+7	.	.	X
+# text = The plan was all set and could have succeeded .
+# BIO = B-NP I-NP O O O O O O O O
+# RELS = 
+1	The	The	X
+2	plan	plan	X
+3	was	was	X
+4	all	all	X
+5	set	set	X
+6	and	and	X
+7	could	could	X
+8	have	have	X
+9	succeeded	succeeded	X
+10	.	.	X
+# text = But in fall of 1999 , Gen. Pervez Musharraf made a coup against Nawaz Sharif .
+# BIO = O O B-NP O O O B-NP I-NP I-NP O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	But	But	X
+2	in	in	X
+3	fall	fall	X
+4	of	of	X
+5	1999	1999	X
+6	,	,	X
+7	Gen.	Gen.	X
+8	Pervez	Pervez	X
+9	Musharraf	Musharraf	X
+10	made	made	X
+11	a	a	X
+12	coup	coup	X
+13	against	against	X
+14	Nawaz	Nawaz	X
+15	Sharif	Sharif	X
+16	.	.	X
+# text = The Pakistani army was rife with elements protective of the Taliban , and the new military government reneged on the deal .
+# BIO = B-NP I-NP I-NP O O O B-NP I-NP O B-NP I-NP O O B-NP I-NP I-NP I-NP O O B-NP I-NP O
+# RELS = 
+1	The	The	X
+2	Pakistani	Pakistani	X
+3	army	army	X
+4	was	was	X
+5	rife	rife	X
+6	with	with	X
+7	elements	elements	X
+8	protective	protective	X
+9	of	of	X
+10	the	the	X
+11	Taliban	Taliban	X
+12	,	,	X
+13	and	and	X
+14	the	the	X
+15	new	new	X
+16	military	military	X
+17	government	government	X
+18	reneged	reneged	X
+19	on	on	X
+20	the	the	X
+21	deal	deal	X
+22	.	.	X
+# text = Musharraf told Clinton he could n't use Pakistani soil or air space to send the team in against Bin Laden .
+# BIO = B-NP O B-NP O O O O B-NP I-NP O B-NP I-NP O O B-NP I-NP O O B-NP I-NP O
+# RELS = 
+1	Musharraf	Musharraf	X
+2	told	told	X
+3	Clinton	Clinton	X
+4	he	he	X
+5	could	could	X
+6	n't	n't	X
+7	use	use	X
+8	Pakistani	Pakistani	X
+9	soil	soil	X
+10	or	or	X
+11	air	air	X
+12	space	space	X
+13	to	to	X
+14	send	send	X
+15	the	the	X
+16	team	team	X
+17	in	in	X
+18	against	against	X
+19	Bin	Bin	X
+20	Laden	Laden	X
+21	.	.	X
+# text = Look at a map and you try to figure out how , in fall of 1999 , you could possibly pull off such an operation without Pakistani facilities .
+# BIO = O O B-NP I-NP O O O O O O O O O B-NP O O O O O O O O B-NP I-NP I-NP O B-NP I-NP O
+# RELS = 
+1	Look	Look	X
+2	at	at	X
+3	a	a	X
+4	map	map	X
+5	and	and	X
+6	you	you	X
+7	try	try	X
+8	to	to	X
+9	figure	figure	X
+10	out	out	X
+11	how	how	X
+12	,	,	X
+13	in	in	X
+14	fall	fall	X
+15	of	of	X
+16	1999	1999	X
+17	,	,	X
+18	you	you	X
+19	could	could	X
+20	possibly	possibly	X
+21	pull	pull	X
+22	off	off	X
+23	such	such	X
+24	an	an	X
+25	operation	operation	X
+26	without	without	X
+27	Pakistani	Pakistani	X
+28	facilities	facilities	X
+29	.	.	X
+# text = Of course , you could just go in by main force .
+# BIO = O B-NP O O O O O O O B-NP I-NP O
+# RELS = 
+1	Of	Of	X
+2	course	course	X
+3	,	,	X
+4	you	you	X
+5	could	could	X
+6	just	just	X
+7	go	go	X
+8	in	in	X
+9	by	by	X
+10	main	main	X
+11	force	force	X
+12	.	.	X
+# text = But for those of you tempted in that direction , please look up Carter 's Tabas operation .
+# BIO = O O O O O O O B-NP I-NP O O O O B-NP O B-NP I-NP O
+# RELS = 
+1	But	But	X
+2	for	for	X
+3	those	those	X
+4	of	of	X
+5	you	you	X
+6	tempted	tempted	X
+7	in	in	X
+8	that	that	X
+9	direction	direction	X
+10	,	,	X
+11	please	please	X
+12	look	look	X
+13	up	up	X
+14	Carter	Carter	X
+15	's	's	X
+16	Tabas	Tabas	X
+17	operation	operation	X
+18	.	.	X
+# text = It should be easily googled .
+# BIO = O O O O O O
+# RELS = 
+1	It	It	X
+2	should	should	X
+3	be	be	X
+4	easily	easily	X
+5	googled	googled	X
+6	.	.	X
+# text = Clinton tried , and tried hard .
+# BIO = B-NP O O O O O O
+# RELS = 
+1	Clinton	Clinton	X
+2	tried	tried	X
+3	,	,	X
+4	and	and	X
+5	tried	tried	X
+6	hard	hard	X
+7	.	.	X
+# text = The gods were n't with us on that one .
+# BIO = B-NP I-NP O O O O O B-NP I-NP O
+# RELS = 
+1	The	The	X
+2	gods	gods	X
+3	were	were	X
+4	n't	n't	X
+5	with	with	X
+6	us	us	X
+7	on	on	X
+8	that	that	X
+9	one	one	X
+10	.	.	X
+# text = that is how i want you to refer to me as " the king "
+# BIO = O O O O O O O O O O O O B-NP I-NP O
+# RELS = 
+1	that	that	X
+2	is	is	X
+3	how	how	X
+4	i	i	X
+5	want	want	X
+6	you	you	X
+7	to	to	X
+8	refer	refer	X
+9	to	to	X
+10	me	me	X
+11	as	as	X
+12	"	"	X
+13	the	the	X
+14	king	king	X
+15	"	"	X
+# text = i do n't think so .
+# BIO = O O O O O O
+# RELS = 
+1	i	i	X
+2	do	do	X
+3	n't	n't	X
+4	think	think	X
+5	so	so	X
+6	.	.	X
+# text = i 'm the king
+# BIO = O O B-NP I-NP
+# RELS = 
+1	i	i	X
+2	'm	'm	X
+3	the	the	X
+4	king	king	X
+# text = yeah
+# BIO = O
+# RELS = 
+1	yeah	yeah	X
+# text = sounds exciting .
+# BIO = O O O
+# RELS = 
+1	sounds	sounds	X
+2	exciting	exciting	X
+3	.	.	X
+# text = want to go to dinner with me before you have your ' matt time ' ?
+# BIO = O O O O B-NP O O O O O O O B-NP I-NP O O
+# RELS = 
+1	want	want	X
+2	to	to	X
+3	go	go	X
+4	to	to	X
+5	dinner	dinner	X
+6	with	with	X
+7	me	me	X
+8	before	before	X
+9	you	you	X
+10	have	have	X
+11	your	your	X
+12	'	'	X
+13	matt	matt	X
+14	time	time	X
+15	'	'	X
+16	?	?	X
+# text = probablyl gon na just kick it
+# BIO = O O O O O O
+# RELS = 
+1	probablyl	probablyl	X
+2	gon	gon	X
+3	na	na	X
+4	just	just	X
+5	kick	kick	X
+6	it	it	X
+# text = you know , whatever .
+# BIO = O O O O O
+# RELS = 
+1	you	you	X
+2	know	know	X
+3	,	,	X
+4	whatever	whatever	X
+5	.	.	X
+# text = i will let you know later .
+# BIO = O O O O O O O
+# RELS = 
+1	i	i	X
+2	will	will	X
+3	let	let	X
+4	you	you	X
+5	know	know	X
+6	later	later	X
+7	.	.	X
+# text = what are you doing tonight .
+# BIO = O O O O B-NP O
+# RELS = 
+1	what	what	X
+2	are	are	X
+3	you	you	X
+4	doing	doing	X
+5	tonight	tonight	X
+6	.	.	X
+# text = like what ?
+# BIO = O O O
+# RELS = 
+1	like	like	X
+2	what	what	X
+3	?	?	X
+# text = i can think of a few things
+# BIO = O O O O B-NP I-NP I-NP
+# RELS = 
+1	i	i	X
+2	can	can	X
+3	think	think	X
+4	of	of	X
+5	a	a	X
+6	few	few	X
+7	things	things	X
+# text = you r retarded .
+# BIO = O O O O
+# RELS = 
+1	you	you	X
+2	r	r	X
+3	retarded	retarded	X
+4	.	.	X
+# text = i used to have one .
+# BIO = O O O O O O
+# RELS = 
+1	i	i	X
+2	used	used	X
+3	to	to	X
+4	have	have	X
+5	one	one	X
+6	.	.	X
+# text = they are great dogs .
+# BIO = O O B-NP I-NP O
+# RELS = 
+1	they	they	X
+2	are	are	X
+3	great	great	X
+4	dogs	dogs	X
+5	.	.	X
+# text = cocker spaniels are retarded .
+# BIO = B-NP I-NP O O O
+# RELS = 
+1	cocker	cocker	X
+2	spaniels	spaniels	X
+3	are	are	X
+4	retarded	retarded	X
+5	.	.	X
+# text = why do you think i should get one of those ?
+# BIO = O O O O O O O O O O O
+# RELS = 
+1	why	why	X
+2	do	do	X
+3	you	you	X
+4	think	think	X
+5	i	i	X
+6	should	should	X
+7	get	get	X
+8	one	one	X
+9	of	of	X
+10	those	those	X
+11	?	?	X
+# text = ca n't believe you left last night .
+# BIO = O O O O O B-NP I-NP O
+# RELS = 
+1	ca	ca	X
+2	n't	n't	X
+3	believe	believe	X
+4	you	you	X
+5	left	left	X
+6	last	last	X
+7	night	night	X
+8	.	.	X
+# text = nice sarcasm .
+# BIO = B-NP I-NP O
+# RELS = 
+1	nice	nice	X
+2	sarcasm	sarcasm	X
+3	.	.	X
+# text = that 's fine , i do n't want to see you either , i just need to make a cd .
+# BIO = O O O O O O O O O O O O O O O O O O B-NP I-NP O
+# RELS = 
+1	that	that	X
+2	's	's	X
+3	fine	fine	X
+4	,	,	X
+5	i	i	X
+6	do	do	X
+7	n't	n't	X
+8	want	want	X
+9	to	to	X
+10	see	see	X
+11	you	you	X
+12	either	either	X
+13	,	,	X
+14	i	i	X
+15	just	just	X
+16	need	need	X
+17	to	to	X
+18	make	make	X
+19	a	a	X
+20	cd	cd	X
+21	.	.	X
+# text = i ca n't wait
+# BIO = O O O O
+# RELS = 
+1	i	i	X
+2	ca	ca	X
+3	n't	n't	X
+4	wait	wait	X
+# text = i was thinking somewhere that requires a jacket , like tony 's .
+# BIO = O O O O O O B-NP I-NP O O B-NP O O
+# RELS = 
+1	i	i	X
+2	was	was	X
+3	thinking	thinking	X
+4	somewhere	somewhere	X
+5	that	that	X
+6	requires	requires	X
+7	a	a	X
+8	jacket	jacket	X
+9	,	,	X
+10	like	like	X
+11	tony	tony	X
+12	's	's	X
+13	.	.	X
+# text = someplace that is like $ 30 an entree .
+# BIO = O O O O O O B-NP I-NP O
+# RELS = 
+1	someplace	someplace	X
+2	that	that	X
+3	is	is	X
+4	like	like	X
+5	$	$	X
+6	30	30	X
+7	an	an	X
+8	entree	entree	X
+9	.	.	X
+# text = yeah , i was thinking somewhere like mcdonald 's .
+# BIO = O O O O O O O B-NP O O
+# RELS = 
+1	yeah	yeah	X
+2	,	,	X
+3	i	i	X
+4	was	was	X
+5	thinking	thinking	X
+6	somewhere	somewhere	X
+7	like	like	X
+8	mcdonald	mcdonald	X
+9	's	's	X
+10	.	.	X
+# text = that may be too nice though .
+# BIO = O O O O O O O
+# RELS = 
+1	that	that	X
+2	may	may	X
+3	be	be	X
+4	too	too	X
+5	nice	nice	X
+6	though	though	X
+7	.	.	X
+# text = what do you think ?
+# BIO = O O O O O
+# RELS = 
+1	what	what	X
+2	do	do	X
+3	you	you	X
+4	think	think	X
+5	?	?	X
+# text = we can go somewhere nice .
+# BIO = O O O O B-ATTR O
+# RELS = 
+1	we	we	X
+2	can	can	X
+3	go	go	X
+4	somewhere	somewhere	X
+5	nice	nice	X
+6	.	.	X
+# text = real nice .
+# BIO = O B-NP O
+# RELS = 
+1	real	real	X
+2	nice	nice	X
+3	.	.	X
+# text = oh .
+# BIO = O O
+# RELS = 
+1	oh	oh	X
+2	.	.	X
+# text = my bad .
+# BIO = O B-NP O
+# RELS = 
+1	my	my	X
+2	bad	bad	X
+3	.	.	X
+# text = i must have had you messed up with some other girl i made the bet with .
+# BIO = O O O O O O O O B-NP I-NP I-NP O O B-NP I-NP O O
+# RELS = 
+1	i	i	X
+2	must	must	X
+3	have	have	X
+4	had	had	X
+5	you	you	X
+6	messed	messed	X
+7	up	up	X
+8	with	with	X
+9	some	some	X
+10	other	other	X
+11	girl	girl	X
+12	i	i	X
+13	made	made	X
+14	the	the	X
+15	bet	bet	X
+16	with	with	X
+17	.	.	X
+# text = bet ?
+# BIO = B-NP O
+# RELS = 
+1	bet	bet	X
+2	?	?	X
+# text = really , i have no idea what you 're talking about .
+# BIO = O O O O B-NP I-NP O O O O O O
+# RELS = 
+1	really	really	X
+2	,	,	X
+3	i	i	X
+4	have	have	X
+5	no	no	X
+6	idea	idea	X
+7	what	what	X
+8	you	you	X
+9	're	're	X
+10	talking	talking	X
+11	about	about	X
+12	.	.	X
+# text = you must be thinking of someone else .
+# BIO = O O O O O O O O
+# RELS = 
+1	you	you	X
+2	must	must	X
+3	be	be	X
+4	thinking	thinking	X
+5	of	of	X
+6	someone	someone	X
+7	else	else	X
+8	.	.	X
+# text = i do n't even like a&m , i would n't bet on them .
+# BIO = O O O O O B-NP O O O O O O O O
+# RELS = 
+1	i	i	X
+2	do	do	X
+3	n't	n't	X
+4	even	even	X
+5	like	like	X
+6	a&m	a&m	X
+7	,	,	X
+8	i	i	X
+9	would	would	X
+10	n't	n't	X
+11	bet	bet	X
+12	on	on	X
+13	them	them	X
+14	.	.	X
+# text = colorado beat texas a&m .
+# BIO = B-NP O B-NP I-NP O
+# RELS = 
+1	colorado	colorado	X
+2	beat	beat	X
+3	texas	texas	X
+4	a&m	a&m	X
+5	.	.	X
+# text = i know you remember the bet .
+# BIO = O O O O B-NP I-NP O
+# RELS = 
+1	i	i	X
+2	know	know	X
+3	you	you	X
+4	remember	remember	X
+5	the	the	X
+6	bet	bet	X
+7	.	.	X
+# text = no .
+# BIO = O O
+# RELS = 
+1	no	no	X
+2	.	.	X
+# text = i got her number though .
+# BIO = O O O B-NP O O
+# RELS = 
+1	i	i	X
+2	got	got	X
+3	her	her	X
+4	number	number	X
+5	though	though	X
+6	.	.	X
+# text = i want to hook up with that girl paige in the brown leather jacket .
+# BIO = O O O O O O B-NP I-NP I-NP O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	i	i	X
+2	want	want	X
+3	to	to	X
+4	hook	hook	X
+5	up	up	X
+6	with	with	X
+7	that	that	X
+8	girl	girl	X
+9	paige	paige	X
+10	in	in	X
+11	the	the	X
+12	brown	brown	X
+13	leather	leather	X
+14	jacket	jacket	X
+15	.	.	X
+# text = what happened to you ?
+# BIO = O O O O O
+# RELS = 
+1	what	what	X
+2	happened	happened	X
+3	to	to	X
+4	you	you	X
+5	?	?	X
+# text = i had a blast that night .
+# BIO = O O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	i	i	X
+2	had	had	X
+3	a	a	X
+4	blast	blast	X
+5	that	that	X
+6	night	night	X
+7	.	.	X
+# text = did you hook up with that blonde chick saturday night ?
+# BIO = O O O O O B-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	did	did	X
+2	you	you	X
+3	hook	hook	X
+4	up	up	X
+5	with	with	X
+6	that	that	X
+7	blonde	blonde	X
+8	chick	chick	X
+9	saturday	saturday	X
+10	night	night	X
+11	?	?	X
+# text = no i am not lying .
+# BIO = O O O O O O
+# RELS = 
+1	no	no	X
+2	i	i	X
+3	am	am	X
+4	not	not	X
+5	lying	lying	X
+6	.	.	X
+# text = i flew here last night .
+# BIO = O O O B-NP I-NP O
+# RELS = 
+1	i	i	X
+2	flew	flew	X
+3	here	here	X
+4	last	last	X
+5	night	night	X
+6	.	.	X
+# text = are you lying ?
+# BIO = O O O O
+# RELS = 
+1	are	are	X
+2	you	you	X
+3	lying	lying	X
+4	?	?	X
+# text = i am out of town .
+# BIO = O O O O B-NP O
+# RELS = 
+1	i	i	X
+2	am	am	X
+3	out	out	X
+4	of	of	X
+5	town	town	X
+6	.	.	X
+# text = i am in portland .
+# BIO = O O O B-NP O
+# RELS = 
+1	i	i	X
+2	am	am	X
+3	in	in	X
+4	portland	portland	X
+5	.	.	X
+# text = you can buy me dinner when we get back .
+# BIO = O O O O B-NP O O O O O
+# RELS = 
+1	you	you	X
+2	can	can	X
+3	buy	buy	X
+4	me	me	X
+5	dinner	dinner	X
+6	when	when	X
+7	we	we	X
+8	get	get	X
+9	back	back	X
+10	.	.	X
+# text = i am sure they are .
+# BIO = O O O O O O
+# RELS = 
+1	i	i	X
+2	am	am	X
+3	sure	sure	X
+4	they	they	X
+5	are	are	X
+6	.	.	X
+# text = houston wo n't be too affected b/c most of the layoffs affect satelite offices .
+# BIO = B-NP O O O O O O O O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	houston	houston	X
+2	wo	wo	X
+3	n't	n't	X
+4	be	be	X
+5	too	too	X
+6	affected	affected	X
+7	b/c	b/c	X
+8	most	most	X
+9	of	of	X
+10	the	the	X
+11	layoffs	layoffs	X
+12	affect	affect	X
+13	satelite	satelite	X
+14	offices	offices	X
+15	.	.	X
+# text = economy should be good here .
+# BIO = B-NP O O O O O
+# RELS = 
+1	economy	economy	X
+2	should	should	X
+3	be	be	X
+4	good	good	X
+5	here	here	X
+6	.	.	X
+# text = hopefully she does n't hose you .
+# BIO = O O O O O O O
+# RELS = 
+1	hopefully	hopefully	X
+2	she	she	X
+3	does	does	X
+4	n't	n't	X
+5	hose	hose	X
+6	you	you	X
+7	.	.	X
+# text = I 'll probably start looking next weekend .
+# BIO = O O O O O B-NP I-NP O
+# RELS = 
+1	I	I	X
+2	'll	'll	X
+3	probably	probably	X
+4	start	start	X
+5	looking	looking	X
+6	next	next	X
+7	weekend	weekend	X
+8	.	.	X
+# text = I heard that more may be going up for sale in the next month or do .
+# BIO = O O O O O O O O O B-NP O B-NP I-NP I-NP O O O
+# RELS = 
+1	I	I	X
+2	heard	heard	X
+3	that	that	X
+4	more	more	X
+5	may	may	X
+6	be	be	X
+7	going	going	X
+8	up	up	X
+9	for	for	X
+10	sale	sale	X
+11	in	in	X
+12	the	the	X
+13	next	next	X
+14	month	month	X
+15	or	or	X
+16	do	do	X
+17	.	.	X
+# text = Someone told me that Chase is planning a shitload of layoffs .
+# BIO = O O O O B-NP O O B-NP I-NP O B-NP O
+# RELS = 
+1	Someone	Someone	X
+2	told	told	X
+3	me	me	X
+4	that	that	X
+5	Chase	Chase	X
+6	is	is	X
+7	planning	planning	X
+8	a	a	X
+9	shitload	shitload	X
+10	of	of	X
+11	layoffs	layoffs	X
+12	.	.	X
+# text = I am not sure how reliable that is , though .
+# BIO = O O O O O O O O O O O
+# RELS = 
+1	I	I	X
+2	am	am	X
+3	not	not	X
+4	sure	sure	X
+5	how	how	X
+6	reliable	reliable	X
+7	that	that	X
+8	is	is	X
+9	,	,	X
+10	though	though	X
+11	.	.	X
+# text = she is waiting to see if she can get financing .
+# BIO = O O O O O O O O O B-NP O
+# RELS = 
+1	she	she	X
+2	is	is	X
+3	waiting	waiting	X
+4	to	to	X
+5	see	see	X
+6	if	if	X
+7	she	she	X
+8	can	can	X
+9	get	get	X
+10	financing	financing	X
+11	.	.	X
+# text = Mike McConnell
+# BIO = B-NP I-NP
+# RELS = 
+1	Mike	Mike	X
+2	McConnell	McConnell	X
+# text = 07/06/2000 14:57
+# BIO = O O
+# RELS = 
+1	07/06/2000	07/06/2000	X
+2	14:57	14:57	X
+# text = John ,
+# BIO = B-NP O
+# RELS = 
+1	John	John	X
+2	,	,	X
+# text = Hello from South America .
+# BIO = O O B-NP I-NP O
+# RELS = 
+1	Hello	Hello	X
+2	from	from	X
+3	South	South	X
+4	America	America	X
+5	.	.	X
+# text = I just got your email and I certainly concur with Jeff making the call .
+# BIO = O O O O B-NP O O O O O B-NP O B-NP I-NP O
+# RELS = 
+1	I	I	X
+2	just	just	X
+3	got	got	X
+4	your	your	X
+5	email	email	X
+6	and	and	X
+7	I	I	X
+8	certainly	certainly	X
+9	concur	concur	X
+10	with	with	X
+11	Jeff	Jeff	X
+12	making	making	X
+13	the	the	X
+14	call	call	X
+15	.	.	X
+# text = He has maintained a good relationship with Mulva .
+# BIO = O O O B-NP I-NP I-NP O B-NP O
+# RELS = 
+1	He	He	X
+2	has	has	X
+3	maintained	maintained	X
+4	a	a	X
+5	good	good	X
+6	relationship	relationship	X
+7	with	with	X
+8	Mulva	Mulva	X
+9	.	.	X
+# text = This was a risk that we had but we did have assurances from Phillips regarding performance .
+# BIO = O O B-NP I-NP O O O O O O O B-NP O B-NP O B-NP O
+# RELS = 
+1	This	This	X
+2	was	was	X
+3	a	a	X
+4	risk	risk	X
+5	that	that	X
+6	we	we	X
+7	had	had	X
+8	but	but	X
+9	we	we	X
+10	did	did	X
+11	have	have	X
+12	assurances	assurances	X
+13	from	from	X
+14	Phillips	Phillips	X
+15	regarding	regarding	X
+16	performance	performance	X
+17	.	.	X
+# text = I do n't know how much it will help however .
+# BIO = O O O O O O O O O O O
+# RELS = 
+1	I	I	X
+2	do	do	X
+3	n't	n't	X
+4	know	know	X
+5	how	how	X
+6	much	much	X
+7	it	it	X
+8	will	will	X
+9	help	help	X
+10	however	however	X
+11	.	.	X
+# text = Richard Harper and Mary Nell Browning may have some ideas here but I am sure you 've already gone through it with them .
+# BIO = B-NP I-NP O B-NP I-NP I-NP O O B-NP I-NP O O O O O O O O O O O O O O
+# RELS = 
+1	Richard	Richard	X
+2	Harper	Harper	X
+3	and	and	X
+4	Mary	Mary	X
+5	Nell	Nell	X
+6	Browning	Browning	X
+7	may	may	X
+8	have	have	X
+9	some	some	X
+10	ideas	ideas	X
+11	here	here	X
+12	but	but	X
+13	I	I	X
+14	am	am	X
+15	sure	sure	X
+16	you	you	X
+17	've	've	X
+18	already	already	X
+19	gone	gone	X
+20	through	through	X
+21	it	it	X
+22	with	with	X
+23	them	them	X
+24	.	.	X
+# text = I am amazed how the details get fuzzy on an old project .
+# BIO = O O O O B-NP I-NP O O O B-NP I-NP I-NP O
+# RELS = 
+1	I	I	X
+2	am	am	X
+3	amazed	amazed	X
+4	how	how	X
+5	the	the	X
+6	details	details	X
+7	get	get	X
+8	fuzzy	fuzzy	X
+9	on	on	X
+10	an	an	X
+11	old	old	X
+12	project	project	X
+13	.	.	X
+# text = When you discussed it , i was trying to think back to our remedies and discussions but the 3 years have made it difficult .
+# BIO = O O O O O O O O O O O O O B-NP O B-NP O B-NP I-NP I-NP O O O O O
+# RELS = 
+1	When	When	X
+2	you	you	X
+3	discussed	discussed	X
+4	it	it	X
+5	,	,	X
+6	i	i	X
+7	was	was	X
+8	trying	trying	X
+9	to	to	X
+10	think	think	X
+11	back	back	X
+12	to	to	X
+13	our	our	X
+14	remedies	remedies	X
+15	and	and	X
+16	discussions	discussions	X
+17	but	but	X
+18	the	the	X
+19	3	3	X
+20	years	years	X
+21	have	have	X
+22	made	made	X
+23	it	it	X
+24	difficult	difficult	X
+25	.	.	X
+# text = I do n't know if there is anything I can do but I 'm always willing to help .
+# BIO = O O O O O O O O O O O O O O O O O O O
+# RELS = 
+1	I	I	X
+2	do	do	X
+3	n't	n't	X
+4	know	know	X
+5	if	if	X
+6	there	there	X
+7	is	is	X
+8	anything	anything	X
+9	I	I	X
+10	can	can	X
+11	do	do	X
+12	but	but	X
+13	I	I	X
+14	'm	'm	X
+15	always	always	X
+16	willing	willing	X
+17	to	to	X
+18	help	help	X
+19	.	.	X
+# text = Good luck ,
+# BIO = B-NP I-NP O
+# RELS = 
+1	Good	Good	X
+2	luck	luck	X
+3	,	,	X
+# text = Mike
+# BIO = B-NP
+# RELS = 
+1	Mike	Mike	X
+# text = These guys tried the Ken Lay route .
+# BIO = B-NP I-NP O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	These	These	X
+2	guys	guys	X
+3	tried	tried	X
+4	the	the	X
+5	Ken	Ken	X
+6	Lay	Lay	X
+7	route	route	X
+8	.	.	X
+# text = Now they are part of your working group .
+# BIO = O O O B-NP O O B-NP I-NP O
+# RELS = 
+1	Now	Now	X
+2	they	they	X
+3	are	are	X
+4	part	part	X
+5	of	of	X
+6	your	your	X
+7	working	working	X
+8	group	group	X
+9	.	.	X
+# text = Hilary E. Ackermann Goldman Sachs Credit Risk Management & Advisory Phone : 212-902-3724 Fax : 212-428-1181 E-Mail : hilary.ackermann@gs.com
+# BIO = B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP I-NP O O B-NP O O B-NP O B-NP
+# RELS = 
+1	Hilary	Hilary	X
+2	E.	E.	X
+3	Ackermann	Ackermann	X
+4	Goldman	Goldman	X
+5	Sachs	Sachs	X
+6	Credit	Credit	X
+7	Risk	Risk	X
+8	Management	Management	X
+9	&	&	X
+10	Advisory	Advisory	X
+11	Phone	Phone	X
+12	:	:	X
+13	212-902-3724	212-902-3724	X
+14	Fax	Fax	X
+15	:	:	X
+16	212-428-1181	212-428-1181	X
+17	E-Mail	E-Mail	X
+18	:	:	X
+19	hilary.ackermann@gs.com	hilary.ackermann@gs.com	X
+# text = Dear Mr. Lavorato :
+# BIO = B-NP I-NP I-NP O
+# RELS = 
+1	Dear	Dear	X
+2	Mr.	Mr.	X
+3	Lavorato	Lavorato	X
+4	:	:	X
+# text = Following up on your and Ken Lay 's conversation with Gary Cohn , I would like to forward the following proposal , acting for each of Goldman Sachs Capital Markets and J. Aron .
+# BIO = O O O O O B-NP I-NP O B-NP O B-NP I-NP O O O O O O B-NP I-NP I-NP O O O O O B-NP I-NP I-NP I-NP O B-NP I-NP O
+# RELS = 
+1	Following	Following	X
+2	up	up	X
+3	on	on	X
+4	your	your	X
+5	and	and	X
+6	Ken	Ken	X
+7	Lay	Lay	X
+8	's	's	X
+9	conversation	conversation	X
+10	with	with	X
+11	Gary	Gary	X
+12	Cohn	Cohn	X
+13	,	,	X
+14	I	I	X
+15	would	would	X
+16	like	like	X
+17	to	to	X
+18	forward	forward	X
+19	the	the	X
+20	following	following	X
+21	proposal	proposal	X
+22	,	,	X
+23	acting	acting	X
+24	for	for	X
+25	each	each	X
+26	of	of	X
+27	Goldman	Goldman	X
+28	Sachs	Sachs	X
+29	Capital	Capital	X
+30	Markets	Markets	X
+31	and	and	X
+32	J.	J.	X
+33	Aron	Aron	X
+34	.	.	X
+# text = Hilary E. Ackermann Goldman Sachs Credit Risk Management & Advisory Phone : 212-902-3724 Fax : 212-428-1181 E-Mail : hilary.ackermann@gs.com
+# BIO = B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP I-NP O O B-NP O O B-NP O B-NP
+# RELS = 
+1	Hilary	Hilary	X
+2	E.	E.	X
+3	Ackermann	Ackermann	X
+4	Goldman	Goldman	X
+5	Sachs	Sachs	X
+6	Credit	Credit	X
+7	Risk	Risk	X
+8	Management	Management	X
+9	&	&	X
+10	Advisory	Advisory	X
+11	Phone	Phone	X
+12	:	:	X
+13	212-902-3724	212-902-3724	X
+14	Fax	Fax	X
+15	:	:	X
+16	212-428-1181	212-428-1181	X
+17	E-Mail	E-Mail	X
+18	:	:	X
+19	hilary.ackermann@gs.com	hilary.ackermann@gs.com	X
+# text = Not going well
+# BIO = O O O
+# RELS = 
+1	Not	Not	X
+2	going	going	X
+3	well	well	X
+# text = Hello Louise ,
+# BIO = O B-NP O
+# RELS = 
+1	Hello	Hello	X
+2	Louise	Louise	X
+3	,	,	X
+# text = I know you must be going nuts with all the events , so I have not called .
+# BIO = O O O O O O O O B-NP I-NP I-NP O O O O O O O
+# RELS = 
+1	I	I	X
+2	know	know	X
+3	you	you	X
+4	must	must	X
+5	be	be	X
+6	going	going	X
+7	nuts	nuts	X
+8	with	with	X
+9	all	all	X
+10	the	the	X
+11	events	events	X
+12	,	,	X
+13	so	so	X
+14	I	I	X
+15	have	have	X
+16	not	not	X
+17	called	called	X
+18	.	.	X
+# text = Hope you will be sorted .
+# BIO = O O O O O O
+# RELS = 
+1	Hope	Hope	X
+2	you	you	X
+3	will	will	X
+4	be	be	X
+5	sorted	sorted	X
+6	.	.	X
+# text = Call me if you have time .
+# BIO = O O O O O B-NP O
+# RELS = 
+1	Call	Call	X
+2	me	me	X
+3	if	if	X
+4	you	you	X
+5	have	have	X
+6	time	time	X
+7	.	.	X
+# text = M
+# BIO = B-NP
+# RELS = 
+1	M	M	X
+# text = Please update daily
+# BIO = O O O
+# RELS = 
+1	Please	Please	X
+2	update	update	X
+3	daily	daily	X
+# text = Louise ,
+# BIO = B-NP O
+# RELS = 
+1	Louise	Louise	X
+2	,	,	X
+# text = There are only two counterparties at this time who have overdue margin :
+# BIO = O O O O B-NP O B-NP I-NP O O B-NP I-NP O
+# RELS = 
+1	There	There	X
+2	are	are	X
+3	only	only	X
+4	two	two	X
+5	counterparties	counterparties	X
+6	at	at	X
+7	this	this	X
+8	time	time	X
+9	who	who	X
+10	have	have	X
+11	overdue	overdue	X
+12	margin	margin	X
+13	:	:	X
+# text = Original Margin Call Margin Due Today
+# BIO = B-NP I-NP I-NP I-NP O B-NP
+# RELS = 
+1	Original	Original	X
+2	Margin	Margin	X
+3	Call	Call	X
+4	Margin	Margin	X
+5	Due	Due	X
+6	Today	Today	X
+# text = Kinder Morgan $ 3,500,000 $ 1,250,000
+# BIO = B-NP I-NP O O O O
+# RELS = 
+1	Kinder	Kinder	X
+2	Morgan	Morgan	X
+3	$	$	X
+4	3,500,000	3,500,000	X
+5	$	$	X
+6	1,250,000	1,250,000	X
+# text = AEP $ 19,250,000 $ 38,750,000
+# BIO = B-NP O O O O
+# RELS = 
+1	AEP	AEP	X
+2	$	$	X
+3	19,250,000	19,250,000	X
+4	$	$	X
+5	38,750,000	38,750,000	X
+# text = ------------------------------
+# BIO = O
+# RELS = 
+1	------------------------------	------------------------------	X
+# text = Totals $ 22,750,000 $ 40,000,000
+# BIO = B-NP O O O O
+# RELS = 
+1	Totals	Totals	X
+2	$	$	X
+3	22,750,000	22,750,000	X
+4	$	$	X
+5	40,000,000	40,000,000	X
+# text = Please let us know if you need any additional information .
+# BIO = O O O O O O O B-NP I-NP I-NP O
+# RELS = 
+1	Please	Please	X
+2	let	let	X
+3	us	us	X
+4	know	know	X
+5	if	if	X
+6	you	you	X
+7	need	need	X
+8	any	any	X
+9	additional	additional	X
+10	information	information	X
+11	.	.	X
+# text = Stephanie
+# BIO = B-NP
+# RELS = 
+1	Stephanie	Stephanie	X
+# text = not sure , but i assume that the bluegrass songbook is mine .
+# BIO = O O O O O O O B-NP I-NP I-NP O O O
+# RELS = 
+1	not	not	X
+2	sure	sure	X
+3	,	,	X
+4	but	but	X
+5	i	i	X
+6	assume	assume	X
+7	that	that	X
+8	the	the	X
+9	bluegrass	bluegrass	X
+10	songbook	songbook	X
+11	is	is	X
+12	mine	mine	X
+13	.	.	X
+# text = is it for guitar ?
+# BIO = O O O B-NP O
+# RELS = 
+1	is	is	X
+2	it	it	X
+3	for	for	X
+4	guitar	guitar	X
+5	?	?	X
+# text = I 'll need to ponder .
+# BIO = O O O O O O
+# RELS = 
+1	I	I	X
+2	'll	'll	X
+3	need	need	X
+4	to	to	X
+5	ponder	ponder	X
+6	.	.	X
+# text = I 'll try to get back to you pronto .
+# BIO = O O O O O O O O O O
+# RELS = 
+1	I	I	X
+2	'll	'll	X
+3	try	try	X
+4	to	to	X
+5	get	get	X
+6	back	back	X
+7	to	to	X
+8	you	you	X
+9	pronto	pronto	X
+10	.	.	X
+# text = FYI .
+# BIO = O O
+# RELS = 
+1	FYI	FYI	X
+2	.	.	X
+# text = We have this report ?
+# BIO = O O B-NP I-NP O
+# RELS = 
+1	We	We	X
+2	have	have	X
+3	this	this	X
+4	report	report	X
+5	?	?	X
+# text = Hi David :
+# BIO = O B-NP O
+# RELS = 
+1	Hi	Hi	X
+2	David	David	X
+3	:	:	X
+# text = Thought that you might be interested .
+# BIO = O O O O O O O
+# RELS = 
+1	Thought	Thought	X
+2	that	that	X
+3	you	you	X
+4	might	might	X
+5	be	be	X
+6	interested	interested	X
+7	.	.	X
+# text = Best ,
+# BIO = O O
+# RELS = 
+1	Best	Best	X
+2	,	,	X
+# text = Jeff
+# BIO = B-NP
+# RELS = 
+1	Jeff	Jeff	X
+# text = Well , he launched today .
+# BIO = O O O O B-NP O
+# RELS = 
+1	Well	Well	X
+2	,	,	X
+3	he	he	X
+4	launched	launched	X
+5	today	today	X
+6	.	.	X
+# text = Have you seen the materials from the press conference that he launched today ?
+# BIO = O O O B-NP I-NP O B-NP I-NP I-NP O O O B-NP O
+# RELS = 
+1	Have	Have	X
+2	you	you	X
+3	seen	seen	X
+4	the	the	X
+5	materials	materials	X
+6	from	from	X
+7	the	the	X
+8	press	press	X
+9	conference	conference	X
+10	that	that	X
+11	he	he	X
+12	launched	launched	X
+13	today	today	X
+14	?	?	X
+# text = I think this is actually a good thing -- makes our proposal look like a much more preferable alternative by comparison , makes our support in the process more important , and sets Harvey up as the Ralph Nader equivalent in the election to fix California 's broken system --- a potential spoiler .
+# BIO = O O O O O B-NP I-NP I-NP O O O B-NP O O B-NP I-NP I-NP I-NP I-NP O B-NP O O O B-NP O B-NP I-NP O O O O O B-NP O O B-NP I-NP I-NP I-NP O B-NP I-NP O O B-NP O B-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	I	I	X
+2	think	think	X
+3	this	this	X
+4	is	is	X
+5	actually	actually	X
+6	a	a	X
+7	good	good	X
+8	thing	thing	X
+9	--	--	X
+10	makes	makes	X
+11	our	our	X
+12	proposal	proposal	X
+13	look	look	X
+14	like	like	X
+15	a	a	X
+16	much	much	X
+17	more	more	X
+18	preferable	preferable	X
+19	alternative	alternative	X
+20	by	by	X
+21	comparison	comparison	X
+22	,	,	X
+23	makes	makes	X
+24	our	our	X
+25	support	support	X
+26	in	in	X
+27	the	the	X
+28	process	process	X
+29	more	more	X
+30	important	important	X
+31	,	,	X
+32	and	and	X
+33	sets	sets	X
+34	Harvey	Harvey	X
+35	up	up	X
+36	as	as	X
+37	the	the	X
+38	Ralph	Ralph	X
+39	Nader	Nader	X
+40	equivalent	equivalent	X
+41	in	in	X
+42	the	the	X
+43	election	election	X
+44	to	to	X
+45	fix	fix	X
+46	California	California	X
+47	's	's	X
+48	broken	broken	X
+49	system	system	X
+50	---	---	X
+51	a	a	X
+52	potential	potential	X
+53	spoiler	spoiler	X
+54	.	.	X
+# text = Hi .
+# BIO = O O
+# RELS = 
+1	Hi	Hi	X
+2	.	.	X
+# text = Well , would n't you know it .
+# BIO = O O O O O O O O
+# RELS = 
+1	Well	Well	X
+2	,	,	X
+3	would	would	X
+4	n't	n't	X
+5	you	you	X
+6	know	know	X
+7	it	it	X
+8	.	.	X
+# text = I 'm not driving tonite , but I bet that we could hitch a ride back with Anil .
+# BIO = O O O O B-NP O O O O O O O O B-NP I-NP O O B-NP O
+# RELS = 
+1	I	I	X
+2	'm	'm	X
+3	not	not	X
+4	driving	driving	X
+5	tonite	tonite	X
+6	,	,	X
+7	but	but	X
+8	I	I	X
+9	bet	bet	X
+10	that	that	X
+11	we	we	X
+12	could	could	X
+13	hitch	hitch	X
+14	a	a	X
+15	ride	ride	X
+16	back	back	X
+17	with	with	X
+18	Anil	Anil	X
+19	.	.	X
+# text = I 'm not sure , but I think that he 's got class tonite , too .
+# BIO = O O O O O O O O O O O O B-NP I-NP O O O
+# RELS = 
+1	I	I	X
+2	'm	'm	X
+3	not	not	X
+4	sure	sure	X
+5	,	,	X
+6	but	but	X
+7	I	I	X
+8	think	think	X
+9	that	that	X
+10	he	he	X
+11	's	's	X
+12	got	got	X
+13	class	class	X
+14	tonite	tonite	X
+15	,	,	X
+16	too	too	X
+17	.	.	X
+# text = I 'll search him out before class or after that break and see if I can set it up .
+# BIO = O O O O O O B-NP O O B-NP I-NP O O O O O O O O O
+# RELS = 
+1	I	I	X
+2	'll	'll	X
+3	search	search	X
+4	him	him	X
+5	out	out	X
+6	before	before	X
+7	class	class	X
+8	or	or	X
+9	after	after	X
+10	that	that	X
+11	break	break	X
+12	and	and	X
+13	see	see	X
+14	if	if	X
+15	I	I	X
+16	can	can	X
+17	set	set	X
+18	it	it	X
+19	up	up	X
+20	.	.	X
+# text = daily dose on enron -
+# BIO = B-NP I-NP O B-NP O
+# RELS = (0,1,3,3,on)
+1	daily	daily	X
+2	dose	dose	X
+3	on	on	X
+4	enron	enron	X
+5	-	-	X
+# text = we are finished .
+# BIO = O O O O
+# RELS = 
+1	we	we	X
+2	are	are	X
+3	finished	finished	X
+4	.	.	X
+# text = i need to now get a job at house of pies b/c that is the only way to pay the bills .
+# BIO = O O O O O B-NP I-NP O B-NP O B-NP O O O B-NP I-NP I-NP O O B-NP I-NP O
+# RELS = 
+1	i	i	X
+2	need	need	X
+3	to	to	X
+4	now	now	X
+5	get	get	X
+6	a	a	X
+7	job	job	X
+8	at	at	X
+9	house	house	X
+10	of	of	X
+11	pies	pies	X
+12	b/c	b/c	X
+13	that	that	X
+14	is	is	X
+15	the	the	X
+16	only	only	X
+17	way	way	X
+18	to	to	X
+19	pay	pay	X
+20	the	the	X
+21	bills	bills	X
+22	.	.	X
+# text = the economy is down and when enron collapses , the energy industry is going to be in a world of hurt .
+# BIO = B-NP I-NP O O O O B-NP O O B-NP I-NP I-NP O O O O O B-NP I-NP O B-NP O
+# RELS = 
+1	the	the	X
+2	economy	economy	X
+3	is	is	X
+4	down	down	X
+5	and	and	X
+6	when	when	X
+7	enron	enron	X
+8	collapses	collapses	X
+9	,	,	X
+10	the	the	X
+11	energy	energy	X
+12	industry	industry	X
+13	is	is	X
+14	going	going	X
+15	to	to	X
+16	be	be	X
+17	in	in	X
+18	a	a	X
+19	world	world	X
+20	of	of	X
+21	hurt	hurt	X
+22	.	.	X
+# text = not to mention the market is going to be flooded with enron folks .
+# BIO = O O O B-NP I-NP O O O O O O B-NP I-NP O
+# RELS = 
+1	not	not	X
+2	to	to	X
+3	mention	mention	X
+4	the	the	X
+5	market	market	X
+6	is	is	X
+7	going	going	X
+8	to	to	X
+9	be	be	X
+10	flooded	flooded	X
+11	with	with	X
+12	enron	enron	X
+13	folks	folks	X
+14	.	.	X
+# text = ca n't go to any more lsu games unless i get a free ticket .
+# BIO = O O O O B-NP I-NP I-NP I-NP O O O B-NP I-NP I-NP O
+# RELS = 
+1	ca	ca	X
+2	n't	n't	X
+3	go	go	X
+4	to	to	X
+5	any	any	X
+6	more	more	X
+7	lsu	lsu	X
+8	games	games	X
+9	unless	unless	X
+10	i	i	X
+11	get	get	X
+12	a	a	X
+13	free	free	X
+14	ticket	ticket	X
+15	.	.	X
+# text = Since work has gone to hell , I am hoping to find some excitement in the possibility that LSU may play in the Cotton Bowl ( if Rohan " Alabama " Davey shows up for the next 3 games . )
+# BIO = O B-NP O O O B-NP O O O O O O B-NP I-NP O B-NP I-NP O B-NP O O O B-NP I-NP I-NP O O B-NP O B-NP O B-NP O O O B-NP I-NP I-NP I-NP O O
+# RELS = 
+1	Since	Since	X
+2	work	work	X
+3	has	has	X
+4	gone	gone	X
+5	to	to	X
+6	hell	hell	X
+7	,	,	X
+8	I	I	X
+9	am	am	X
+10	hoping	hoping	X
+11	to	to	X
+12	find	find	X
+13	some	some	X
+14	excitement	excitement	X
+15	in	in	X
+16	the	the	X
+17	possibility	possibility	X
+18	that	that	X
+19	LSU	LSU	X
+20	may	may	X
+21	play	play	X
+22	in	in	X
+23	the	the	X
+24	Cotton	Cotton	X
+25	Bowl	Bowl	X
+26	(	(	X
+27	if	if	X
+28	Rohan	Rohan	X
+29	"	"	X
+30	Alabama	Alabama	X
+31	"	"	X
+32	Davey	Davey	X
+33	shows	shows	X
+34	up	up	X
+35	for	for	X
+36	the	the	X
+37	next	next	X
+38	3	3	X
+39	games	games	X
+40	.	.	X
+41	)	)	X
+# text = However , do not purchase tickets until it is a done deal - a lesson I learned following the Ark game last season .
+# BIO = O O O O O B-NP O O O B-NP I-NP I-NP O B-NP I-NP O O O B-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	However	However	X
+2	,	,	X
+3	do	do	X
+4	not	not	X
+5	purchase	purchase	X
+6	tickets	tickets	X
+7	until	until	X
+8	it	it	X
+9	is	is	X
+10	a	a	X
+11	done	done	X
+12	deal	deal	X
+13	-	-	X
+14	a	a	X
+15	lesson	lesson	X
+16	I	I	X
+17	learned	learned	X
+18	following	following	X
+19	the	the	X
+20	Ark	Ark	X
+21	game	game	X
+22	last	last	X
+23	season	season	X
+24	.	.	X
+# text = http://www.theadvocate.com/sports/story.asp?StoryID=16473
+# BIO = B-NP
+# RELS = 
+1	http://www.theadvocate.com/sports/story.asp?StoryID=16473	http://www.theadvocate.com/sports/story.asp?StoryID=16473	X
+# text = http://www.theadvocate.com/sports/story.asp?StoryID=16475
+# BIO = B-NP
+# RELS = 
+1	http://www.theadvocate.com/sports/story.asp?StoryID=16475	http://www.theadvocate.com/sports/story.asp?StoryID=16475	X
+# text = http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/lsunotes08.html
+# BIO = B-NP
+# RELS = 
+1	http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/lsunotes08.html	http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/lsunotes08.html	X
+# text = http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/secnotes08.html
+# BIO = B-NP
+# RELS = 
+1	http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/secnotes08.html	http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/secnotes08.html	X
+# text = http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/lsufoe08.html
+# BIO = B-NP
+# RELS = 
+1	http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/lsufoe08.html	http://www.nola.com/lsu/t-p/football/index.ssf?/lsustory/lsufoe08.html	X
+# text = i have stronger will than you think .
+# BIO = O O B-NP I-NP O O O O
+# RELS = 
+1	i	i	X
+2	have	have	X
+3	stronger	stronger	X
+4	will	will	X
+5	than	than	X
+6	you	you	X
+7	think	think	X
+8	.	.	X
+# text = house of pies here i come .
+# BIO = B-NP O B-NP O O O O
+# RELS = 
+1	house	house	X
+2	of	of	X
+3	pies	pies	X
+4	here	here	X
+5	i	i	X
+6	come	come	X
+7	.	.	X
+# text = i am sure i could have persuaded you to give me some action .
+# BIO = O O O O O O O O O O O B-NP I-NP O
+# RELS = 
+1	i	i	X
+2	am	am	X
+3	sure	sure	X
+4	i	i	X
+5	could	could	X
+6	have	have	X
+7	persuaded	persuaded	X
+8	you	you	X
+9	to	to	X
+10	give	give	X
+11	me	me	X
+12	some	some	X
+13	action	action	X
+14	.	.	X
+# text = why is enron blowing up ?
+# BIO = O O B-NP O O O
+# RELS = 
+1	why	why	X
+2	is	is	X
+3	enron	enron	X
+4	blowing	blowing	X
+5	up	up	X
+6	?	?	X
+# text = i did n't want you to go .
+# BIO = O O O O O O O O
+# RELS = 
+1	i	i	X
+2	did	did	X
+3	n't	n't	X
+4	want	want	X
+5	you	you	X
+6	to	to	X
+7	go	go	X
+8	.	.	X
+# text = i was just going to sleep anyway .
+# BIO = O O O O O O O O
+# RELS = 
+1	i	i	X
+2	was	was	X
+3	just	just	X
+4	going	going	X
+5	to	to	X
+6	sleep	sleep	X
+7	anyway	anyway	X
+8	.	.	X
+# text = i was too tired to give you any action .
+# BIO = O O O O O O O B-NP I-NP O
+# RELS = 
+1	i	i	X
+2	was	was	X
+3	too	too	X
+4	tired	tired	X
+5	to	to	X
+6	give	give	X
+7	you	you	X
+8	any	any	X
+9	action	action	X
+10	.	.	X
+# text = enron is blowing up .
+# BIO = B-NP O O O O
+# RELS = 
+1	enron	enron	X
+2	is	is	X
+3	blowing	blowing	X
+4	up	up	X
+5	.	.	X
+# text = Vince ,
+# BIO = B-NP O
+# RELS = 
+1	Vince	Vince	X
+2	,	,	X
+# text = We are still trying to work the PSE swap transaction , now that the forex desk has been able to find a fix for CPI in the market .
+# BIO = O O O O O O B-NP I-NP I-NP I-NP O O O B-NP I-NP I-NP O O O O O B-NP I-NP O B-NP O B-NP I-NP O
+# RELS = 
+1	We	We	X
+2	are	are	X
+3	still	still	X
+4	trying	trying	X
+5	to	to	X
+6	work	work	X
+7	the	the	X
+8	PSE	PSE	X
+9	swap	swap	X
+10	transaction	transaction	X
+11	,	,	X
+12	now	now	X
+13	that	that	X
+14	the	the	X
+15	forex	forex	X
+16	desk	desk	X
+17	has	has	X
+18	been	been	X
+19	able	able	X
+20	to	to	X
+21	find	find	X
+22	a	a	X
+23	fix	fix	X
+24	for	for	X
+25	CPI	CPI	X
+26	in	in	X
+27	the	the	X
+28	market	market	X
+29	.	.	X
+# text = Further to my voicemail , our colleagues in credit are calculating the reserve on the PSE swap .
+# BIO = O O O B-NP O O B-NP O B-NP O O B-NP I-NP O B-NP I-NP I-NP O
+# RELS = (11,12,14,16,on)
+1	Further	Further	X
+2	to	to	X
+3	my	my	X
+4	voicemail	voicemail	X
+5	,	,	X
+6	our	our	X
+7	colleagues	colleagues	X
+8	in	in	X
+9	credit	credit	X
+10	are	are	X
+11	calculating	calculating	X
+12	the	the	X
+13	reserve	reserve	X
+14	on	on	X
+15	the	the	X
+16	PSE	PSE	X
+17	swap	swap	X
+18	.	.	X
+# text = They are currently using 9.5 % fixed based on the 1 year implied volatility .
+# BIO = O O O O O O O O O B-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	They	They	X
+2	are	are	X
+3	currently	currently	X
+4	using	using	X
+5	9.5	9.5	X
+6	%	%	X
+7	fixed	fixed	X
+8	based	based	X
+9	on	on	X
+10	the	the	X
+11	1	1	X
+12	year	year	X
+13	implied	implied	X
+14	volatility	volatility	X
+15	.	.	X
+# text = Volatility of USD / DM has been in the range of between 7 % and 11 % .
+# BIO = B-NP O B-NP O B-NP O O O B-NP I-NP O O O O O O O O
+# RELS = 
+1	Volatility	Volatility	X
+2	of	of	X
+3	USD	USD	X
+4	/	/	X
+5	DM	DM	X
+6	has	has	X
+7	been	been	X
+8	in	in	X
+9	the	the	X
+10	range	range	X
+11	of	of	X
+12	between	between	X
+13	7	7	X
+14	%	%	X
+15	and	and	X
+16	11	11	X
+17	%	%	X
+18	.	.	X
+# text = Can one of your research staff justify a suitable 20 year volalatility number for USD / Euro .
+# BIO = O O O O B-NP I-NP O B-NP I-NP I-NP I-NP I-NP I-NP O B-NP O B-NP O
+# RELS = 
+1	Can	Can	X
+2	one	one	X
+3	of	of	X
+4	your	your	X
+5	research	research	X
+6	staff	staff	X
+7	justify	justify	X
+8	a	a	X
+9	suitable	suitable	X
+10	20	20	X
+11	year	year	X
+12	volalatility	volalatility	X
+13	number	number	X
+14	for	for	X
+15	USD	USD	X
+16	/	/	X
+17	Euro	Euro	X
+18	.	.	X
+# text = Ideally , we would like a fast turnaround .
+# BIO = O O O O O B-NP I-NP I-NP O
+# RELS = 
+1	Ideally	Ideally	X
+2	,	,	X
+3	we	we	X
+4	would	would	X
+5	like	like	X
+6	a	a	X
+7	fast	fast	X
+8	turnaround	turnaround	X
+9	.	.	X
+# text = In addition , is there someone who could consider the correlation between US CPI and the $ / euro exchange rate .
+# BIO = O B-NP O O O O O O O B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	In	In	X
+2	addition	addition	X
+3	,	,	X
+4	is	is	X
+5	there	there	X
+6	someone	someone	X
+7	who	who	X
+8	could	could	X
+9	consider	consider	X
+10	the	the	X
+11	correlation	correlation	X
+12	between	between	X
+13	US	US	X
+14	CPI	CPI	X
+15	and	and	X
+16	the	the	X
+17	$	$	X
+18	/	/	X
+19	euro	euro	X
+20	exchange	exchange	X
+21	rate	rate	X
+22	.	.	X
+# text = The credit guys are currently assuming that there is no correlation and may consequently be double dipping the credit reserve on this basis too .
+# BIO = B-NP I-NP I-NP O O O O O O B-NP I-NP O O O O O O B-NP I-NP I-NP O B-NP I-NP O O
+# RELS = 
+1	The	The	X
+2	credit	credit	X
+3	guys	guys	X
+4	are	are	X
+5	currently	currently	X
+6	assuming	assuming	X
+7	that	that	X
+8	there	there	X
+9	is	is	X
+10	no	no	X
+11	correlation	correlation	X
+12	and	and	X
+13	may	may	X
+14	consequently	consequently	X
+15	be	be	X
+16	double	double	X
+17	dipping	dipping	X
+18	the	the	X
+19	credit	credit	X
+20	reserve	reserve	X
+21	on	on	X
+22	this	this	X
+23	basis	basis	X
+24	too	too	X
+25	.	.	X
+# text = Grateful for any help or suggestions you could provide .
+# BIO = O O B-NP I-NP O B-NP O O O O
+# RELS = 
+1	Grateful	Grateful	X
+2	for	for	X
+3	any	any	X
+4	help	help	X
+5	or	or	X
+6	suggestions	suggestions	X
+7	you	you	X
+8	could	could	X
+9	provide	provide	X
+10	.	.	X
+# text = Sid
+# BIO = B-NP
+# RELS = 
+1	Sid	Sid	X
+# text = Vincent ,
+# BIO = B-NP O
+# RELS = 
+1	Vincent	Vincent	X
+2	,	,	X
+# text = I met you at the Risk conference last week in Houston .
+# BIO = O O O O B-NP I-NP I-NP I-NP I-NP O B-NP O
+# RELS = 
+1	I	I	X
+2	met	met	X
+3	you	you	X
+4	at	at	X
+5	the	the	X
+6	Risk	Risk	X
+7	conference	conference	X
+8	last	last	X
+9	week	week	X
+10	in	in	X
+11	Houston	Houston	X
+12	.	.	X
+# text = I enjoyed your presentations very much .
+# BIO = O O O B-NP O O O
+# RELS = 
+1	I	I	X
+2	enjoyed	enjoyed	X
+3	your	your	X
+4	presentations	presentations	X
+5	very	very	X
+6	much	much	X
+7	.	.	X
+# text = I was wondering if you could give me some references regarding the calculation of correlation coefficients from a GARCH model .
+# BIO = O O O O O O O O B-NP I-NP O B-NP I-NP O B-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	I	I	X
+2	was	was	X
+3	wondering	wondering	X
+4	if	if	X
+5	you	you	X
+6	could	could	X
+7	give	give	X
+8	me	me	X
+9	some	some	X
+10	references	references	X
+11	regarding	regarding	X
+12	the	the	X
+13	calculation	calculation	X
+14	of	of	X
+15	correlation	correlation	X
+16	coefficients	coefficients	X
+17	from	from	X
+18	a	a	X
+19	GARCH	GARCH	X
+20	model	model	X
+21	.	.	X
+# text = Thank you .
+# BIO = O O O
+# RELS = 
+1	Thank	Thank	X
+2	you	you	X
+3	.	.	X
+# text = Magali Van Belle Consultant PHB Hagler Bailly MANAGEMENT AND ECONOMIC CONSULTANTS PHB Hagler Bailly , Inc. ( 202 ) 828-3933 direct dial 1776 Eye Street , N.W. ( 202 ) 296-3858 facsimile Washington , D.C. 20006-3700 mvanbell@haglerbailly.com e-mail
+# BIO = B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O O B-NP I-NP I-NP I-NP O B-NP O O O O B-NP I-NP O B-NP I-NP O B-NP O O O O B-NP I-NP O B-NP O B-NP I-NP
+# RELS = 
+1	Magali	Magali	X
+2	Van	Van	X
+3	Belle	Belle	X
+4	Consultant	Consultant	X
+5	PHB	PHB	X
+6	Hagler	Hagler	X
+7	Bailly	Bailly	X
+8	MANAGEMENT	MANAGEMENT	X
+9	AND	AND	X
+10	ECONOMIC	ECONOMIC	X
+11	CONSULTANTS	CONSULTANTS	X
+12	PHB	PHB	X
+13	Hagler	Hagler	X
+14	Bailly	Bailly	X
+15	,	,	X
+16	Inc.	Inc.	X
+17	(	(	X
+18	202	202	X
+19	)	)	X
+20	828-3933	828-3933	X
+21	direct	direct	X
+22	dial	dial	X
+23	1776	1776	X
+24	Eye	Eye	X
+25	Street	Street	X
+26	,	,	X
+27	N.W.	N.W.	X
+28	(	(	X
+29	202	202	X
+30	)	)	X
+31	296-3858	296-3858	X
+32	facsimile	facsimile	X
+33	Washington	Washington	X
+34	,	,	X
+35	D.C.	D.C.	X
+36	20006-3700	20006-3700	X
+37	mvanbell@haglerbailly.com	mvanbell@haglerbailly.com	X
+38	e-mail	e-mail	X
+# text = Andrew Edison@ENRON
+# BIO = B-NP O
+# RELS = 
+1	Andrew	Andrew	X
+2	Edison@ENRON	Edison@ENRON	X
+# text = 06/02/2001 10:53 AM
+# BIO = O O B-NP
+# RELS = 
+1	06/02/2001	06/02/2001	X
+2	10:53	10:53	X
+3	AM	AM	X
+# text = I have settled the Ecogas / Enron / Randy Maffett lawsuit .
+# BIO = O O O B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	I	I	X
+2	have	have	X
+3	settled	settled	X
+4	the	the	X
+5	Ecogas	Ecogas	X
+6	/	/	X
+7	Enron	Enron	X
+8	/	/	X
+9	Randy	Randy	X
+10	Maffett	Maffett	X
+11	lawsuit	lawsuit	X
+12	.	.	X
+# text = No need to thank me , just send me gifts .
+# BIO = B-NP I-NP O O O O O O O B-NP O
+# RELS = 
+1	No	No	X
+2	need	need	X
+3	to	to	X
+4	thank	thank	X
+5	me	me	X
+6	,	,	X
+7	just	just	X
+8	send	send	X
+9	me	me	X
+10	gifts	gifts	X
+11	.	.	X
+# text = Seriously , I talked this morning with Tom Hall and we agreed that Ecogas would pay him $ 53,000 .
+# BIO = O O O O B-NP I-NP O B-NP I-NP O O O O B-NP O O O O O O
+# RELS = 
+1	Seriously	Seriously	X
+2	,	,	X
+3	I	I	X
+4	talked	talked	X
+5	this	this	X
+6	morning	morning	X
+7	with	with	X
+8	Tom	Tom	X
+9	Hall	Hall	X
+10	and	and	X
+11	we	we	X
+12	agreed	agreed	X
+13	that	that	X
+14	Ecogas	Ecogas	X
+15	would	would	X
+16	pay	pay	X
+17	him	him	X
+18	$	$	X
+19	53,000	53,000	X
+20	.	.	X
+# text = Hall has agreed to release Enron , Ecogas , Maffett and every affiliate , related party and subsidiary .
+# BIO = B-NP O O O O B-NP O B-NP O B-NP O B-NP I-NP O B-NP I-NP O B-NP O
+# RELS = 
+1	Hall	Hall	X
+2	has	has	X
+3	agreed	agreed	X
+4	to	to	X
+5	release	release	X
+6	Enron	Enron	X
+7	,	,	X
+8	Ecogas	Ecogas	X
+9	,	,	X
+10	Maffett	Maffett	X
+11	and	and	X
+12	every	every	X
+13	affiliate	affiliate	X
+14	,	,	X
+15	related	related	X
+16	party	party	X
+17	and	and	X
+18	subsidiary	subsidiary	X
+19	.	.	X
+# text = He will also release any and all patent issues .
+# BIO = O O O O B-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	He	He	X
+2	will	will	X
+3	also	also	X
+4	release	release	X
+5	any	any	X
+6	and	and	X
+7	all	all	X
+8	patent	patent	X
+9	issues	issues	X
+10	.	.	X
+# text = The goal is for him to move on with his life and for us to move on as well .
+# BIO = B-NP I-NP O O O O O O O O B-NP O O O O O O O O O
+# RELS = 
+1	The	The	X
+2	goal	goal	X
+3	is	is	X
+4	for	for	X
+5	him	him	X
+6	to	to	X
+7	move	move	X
+8	on	on	X
+9	with	with	X
+10	his	his	X
+11	life	life	X
+12	and	and	X
+13	for	for	X
+14	us	us	X
+15	to	to	X
+16	move	move	X
+17	on	on	X
+18	as	as	X
+19	well	well	X
+20	.	.	X
+# text = I have asked Doug Daniels to prepare the settlement papers reflecting such an agreement .
+# BIO = O O O B-NP I-NP O O B-NP I-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	I	I	X
+2	have	have	X
+3	asked	asked	X
+4	Doug	Doug	X
+5	Daniels	Daniels	X
+6	to	to	X
+7	prepare	prepare	X
+8	the	the	X
+9	settlement	settlement	X
+10	papers	papers	X
+11	reflecting	reflecting	X
+12	such	such	X
+13	an	an	X
+14	agreement	agreement	X
+15	.	.	X
+# text = Please handle .
+# BIO = O O O
+# RELS = 
+1	Please	Please	X
+2	handle	handle	X
+3	.	.	X
+# text = Becky Stephens@ENRON
+# BIO = B-NP O
+# RELS = 
+1	Becky	Becky	X
+2	Stephens@ENRON	Stephens@ENRON	X
+# text = 06/12/2000 10:20 AM
+# BIO = O O B-NP
+# RELS = 
+1	06/12/2000	06/12/2000	X
+2	10:20	10:20	X
+3	AM	AM	X
+# text = Richard , below is a list of oc invoices sent to you for approval on 5/30/00 .
+# BIO = B-NP O O O B-NP I-NP O B-NP I-NP O O O O B-NP O O O
+# RELS = 
+1	Richard	Richard	X
+2	,	,	X
+3	below	below	X
+4	is	is	X
+5	a	a	X
+6	list	list	X
+7	of	of	X
+8	oc	oc	X
+9	invoices	invoices	X
+10	sent	sent	X
+11	to	to	X
+12	you	you	X
+13	for	for	X
+14	approval	approval	X
+15	on	on	X
+16	5/30/00	5/30/00	X
+17	.	.	X
+# text = Please verify receipt at your earliest convenience .
+# BIO = O O B-NP O O B-NP I-NP O
+# RELS = 
+1	Please	Please	X
+2	verify	verify	X
+3	receipt	receipt	X
+4	at	at	X
+5	your	your	X
+6	earliest	earliest	X
+7	convenience	convenience	X
+8	.	.	X
+# text = Thank you for your help in tracking these invoices .
+# BIO = O O O O B-NP O O B-NP I-NP O
+# RELS = 
+1	Thank	Thank	X
+2	you	you	X
+3	for	for	X
+4	your	your	X
+5	help	help	X
+6	in	in	X
+7	tracking	tracking	X
+8	these	these	X
+9	invoices	invoices	X
+10	.	.	X
+# text = Holland & Hart , LLP ; # 432785 dated 4/14/00
+# BIO = B-NP O B-NP O B-NP O O O O O
+# RELS = 
+1	Holland	Holland	X
+2	&	&	X
+3	Hart	Hart	X
+4	,	,	X
+5	LLP	LLP	X
+6	;	;	X
+7	#	#	X
+8	432785	432785	X
+9	dated	dated	X
+10	4/14/00	4/14/00	X
+# text = Michael L. Beatty & Associates , PC ; # 10461 , # 10469 & # 10468 dated 5/28/00 .
+# BIO = B-NP I-NP I-NP O B-NP O B-NP O O O O O O O O O O O O
+# RELS = 
+1	Michael	Michael	X
+2	L.	L.	X
+3	Beatty	Beatty	X
+4	&	&	X
+5	Associates	Associates	X
+6	,	,	X
+7	PC	PC	X
+8	;	;	X
+9	#	#	X
+10	10461	10461	X
+11	,	,	X
+12	#	#	X
+13	10469	10469	X
+14	&	&	X
+15	#	#	X
+16	10468	10468	X
+17	dated	dated	X
+18	5/28/00	5/28/00	X
+19	.	.	X
+# text = Becky A. Stephens Litigation Unit , Enron Corp. 713/853-5025 EB 4809
+# BIO = B-NP I-NP I-NP I-NP I-NP O B-NP I-NP O B-NP O
+# RELS = 
+1	Becky	Becky	X
+2	A.	A.	X
+3	Stephens	Stephens	X
+4	Litigation	Litigation	X
+5	Unit	Unit	X
+6	,	,	X
+7	Enron	Enron	X
+8	Corp.	Corp.	X
+9	713/853-5025	713/853-5025	X
+10	EB	EB	X
+11	4809	4809	X
+# text = I am on board .
+# BIO = O O O B-NP O
+# RELS = 
+1	I	I	X
+2	am	am	X
+3	on	on	X
+4	board	board	X
+5	.	.	X
+# text = If the PX comes back again , I will call their in - house attys .
+# BIO = O B-NP I-NP O O O O O O O O O O B-NP I-NP O
+# RELS = 
+1	If	If	X
+2	the	the	X
+3	PX	PX	X
+4	comes	comes	X
+5	back	back	X
+6	again	again	X
+7	,	,	X
+8	I	I	X
+9	will	will	X
+10	call	call	X
+11	their	their	X
+12	in	in	X
+13	-	-	X
+14	house	house	X
+15	attys	attys	X
+16	.	.	X
+# text = Christian Yoder / ENRON@enronXgate
+# BIO = B-NP I-NP O B-NP
+# RELS = 
+1	Christian	Christian	X
+2	Yoder	Yoder	X
+3	/	/	X
+4	ENRON@enronXgate	ENRON@enronXgate	X
+# text = 06/04/2001 05:54 PM
+# BIO = O O B-NP
+# RELS = 
+1	06/04/2001	06/04/2001	X
+2	05:54	05:54	X
+3	PM	PM	X
+# text = Can you pass this along to Elizabeth to ensure Sanders is on board as well ?
+# BIO = O O O O O O B-NP O O B-NP O O B-NP O O O
+# RELS = 
+1	Can	Can	X
+2	you	you	X
+3	pass	pass	X
+4	this	this	X
+5	along	along	X
+6	to	to	X
+7	Elizabeth	Elizabeth	X
+8	to	to	X
+9	ensure	ensure	X
+10	Sanders	Sanders	X
+11	is	is	X
+12	on	on	X
+13	board	board	X
+14	as	as	X
+15	well	well	X
+16	?	?	X
+# text = We are renewing our L/C's on a month to month basis for the PX per Sanders .
+# BIO = O O O O B-NP O B-NP I-NP I-NP I-NP I-NP O B-NP I-NP O B-NP O
+# RELS = 
+1	We	We	X
+2	are	are	X
+3	renewing	renewing	X
+4	our	our	X
+5	L/C's	L/C's	X
+6	on	on	X
+7	a	a	X
+8	month	month	X
+9	to	to	X
+10	month	month	X
+11	basis	basis	X
+12	for	for	X
+13	the	the	X
+14	PX	PX	X
+15	per	per	X
+16	Sanders	Sanders	X
+17	.	.	X
+# text = However , the request below is to " replenish " the CASH that was drawn down ... please advise .
+# BIO = O O B-NP I-NP O O O O O O B-NP I-NP O O O O O O O O
+# RELS = 
+1	However	However	X
+2	,	,	X
+3	the	the	X
+4	request	request	X
+5	below	below	X
+6	is	is	X
+7	to	to	X
+8	"	"	X
+9	replenish	replenish	X
+10	"	"	X
+11	the	the	X
+12	CASH	CASH	X
+13	that	that	X
+14	was	was	X
+15	drawn	drawn	X
+16	down	down	X
+17	...	...	X
+18	please	please	X
+19	advise	advise	X
+20	.	.	X
+# text = I agree with Steve 's position stated in his separate e'mail .
+# BIO = O O O B-NP O B-NP O O O B-NP I-NP O
+# RELS = 
+1	I	I	X
+2	agree	agree	X
+3	with	with	X
+4	Steve	Steve	X
+5	's	's	X
+6	position	position	X
+7	stated	stated	X
+8	in	in	X
+9	his	his	X
+10	separate	separate	X
+11	e'mail	e'mail	X
+12	.	.	X
+# text = Do n't give these guys a penny .
+# BIO = O O O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	Do	Do	X
+2	n't	n't	X
+3	give	give	X
+4	these	these	X
+5	guys	guys	X
+6	a	a	X
+7	penny	penny	X
+8	.	.	X
+# text = ---- cgy
+# BIO = O B-NP
+# RELS = 
+1	----	----	X
+2	cgy	cgy	X
+# text = Tracy , Do we have concerns here .
+# BIO = B-NP O O O O B-NP O O
+# RELS = 
+1	Tracy	Tracy	X
+2	,	,	X
+3	Do	Do	X
+4	we	we	X
+5	have	have	X
+6	concerns	concerns	X
+7	here	here	X
+8	.	.	X
+# text = We pointed out to the PX that there was excess credit .
+# BIO = O O O O B-NP I-NP O O O B-NP I-NP O
+# RELS = 
+1	We	We	X
+2	pointed	pointed	X
+3	out	out	X
+4	to	to	X
+5	the	the	X
+6	PX	PX	X
+7	that	that	X
+8	there	there	X
+9	was	was	X
+10	excess	excess	X
+11	credit	credit	X
+12	.	.	X
+# text = By using collateral to pay these bills are we not keeping required levels available ?
+# BIO = O O B-NP O O B-NP I-NP O O O O B-NP I-NP O O
+# RELS = 
+1	By	By	X
+2	using	using	X
+3	collateral	collateral	X
+4	to	to	X
+5	pay	pay	X
+6	these	these	X
+7	bills	bills	X
+8	are	are	X
+9	we	we	X
+10	not	not	X
+11	keeping	keeping	X
+12	required	required	X
+13	levels	levels	X
+14	available	available	X
+15	?	?	X
+# text = Sara ,
+# BIO = B-NP O
+# RELS = 
+1	Sara	Sara	X
+2	,	,	X
+# text = Attached below is Davis Thames ' presentation regarding the proposed Project Bruin .
+# BIO = O O O B-NP I-NP O B-NP O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	Attached	Attached	X
+2	below	below	X
+3	is	is	X
+4	Davis	Davis	X
+5	Thames	Thames	X
+6	'	'	X
+7	presentation	presentation	X
+8	regarding	regarding	X
+9	the	the	X
+10	proposed	proposed	X
+11	Project	Project	X
+12	Bruin	Bruin	X
+13	.	.	X
+# text = I will forward the draft Bear Stearns term sheet separately .
+# BIO = O O O B-NP I-NP I-NP I-NP I-NP I-NP O O
+# RELS = 
+1	I	I	X
+2	will	will	X
+3	forward	forward	X
+4	the	the	X
+5	draft	draft	X
+6	Bear	Bear	X
+7	Stearns	Stearns	X
+8	term	term	X
+9	sheet	sheet	X
+10	separately	separately	X
+11	.	.	X
+# text = Paul
+# BIO = B-NP
+# RELS = 
+1	Paul	Paul	X
+# text = Team , sorry for the delay on getting this around .
+# BIO = B-NP O O O B-NP I-NP O O O O O
+# RELS = 
+1	Team	Team	X
+2	,	,	X
+3	sorry	sorry	X
+4	for	for	X
+5	the	the	X
+6	delay	delay	X
+7	on	on	X
+8	getting	getting	X
+9	this	this	X
+10	around	around	X
+11	.	.	X
+# text = Please advise when you can meet to discuss issues related to your area .
+# BIO = O O O O O O O O B-NP I-NP O O B-NP O
+# RELS = 
+1	Please	Please	X
+2	advise	advise	X
+3	when	when	X
+4	you	you	X
+5	can	can	X
+6	meet	meet	X
+7	to	to	X
+8	discuss	discuss	X
+9	issues	issues	X
+10	related	related	X
+11	to	to	X
+12	your	your	X
+13	area	area	X
+14	.	.	X
+# text = Thanks -
+# BIO = B-NP O
+# RELS = 
+1	Thanks	Thanks	X
+2	-	-	X
+# text = Davis
+# BIO = B-NP
+# RELS = 
+1	Davis	Davis	X
+# text = Clint :
+# BIO = B-NP O
+# RELS = 
+1	Clint	Clint	X
+2	:	:	X
+# text = I spoke with Mike Collins [ 203-719-8385 ( phone ) and 203-719-7031 ( fax ) ] who conrfirmed to me that the cap included the remaining 2.5 + million remaining shares .
+# BIO = O O O B-NP I-NP O O O B-NP O O O O B-NP O O O O O O O B-NP I-NP O B-NP I-NP I-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	I	I	X
+2	spoke	spoke	X
+3	with	with	X
+4	Mike	Mike	X
+5	Collins	Collins	X
+6	[	[	X
+7	203-719-8385	203-719-8385	X
+8	(	(	X
+9	phone	phone	X
+10	)	)	X
+11	and	and	X
+12	203-719-7031	203-719-7031	X
+13	(	(	X
+14	fax	fax	X
+15	)	)	X
+16	]	]	X
+17	who	who	X
+18	conrfirmed	conrfirmed	X
+19	to	to	X
+20	me	me	X
+21	that	that	X
+22	the	the	X
+23	cap	cap	X
+24	included	included	X
+25	the	the	X
+26	remaining	remaining	X
+27	2.5	2.5	X
+28	+	+	X
+29	million	million	X
+30	remaining	remaining	X
+31	shares	shares	X
+32	.	.	X
+# text = Please return an executed copy of confirm to me .
+# BIO = O O B-NP I-NP I-NP O B-NP O O O
+# RELS = 
+1	Please	Please	X
+2	return	return	X
+3	an	an	X
+4	executed	executed	X
+5	copy	copy	X
+6	of	of	X
+7	confirm	confirm	X
+8	to	to	X
+9	me	me	X
+10	.	.	X
+# text = Thanks .
+# BIO = B-NP O
+# RELS = 
+1	Thanks	Thanks	X
+2	.	.	X
+# text = sara
+# BIO = B-NP
+# RELS = 
+1	sara	sara	X
+# text = My assistant Joanne Rozycki has cell , car numbers to reach me .
+# BIO = O B-NP I-NP I-NP O B-NP O B-NP I-NP O O O O
+# RELS = 
+1	My	My	X
+2	assistant	assistant	X
+3	Joanne	Joanne	X
+4	Rozycki	Rozycki	X
+5	has	has	X
+6	cell	cell	X
+7	,	,	X
+8	car	car	X
+9	numbers	numbers	X
+10	to	to	X
+11	reach	reach	X
+12	me	me	X
+13	.	.	X
+# text = I 'll be back on Monday .
+# BIO = O O O O O B-NP O
+# RELS = 
+1	I	I	X
+2	'll	'll	X
+3	be	be	X
+4	back	back	X
+5	on	on	X
+6	Monday	Monday	X
+7	.	.	X
+# text = Sara Shackleton Enron Wholesale Services 1400 Smith Street , EB 3801a Houston , TX 77002 Ph : ( 713 ) 853-5620 Fax : ( 713 ) 646-3490
+# BIO = B-NP I-NP I-NP I-NP I-NP O B-NP I-NP O B-NP I-NP I-NP O B-NP O B-NP O O O O O B-NP O O O O O
+# RELS = 
+1	Sara	Sara	X
+2	Shackleton	Shackleton	X
+3	Enron	Enron	X
+4	Wholesale	Wholesale	X
+5	Services	Services	X
+6	1400	1400	X
+7	Smith	Smith	X
+8	Street	Street	X
+9	,	,	X
+10	EB	EB	X
+11	3801a	3801a	X
+12	Houston	Houston	X
+13	,	,	X
+14	TX	TX	X
+15	77002	77002	X
+16	Ph	Ph	X
+17	:	:	X
+18	(	(	X
+19	713	713	X
+20	)	)	X
+21	853-5620	853-5620	X
+22	Fax	Fax	X
+23	:	:	X
+24	(	(	X
+25	713	713	X
+26	)	)	X
+27	646-3490	646-3490	X
+# text = Thanks .
+# BIO = B-NP O
+# RELS = 
+1	Thanks	Thanks	X
+2	.	.	X
+# text = SS
+# BIO = B-NP
+# RELS = 
+1	SS	SS	X
+# text = Sara ,
+# BIO = B-NP O
+# RELS = 
+1	Sara	Sara	X
+2	,	,	X
+# text = Currently we have a blank " sample " for our Paragraph 13s which are attached to our sample ISDAs for ( a ) US Corporate , ( b ) Hedge Funds , ( c ) Municipal .
+# BIO = O O O B-NP I-NP I-NP I-NP O O O B-NP I-NP O O O O O B-NP I-NP O O O O B-NP O O O O O B-NP I-NP O O O O O O
+# RELS = 
+1	Currently	Currently	X
+2	we	we	X
+3	have	have	X
+4	a	a	X
+5	blank	blank	X
+6	"	"	X
+7	sample	sample	X
+8	"	"	X
+9	for	for	X
+10	our	our	X
+11	Paragraph	Paragraph	X
+12	13s	13s	X
+13	which	which	X
+14	are	are	X
+15	attached	attached	X
+16	to	to	X
+17	our	our	X
+18	sample	sample	X
+19	ISDAs	ISDAs	X
+20	for	for	X
+21	(	(	X
+22	a	a	X
+23	)	)	X
+24	US	US	X
+25	Corporate	Corporate	X
+26	,	,	X
+27	(	(	X
+28	b	b	X
+29	)	)	X
+30	Hedge	Hedge	X
+31	Funds	Funds	X
+32	,	,	X
+33	(	(	X
+34	c	c	X
+35	)	)	X
+36	Municipal	Municipal	X
+37	.	.	X
+# text = I will extract the one for the US corporate Paragraph 13 and email to your contact @ First Union Securities .
+# BIO = O O O B-NP I-NP O B-NP I-NP I-NP I-NP O O O O O B-NP O B-NP I-NP I-NP O
+# RELS = 
+1	I	I	X
+2	will	will	X
+3	extract	extract	X
+4	the	the	X
+5	one	one	X
+6	for	for	X
+7	the	the	X
+8	US	US	X
+9	corporate	corporate	X
+10	Paragraph	Paragraph	X
+11	13	13	X
+12	and	and	X
+13	email	email	X
+14	to	to	X
+15	your	your	X
+16	contact	contact	X
+17	@	@	X
+18	First	First	X
+19	Union	Union	X
+20	Securities	Securities	X
+21	.	.	X
+# text = The sample includes our " caveat " , so it should be fine .
+# BIO = B-NP I-NP O O O B-NP O O O O O O O O
+# RELS = 
+1	The	The	X
+2	sample	sample	X
+3	includes	includes	X
+4	our	our	X
+5	"	"	X
+6	caveat	caveat	X
+7	"	"	X
+8	,	,	X
+9	so	so	X
+10	it	it	X
+11	should	should	X
+12	be	be	X
+13	fine	fine	X
+14	.	.	X
+# text = Susan
+# BIO = B-NP
+# RELS = 
+1	Susan	Susan	X
+# text = Susan :
+# BIO = B-NP O
+# RELS = 
+1	Susan	Susan	X
+2	:	:	X
+# text = While Tanya is reviewing credit , can you please send a " blank form Paragraph 13 " for this master .
+# BIO = O B-NP O O B-NP O O O O O B-NP I-NP I-NP I-NP I-NP O O O B-NP I-NP O
+# RELS = 
+1	While	While	X
+2	Tanya	Tanya	X
+3	is	is	X
+4	reviewing	reviewing	X
+5	credit	credit	X
+6	,	,	X
+7	can	can	X
+8	you	you	X
+9	please	please	X
+10	send	send	X
+11	a	a	X
+12	"	"	X
+13	blank	blank	X
+14	form	form	X
+15	Paragraph	Paragraph	X
+16	13	13	X
+17	"	"	X
+18	for	for	X
+19	this	this	X
+20	master	master	X
+21	.	.	X
+# text = Just our standard .
+# BIO = O O O O
+# RELS = 
+1	Just	Just	X
+2	our	our	X
+3	standard	standard	X
+4	.	.	X
+# text = Caveat : subject to credit review even though there are blanks .
+# BIO = B-NP O O O B-NP I-NP O O O O B-NP O
+# RELS = 
+1	Caveat	Caveat	X
+2	:	:	X
+3	subject	subject	X
+4	to	to	X
+5	credit	credit	X
+6	review	review	X
+7	even	even	X
+8	though	though	X
+9	there	there	X
+10	are	are	X
+11	blanks	blanks	X
+12	.	.	X
+# text = Thanks .
+# BIO = B-NP O
+# RELS = 
+1	Thanks	Thanks	X
+2	.	.	X
+# text = Sara
+# BIO = B-NP
+# RELS = 
+1	Sara	Sara	X
+# text = First Union Securities , Inc .
+# BIO = B-NP I-NP I-NP O B-NP O
+# RELS = 
+1	First	First	X
+2	Union	Union	X
+3	Securities	Securities	X
+4	,	,	X
+5	Inc	Inc	X
+6	.	.	X
+# text = Hi Sara ,
+# BIO = O B-NP O
+# RELS = 
+1	Hi	Hi	X
+2	Sara	Sara	X
+3	,	,	X
+# text = I just wanted to follow up on whether you will have a chance to send a draft Credit Support Annex ( similar in form to the one previously executed with ENA ) .
+# BIO = O O O O O O O O O O O B-NP I-NP O O B-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP O B-NP I-NP O O O B-NP O O
+# RELS = 
+1	I	I	X
+2	just	just	X
+3	wanted	wanted	X
+4	to	to	X
+5	follow	follow	X
+6	up	up	X
+7	on	on	X
+8	whether	whether	X
+9	you	you	X
+10	will	will	X
+11	have	have	X
+12	a	a	X
+13	chance	chance	X
+14	to	to	X
+15	send	send	X
+16	a	a	X
+17	draft	draft	X
+18	Credit	Credit	X
+19	Support	Support	X
+20	Annex	Annex	X
+21	(	(	X
+22	similar	similar	X
+23	in	in	X
+24	form	form	X
+25	to	to	X
+26	the	the	X
+27	one	one	X
+28	previously	previously	X
+29	executed	executed	X
+30	with	with	X
+31	ENA	ENA	X
+32	)	)	X
+33	.	.	X
+# text = I understand you may not have credit approval yet so perhaps we can leave the appropriate sections blank in the meantime .
+# BIO = O O O O O O B-NP I-NP O O O O O O B-NP I-NP I-NP O O B-NP I-NP O
+# RELS = 
+1	I	I	X
+2	understand	understand	X
+3	you	you	X
+4	may	may	X
+5	not	not	X
+6	have	have	X
+7	credit	credit	X
+8	approval	approval	X
+9	yet	yet	X
+10	so	so	X
+11	perhaps	perhaps	X
+12	we	we	X
+13	can	can	X
+14	leave	leave	X
+15	the	the	X
+16	appropriate	appropriate	X
+17	sections	sections	X
+18	blank	blank	X
+19	in	in	X
+20	the	the	X
+21	meantime	meantime	X
+22	.	.	X
+# text = Thanks and regards ,
+# BIO = B-NP O B-NP O
+# RELS = 
+1	Thanks	Thanks	X
+2	and	and	X
+3	regards	regards	X
+4	,	,	X
+# text = Vijay K. Suchdev Vice President Equity Derivatives First Union Securities , Inc. Telephone : ( 212 ) 909-0951 Facsimile : ( 212 ) 891-5042 email : vijay.suchdev@funb.com < mailto:vijay.suchdev@funb.com >
+# BIO = B-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP I-NP O B-NP I-NP O O O O O B-NP O O O O O B-NP O B-NP O B-NP O
+# RELS = 
+1	Vijay	Vijay	X
+2	K.	K.	X
+3	Suchdev	Suchdev	X
+4	Vice	Vice	X
+5	President	President	X
+6	Equity	Equity	X
+7	Derivatives	Derivatives	X
+8	First	First	X
+9	Union	Union	X
+10	Securities	Securities	X
+11	,	,	X
+12	Inc.	Inc.	X
+13	Telephone	Telephone	X
+14	:	:	X
+15	(	(	X
+16	212	212	X
+17	)	)	X
+18	909-0951	909-0951	X
+19	Facsimile	Facsimile	X
+20	:	:	X
+21	(	(	X
+22	212	212	X
+23	)	)	X
+24	891-5042	891-5042	X
+25	email	email	X
+26	:	:	X
+27	vijay.suchdev@funb.com	vijay.suchdev@funb.com	X
+28	<	<	X
+29	mailto:vijay.suchdev@funb.com	mailto:vijay.suchdev@funb.com	X
+30	>	>	X
+# text = Michael Olsen@ENRON
+# BIO = B-NP O
+# RELS = 
+1	Michael	Michael	X
+2	Olsen@ENRON	Olsen@ENRON	X
+# text = 12/07/2000 02:29 PM
+# BIO = O O B-NP
+# RELS = 
+1	12/07/2000	12/07/2000	X
+2	02:29	02:29	X
+3	PM	PM	X
+# text = Daren ,
+# BIO = B-NP O
+# RELS = 
+1	Daren	Daren	X
+2	,	,	X
+# text = I was wondering if it would be OK for me to sit in with you one day to get a general feel of your end of the process .
+# BIO = O O O O O O O O O O O O O O O O B-NP O O B-NP I-NP I-NP O O B-NP O B-NP I-NP O
+# RELS = 
+1	I	I	X
+2	was	was	X
+3	wondering	wondering	X
+4	if	if	X
+5	it	it	X
+6	would	would	X
+7	be	be	X
+8	OK	OK	X
+9	for	for	X
+10	me	me	X
+11	to	to	X
+12	sit	sit	X
+13	in	in	X
+14	with	with	X
+15	you	you	X
+16	one	one	X
+17	day	day	X
+18	to	to	X
+19	get	get	X
+20	a	a	X
+21	general	general	X
+22	feel	feel	X
+23	of	of	X
+24	your	your	X
+25	end	end	X
+26	of	of	X
+27	the	the	X
+28	process	process	X
+29	.	.	X
+# text = Pat had told me before he left that it would help me better grasp the process as a whole .
+# BIO = B-NP O O O O O O O O O O O O O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	Pat	Pat	X
+2	had	had	X
+3	told	told	X
+4	me	me	X
+5	before	before	X
+6	he	he	X
+7	left	left	X
+8	that	that	X
+9	it	it	X
+10	would	would	X
+11	help	help	X
+12	me	me	X
+13	better	better	X
+14	grasp	grasp	X
+15	the	the	X
+16	process	process	X
+17	as	as	X
+18	a	a	X
+19	whole	whole	X
+20	.	.	X
+# text = I understand the imminent cold weather is making things crazy , so now may not be the best time to be in your way .
+# BIO = O O B-NP I-NP I-NP I-NP O O B-NP O O O O O O O B-NP I-NP I-NP O O O O B-NP O
+# RELS = 
+1	I	I	X
+2	understand	understand	X
+3	the	the	X
+4	imminent	imminent	X
+5	cold	cold	X
+6	weather	weather	X
+7	is	is	X
+8	making	making	X
+9	things	things	X
+10	crazy	crazy	X
+11	,	,	X
+12	so	so	X
+13	now	now	X
+14	may	may	X
+15	not	not	X
+16	be	be	X
+17	the	the	X
+18	best	best	X
+19	time	time	X
+20	to	to	X
+21	be	be	X
+22	in	in	X
+23	your	your	X
+24	way	way	X
+25	.	.	X
+# text = But let me know if I can spend a day , morning , or even just an afternoon down there with you whenever it is a good time .
+# BIO = O O O O O O O O B-NP I-NP O B-NP O O O O B-NP I-NP O O O O O O O B-NP I-NP I-NP O
+# RELS = 
+1	But	But	X
+2	let	let	X
+3	me	me	X
+4	know	know	X
+5	if	if	X
+6	I	I	X
+7	can	can	X
+8	spend	spend	X
+9	a	a	X
+10	day	day	X
+11	,	,	X
+12	morning	morning	X
+13	,	,	X
+14	or	or	X
+15	even	even	X
+16	just	just	X
+17	an	an	X
+18	afternoon	afternoon	X
+19	down	down	X
+20	there	there	X
+21	with	with	X
+22	you	you	X
+23	whenever	whenever	X
+24	it	it	X
+25	is	is	X
+26	a	a	X
+27	good	good	X
+28	time	time	X
+29	.	.	X
+# text = I think it will help me very much in my role .
+# BIO = O O O O O O O O O O B-NP O
+# RELS = 
+1	I	I	X
+2	think	think	X
+3	it	it	X
+4	will	will	X
+5	help	help	X
+6	me	me	X
+7	very	very	X
+8	much	much	X
+9	in	in	X
+10	my	my	X
+11	role	role	X
+12	.	.	X
+# text = Thanks .
+# BIO = B-NP O
+# RELS = 
+1	Thanks	Thanks	X
+2	.	.	X
+# text = Mike
+# BIO = B-NP
+# RELS = 
+1	Mike	Mike	X
+# text = The new fixed price deal with Equistar is # 365013 .
+# BIO = B-NP I-NP I-NP I-NP I-NP O B-NP O O O O
+# RELS = 
+1	The	The	X
+2	new	new	X
+3	fixed	fixed	X
+4	price	price	X
+5	deal	deal	X
+6	with	with	X
+7	Equistar	Equistar	X
+8	is	is	X
+9	#	#	X
+10	365013	365013	X
+11	.	.	X
+# text = D
+# BIO = B-NP
+# RELS = 
+1	D	D	X
+# text = Daren
+# BIO = B-NP
+# RELS = 
+1	Daren	Daren	X
+# text = We just did a deal for the rest of the month for 10,000 / d at meter # 1552 QE - 1 @ $ 4.355 .... can you let me and Robert Lloyd know what the sitara # is ?
+# BIO = O O O B-NP I-NP O B-NP I-NP O B-NP I-NP O O O B-NP O B-NP O O B-NP O O O O O O O O O O O B-NP I-NP O O O B-NP O O O
+# RELS = 
+1	We	We	X
+2	just	just	X
+3	did	did	X
+4	a	a	X
+5	deal	deal	X
+6	for	for	X
+7	the	the	X
+8	rest	rest	X
+9	of	of	X
+10	the	the	X
+11	month	month	X
+12	for	for	X
+13	10,000	10,000	X
+14	/	/	X
+15	d	d	X
+16	at	at	X
+17	meter	meter	X
+18	#	#	X
+19	1552	1552	X
+20	QE	QE	X
+21	-	-	X
+22	1	1	X
+23	@	@	X
+24	$	$	X
+25	4.355	4.355	X
+26	....	....	X
+27	can	can	X
+28	you	you	X
+29	let	let	X
+30	me	me	X
+31	and	and	X
+32	Robert	Robert	X
+33	Lloyd	Lloyd	X
+34	know	know	X
+35	what	what	X
+36	the	the	X
+37	sitara	sitara	X
+38	#	#	X
+39	is	is	X
+40	?	?	X
+# text = Thanks
+# BIO = B-NP
+# RELS = 
+1	Thanks	Thanks	X
+# text = Melissa ,
+# BIO = B-NP O
+# RELS = 
+1	Melissa	Melissa	X
+2	,	,	X
+# text = I show that we also had 20.000 at LS HPL for the 13th .
+# BIO = O O O O O O O O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	I	I	X
+2	show	show	X
+3	that	that	X
+4	we	we	X
+5	also	also	X
+6	had	had	X
+7	20.000	20.000	X
+8	at	at	X
+9	LS	LS	X
+10	HPL	HPL	X
+11	for	for	X
+12	the	the	X
+13	13th	13th	X
+14	.	.	X
+# text = Daren
+# BIO = B-NP
+# RELS = 
+1	Daren	Daren	X
+# text = August 11 , 2000
+# BIO = B-NP O O O
+# RELS = 
+1	August	August	X
+2	11	11	X
+3	,	,	X
+4	2000	2000	X
+# text = Teco Tap 108.333 / HPL IFERC ; 20.000 / Enron
+# BIO = B-NP I-NP O O B-NP I-NP O O O B-NP
+# RELS = 
+1	Teco	Teco	X
+2	Tap	Tap	X
+3	108.333	108.333	X
+4	/	/	X
+5	HPL	HPL	X
+6	IFERC	IFERC	X
+7	;	;	X
+8	20.000	20.000	X
+9	/	/	X
+10	Enron	Enron	X
+# text = LS HPL LSK IC 20.000 / Enron
+# BIO = B-NP I-NP I-NP I-NP O O B-NP
+# RELS = 
+1	LS	LS	X
+2	HPL	HPL	X
+3	LSK	LSK	X
+4	IC	IC	X
+5	20.000	20.000	X
+6	/	/	X
+7	Enron	Enron	X
+# text = August 12 , 2000
+# BIO = B-NP O O O
+# RELS = 
+1	August	August	X
+2	12	12	X
+3	,	,	X
+4	2000	2000	X
+# text = Teco Tap 85.000 / HPL IFERC ; 20.000 / Enron
+# BIO = B-NP I-NP O O B-NP I-NP O O O B-NP
+# RELS = 
+1	Teco	Teco	X
+2	Tap	Tap	X
+3	85.000	85.000	X
+4	/	/	X
+5	HPL	HPL	X
+6	IFERC	IFERC	X
+7	;	;	X
+8	20.000	20.000	X
+9	/	/	X
+10	Enron	Enron	X
+# text = LS HPL LSK IC 20.000 / Enron
+# BIO = B-NP I-NP I-NP I-NP O O B-NP
+# RELS = 
+1	LS	LS	X
+2	HPL	HPL	X
+3	LSK	LSK	X
+4	IC	IC	X
+5	20.000	20.000	X
+6	/	/	X
+7	Enron	Enron	X
+# text = August 13 , 2000
+# BIO = B-NP O O O
+# RELS = 
+1	August	August	X
+2	13	13	X
+3	,	,	X
+4	2000	2000	X
+# text = Teco Tap 32.500 / HPL IFERC ; 20.000 / Enron
+# BIO = B-NP I-NP O O B-NP I-NP O O O B-NP
+# RELS = 
+1	Teco	Teco	X
+2	Tap	Tap	X
+3	32.500	32.500	X
+4	/	/	X
+5	HPL	HPL	X
+6	IFERC	IFERC	X
+7	;	;	X
+8	20.000	20.000	X
+9	/	/	X
+10	Enron	Enron	X
+# text = I 'm working hard for you !
+# BIO = O O O O O O O
+# RELS = 
+1	I	I	X
+2	'm	'm	X
+3	working	working	X
+4	hard	hard	X
+5	for	for	X
+6	you	you	X
+7	!	!	X
+# text = Now at 83.5 .
+# BIO = O O O O
+# RELS = 
+1	Now	Now	X
+2	at	at	X
+3	83.5	83.5	X
+4	.	.	X
+# text = I need a new lawnmower , so I 'll try to bump it up a little more .
+# BIO = O O B-NP I-NP I-NP O O O O O O O O O O O O O
+# RELS = 
+1	I	I	X
+2	need	need	X
+3	a	a	X
+4	new	new	X
+5	lawnmower	lawnmower	X
+6	,	,	X
+7	so	so	X
+8	I	I	X
+9	'll	'll	X
+10	try	try	X
+11	to	to	X
+12	bump	bump	X
+13	it	it	X
+14	up	up	X
+15	a	a	X
+16	little	little	X
+17	more	more	X
+18	.	.	X
+# text = Hope you 're doing good .
+# BIO = O O O O O O
+# RELS = 
+1	Hope	Hope	X
+2	you	you	X
+3	're	're	X
+4	doing	doing	X
+5	good	good	X
+6	.	.	X
+# text = D
+# BIO = B-NP
+# RELS = 
+1	D	D	X
+# text = ???
+# BIO = O
+# RELS = 
+1	???	???	X
+# text = KEEP UP THE GOOD WORK .
+# BIO = O O B-NP I-NP I-NP O
+# RELS = 
+1	KEEP	KEEP	X
+2	UP	UP	X
+3	THE	THE	X
+4	GOOD	GOOD	X
+5	WORK	WORK	X
+6	.	.	X
+# text = ?
+# BIO = O
+# RELS = 
+1	?	?	X
+# text = WE AT HOME LOVE IT AT $ 80 +++
+# BIO = O O B-NP O O O O O O
+# RELS = 
+1	WE	WE	X
+2	AT	AT	X
+3	HOME	HOME	X
+4	LOVE	LOVE	X
+5	IT	IT	X
+6	AT	AT	X
+7	$	$	X
+8	80	80	X
+9	+++	+++	X
+# text = ?
+# BIO = O
+# RELS = 
+1	?	?	X
+# text = KEN
+# BIO = B-NP
+# RELS = 
+1	KEN	KEN	X
+# text = These have been sold .
+# BIO = O O O O O
+# RELS = 
+1	These	These	X
+2	have	have	X
+3	been	been	X
+4	sold	sold	X
+5	.	.	X
+# text = Geoff ,
+# BIO = B-NP O
+# RELS = 
+1	Geoff	Geoff	X
+2	,	,	X
+# text = Thanks for the pictures .
+# BIO = B-NP O B-NP I-NP O
+# RELS = 
+1	Thanks	Thanks	X
+2	for	for	X
+3	the	the	X
+4	pictures	pictures	X
+5	.	.	X
+# text = Looks like the kids had a great time !
+# BIO = O O B-NP I-NP O B-NP I-NP I-NP O
+# RELS = 
+1	Looks	Looks	X
+2	like	like	X
+3	the	the	X
+4	kids	kids	X
+5	had	had	X
+6	a	a	X
+7	great	great	X
+8	time	time	X
+9	!	!	X
+# text = I hope you do n't mind , but I 've taken liberty to turn them into a web photo album at http://24.27.98.30/pictures/08-05_Garrett_Gayle_Bday .
+# BIO = O O O O O O O O O O O B-NP O O O O B-NP I-NP I-NP I-NP O B-NP O
+# RELS = 
+1	I	I	X
+2	hope	hope	X
+3	you	you	X
+4	do	do	X
+5	n't	n't	X
+6	mind	mind	X
+7	,	,	X
+8	but	but	X
+9	I	I	X
+10	've	've	X
+11	taken	taken	X
+12	liberty	liberty	X
+13	to	to	X
+14	turn	turn	X
+15	them	them	X
+16	into	into	X
+17	a	a	X
+18	web	web	X
+19	photo	photo	X
+20	album	album	X
+21	at	at	X
+22	http://24.27.98.30/pictures/08-05_Garrett_Gayle_Bday	http://24.27.98.30/pictures/08-05_Garrett_Gayle_Bday	X
+23	.	.	X
+# text = If you want to pass this web site address along to other folks , feel free .
+# BIO = O O O O O B-NP I-NP I-NP I-NP O O B-NP I-NP O O O O
+# RELS = 
+1	If	If	X
+2	you	you	X
+3	want	want	X
+4	to	to	X
+5	pass	pass	X
+6	this	this	X
+7	web	web	X
+8	site	site	X
+9	address	address	X
+10	along	along	X
+11	to	to	X
+12	other	other	X
+13	folks	folks	X
+14	,	,	X
+15	feel	feel	X
+16	free	free	X
+17	.	.	X
+# text = If you want a CD copy of this web site , give me a yell .
+# BIO = O O O B-NP I-NP I-NP O B-NP I-NP I-NP O O O B-NP I-NP O
+# RELS = 
+1	If	If	X
+2	you	you	X
+3	want	want	X
+4	a	a	X
+5	CD	CD	X
+6	copy	copy	X
+7	of	of	X
+8	this	this	X
+9	web	web	X
+10	site	site	X
+11	,	,	X
+12	give	give	X
+13	me	me	X
+14	a	a	X
+15	yell	yell	X
+16	.	.	X
+# text = Thanks ,
+# BIO = B-NP O
+# RELS = 
+1	Thanks	Thanks	X
+2	,	,	X
+# text = Ram Tackett , ( mailto:rtackett@abacustech.net ) Owner , Abacus Technologies 17611 Loring Lane , Spring , TX 77388-5746 ( 281 ) 651-7106 ; Fax ( 281 ) 528-8636 Web : http://www.abacustech.net
+# BIO = B-NP I-NP O O B-NP O B-NP O B-NP I-NP O B-NP I-NP O B-NP O B-NP O O O O O O B-NP O O O O B-NP O B-NP
+# RELS = 
+1	Ram	Ram	X
+2	Tackett	Tackett	X
+3	,	,	X
+4	(	(	X
+5	mailto:rtackett@abacustech.net	mailto:rtackett@abacustech.net	X
+6	)	)	X
+7	Owner	Owner	X
+8	,	,	X
+9	Abacus	Abacus	X
+10	Technologies	Technologies	X
+11	17611	17611	X
+12	Loring	Loring	X
+13	Lane	Lane	X
+14	,	,	X
+15	Spring	Spring	X
+16	,	,	X
+17	TX	TX	X
+18	77388-5746	77388-5746	X
+19	(	(	X
+20	281	281	X
+21	)	)	X
+22	651-7106	651-7106	X
+23	;	;	X
+24	Fax	Fax	X
+25	(	(	X
+26	281	281	X
+27	)	)	X
+28	528-8636	528-8636	X
+29	Web	Web	X
+30	:	:	X
+31	http://www.abacustech.net	http://www.abacustech.net	X
+# text = - Ram Tackett ( E-mail ) .vcf 4222
+# BIO = O B-NP O O O O O O
+# RELS = 
+1	-	-	X
+2	Ram	Ram	X
+3	Tackett	Tackett	X
+4	(	(	X
+5	E-mail	E-mail	X
+6	)	)	X
+7	.vcf	.vcf	X
+8	4222	4222	X
+# text = Debra Perlingiere
+# BIO = B-NP I-NP
+# RELS = 
+1	Debra	Debra	X
+2	Perlingiere	Perlingiere	X
+# text = Please give me a call to discuss Nov transaction .
+# BIO = O O O B-NP I-NP O O B-NP I-NP O
+# RELS = 
+1	Please	Please	X
+2	give	give	X
+3	me	me	X
+4	a	a	X
+5	call	call	X
+6	to	to	X
+7	discuss	discuss	X
+8	Nov	Nov	X
+9	transaction	transaction	X
+10	.	.	X
+# text = Debra Perlingiere
+# BIO = B-NP I-NP
+# RELS = 
+1	Debra	Debra	X
+2	Perlingiere	Perlingiere	X
+# text = Are you free for lunch some day this week ?
+# BIO = O O O O B-NP I-NP I-NP I-NP I-NP O
+# RELS = 
+1	Are	Are	X
+2	you	you	X
+3	free	free	X
+4	for	for	X
+5	lunch	lunch	X
+6	some	some	X
+7	day	day	X
+8	this	this	X
+9	week	week	X
+10	?	?	X
+# text = Also , I have an extra ticket for the Comets game on Sat. you said you wanted to go ?
+# BIO = O O O O B-NP I-NP I-NP O B-NP I-NP I-NP O B-NP O O O O O O O
+# RELS = (8,10,12,12,on)
+1	Also	Also	X
+2	,	,	X
+3	I	I	X
+4	have	have	X
+5	an	an	X
+6	extra	extra	X
+7	ticket	ticket	X
+8	for	for	X
+9	the	the	X
+10	Comets	Comets	X
+11	game	game	X
+12	on	on	X
+13	Sat.	Sat.	X
+14	you	you	X
+15	said	said	X
+16	you	you	X
+17	wanted	wanted	X
+18	to	to	X
+19	go	go	X
+20	?	?	X
+# text = The game is at 12 : Sat @ Compaq Center .
+# BIO = B-NP I-NP O O O O B-NP O B-NP I-NP O
+# RELS = 
+1	The	The	X
+2	game	game	X
+3	is	is	X
+4	at	at	X
+5	12	12	X
+6	:	:	X
+7	Sat	Sat	X
+8	@	@	X
+9	Compaq	Compaq	X
+10	Center	Center	X
+11	.	.	X
+# text = Would love for you to join us .
+# BIO = O O O O O O O O
+# RELS = 
+1	Would	Would	X
+2	love	love	X
+3	for	for	X
+4	you	you	X
+5	to	to	X
+6	join	join	X
+7	us	us	X
+8	.	.	X
+# text = I am bringing two of my girlfriends from LJ .
+# BIO = O O O O O O B-NP O B-NP O
+# RELS = 
+1	I	I	X
+2	am	am	X
+3	bringing	bringing	X
+4	two	two	X
+5	of	of	X
+6	my	my	X
+7	girlfriends	girlfriends	X
+8	from	from	X
+9	LJ	LJ	X
+10	.	.	X
+# text = Debra Perlingiere
+# BIO = B-NP I-NP
+# RELS = 
+1	Debra	Debra	X
+2	Perlingiere	Perlingiere	X
+# text = Stacey here is the Master draft we discussed .
+# BIO = B-NP O O B-NP I-NP I-NP O O O
+# RELS = 
+1	Stacey	Stacey	X
+2	here	here	X
+3	is	is	X
+4	the	the	X
+5	Master	Master	X
+6	draft	draft	X
+7	we	we	X
+8	discussed	discussed	X
+9	.	.	X
+# text = I am sending you a version with comments .
+# BIO = O O O O B-NP I-NP O B-NP O
+# RELS = 
+1	I	I	X
+2	am	am	X
+3	sending	sending	X
+4	you	you	X
+5	a	a	X
+6	version	version	X
+7	with	with	X
+8	comments	comments	X
+9	.	.	X
+# text = dp
+# BIO = B-NP
+# RELS = 
+1	dp	dp	X
+# text = Could one of you please email me a copy of the standard template you use for Enfolio gas purchase agreements ?
+# BIO = O O O O O O O B-NP I-NP O B-NP I-NP I-NP O O O B-NP I-NP I-NP I-NP O
+# RELS = 
+1	Could	Could	X
+2	one	one	X
+3	of	of	X
+4	you	you	X
+5	please	please	X
+6	email	email	X
+7	me	me	X
+8	a	a	X
+9	copy	copy	X
+10	of	of	X
+11	the	the	X
+12	standard	standard	X
+13	template	template	X
+14	you	you	X
+15	use	use	X
+16	for	for	X
+17	Enfolio	Enfolio	X
+18	gas	gas	X
+19	purchase	purchase	X
+20	agreements	agreements	X
+21	?	?	X
+# text = As we 're getting more and more of those agreements , I 'd like to add a template in Global Contracts .
+# BIO = O O O O O O O O B-NP I-NP O O O O O O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	As	As	X
+2	we	we	X
+3	're	're	X
+4	getting	getting	X
+5	more	more	X
+6	and	and	X
+7	more	more	X
+8	of	of	X
+9	those	those	X
+10	agreements	agreements	X
+11	,	,	X
+12	I	I	X
+13	'd	'd	X
+14	like	like	X
+15	to	to	X
+16	add	add	X
+17	a	a	X
+18	template	template	X
+19	in	in	X
+20	Global	Global	X
+21	Contracts	Contracts	X
+22	.	.	X
+# text = Thanks !
+# BIO = B-NP O
+# RELS = 
+1	Thanks	Thanks	X
+2	!	!	X
+# text = Stacey Barclay Richardson Enron Net Works , LLC - Global Contracts Stacey.Richardson@enron.com ( 713 ) 853-0569 Office ( 713 ) 646-2495 Fax ( 713 ) 710-6084 Pager
+# BIO = B-NP I-NP I-NP I-NP I-NP I-NP O B-NP O B-NP I-NP I-NP O O O O B-NP O O O O B-NP O O O O B-NP
+# RELS = 
+1	Stacey	Stacey	X
+2	Barclay	Barclay	X
+3	Richardson	Richardson	X
+4	Enron	Enron	X
+5	Net	Net	X
+6	Works	Works	X
+7	,	,	X
+8	LLC	LLC	X
+9	-	-	X
+10	Global	Global	X
+11	Contracts	Contracts	X
+12	Stacey.Richardson@enron.com	Stacey.Richardson@enron.com	X
+13	(	(	X
+14	713	713	X
+15	)	)	X
+16	853-0569	853-0569	X
+17	Office	Office	X
+18	(	(	X
+19	713	713	X
+20	)	)	X
+21	646-2495	646-2495	X
+22	Fax	Fax	X
+23	(	(	X
+24	713	713	X
+25	)	)	X
+26	710-6084	710-6084	X
+27	Pager	Pager	X
+# text = Today is good 12:30 ?
+# BIO = B-NP O O O O
+# RELS = 
+1	Today	Today	X
+2	is	is	X
+3	good	good	X
+4	12:30	12:30	X
+5	?	?	X
+# text = Cafeteria is fine .
+# BIO = B-NP O O O
+# RELS = 
+1	Cafeteria	Cafeteria	X
+2	is	is	X
+3	fine	fine	X
+4	.	.	X
+# text = I 'm free any day but Tuesday .
+# BIO = O O O B-NP I-NP O B-NP O
+# RELS = 
+1	I	I	X
+2	'm	'm	X
+3	free	free	X
+4	any	any	X
+5	day	day	X
+6	but	but	X
+7	Tuesday	Tuesday	X
+8	.	.	X
+# text = I better pass on the Comets game .
+# BIO = O O O O B-NP I-NP I-NP O
+# RELS = 
+1	I	I	X
+2	better	better	X
+3	pass	pass	X
+4	on	on	X
+5	the	the	X
+6	Comets	Comets	X
+7	game	game	X
+8	.	.	X
+# text = My weekends seem to be taken up with condo matters , house hunting .
+# BIO = O B-NP O O O O O O B-NP I-NP O B-NP I-NP O
+# RELS = 
+1	My	My	X
+2	weekends	weekends	X
+3	seem	seem	X
+4	to	to	X
+5	be	be	X
+6	taken	taken	X
+7	up	up	X
+8	with	with	X
+9	condo	condo	X
+10	matters	matters	X
+11	,	,	X
+12	house	house	X
+13	hunting	hunting	X
+14	.	.	X
+# text = Thank you though .
+# BIO = O O O O
+# RELS = 
+1	Thank	Thank	X
+2	you	you	X
+3	though	though	X
+4	.	.	X
+# text = Are you free for lunch today .
+# BIO = O O O O B-NP I-NP O
+# RELS = 
+1	Are	Are	X
+2	you	you	X
+3	free	free	X
+4	for	for	X
+5	lunch	lunch	X
+6	today	today	X
+7	.	.	X

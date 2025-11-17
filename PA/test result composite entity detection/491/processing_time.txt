@@ -1,0 +1,10 @@
+000000581887.jpg: 194.91 seconds
+Chunk: the green road sign
+Think Text: The green road sign is located in the center of the image, above the traffic light.
+BBox: (430, 352), (615, 496)
+
+Original Model
+think: The green road sign is located in the center of the image, above the traffic light.
+000000581887.jpg: 158.36 seconds
+BBox: (430, 352), (614, 496)
+

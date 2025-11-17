@@ -1,0 +1,10 @@
+000000580507.jpg: 199.07 seconds
+Chunk:  the man in black 
+Think Text: The instruction is to output the bounding box for the man in black. The man in black is the person wearing a black wetsuit. The bounding box should include the entire person from head to toe.
+BBox: (368, 68), (743, 783)
+
+Original Model
+think: The man in black is surfing. He is on a surfboard, which is a piece of equipment used for riding waves. The bounding box is the area where the man and the surfboard are located.
+000000580507.jpg: 165.47 seconds
+BBox: (116, 94), (743, 796)
+

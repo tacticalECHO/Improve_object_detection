@@ -1,0 +1,10 @@
+000000580972.jpg: 270.01 seconds
+Chunk: the man
+Think Text: The instruction is asking for the bounding box of the man in the image. The man is located in the center of the image, wearing a white shirt and dark pants. He is performing a skateboard trick on a ledge.
+BBox: (453, 182), (826, 594)
+
+Original Model
+think: The man is performing a skateboarding trick. He is balancing on the edge of a concrete ledge with his skateboard.
+000000580972.jpg: 123.35 seconds
+BBox: (384, 183), (826, 618)
+

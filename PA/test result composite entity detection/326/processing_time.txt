@@ -1,0 +1,10 @@
+000000581022.jpg: 186.16 seconds
+Chunk:  the man in white 
+Think Text: The man in white is the one wearing a hat and sitting on the left side of the couch.
+BBox: (196, 210), (686, 996)
+
+Original Model
+think: The man in white is sitting on the couch with his arms crossed.
+000000581022.jpg: 100.14 seconds
+BBox: (198, 210), (684, 996)
+

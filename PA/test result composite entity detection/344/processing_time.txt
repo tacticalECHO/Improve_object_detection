@@ -1,0 +1,10 @@
+000000581096.jpg: 230.87 seconds
+Chunk: the man in white
+Think Text: The instruction is asking for the bounding box of the man in white. The man in white is the person wearing a white shirt and black shorts, holding a tennis racket.
+BBox: (190, 220), (500, 999)
+
+Original Model
+think: The man in white is playing tennis. He is holding a tennis racket and appears to be in the middle of a serve or a return.
+000000581096.jpg: 148.89 seconds
+BBox: (100, 100), (500, 999)
+

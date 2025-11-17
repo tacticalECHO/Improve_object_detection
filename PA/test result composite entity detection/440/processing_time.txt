@@ -1,0 +1,10 @@
+000000581637.jpg: 183.57 seconds
+Chunk: the woman in blue
+Think Text: The woman in blue is sitting on the couch.
+BBox: (528, 408), (642, 675)
+
+Original Model
+think: The woman in blue is sitting on a white couch. She appears to be engaged in an activity, possibly reading or using a device.
+000000581637.jpg: 163.02 seconds
+BBox: (500, 408), (662, 678)
+

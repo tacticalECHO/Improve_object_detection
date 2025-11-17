@@ -1,0 +1,8 @@
+下载.jpg: 128.64 seconds
+Chunk:  the red suitcase 
+Think Text: The red suitcase is located in the lower right part of the image.
+BBox: (512, 684), (656, 996)
+
+下载.jpg: 100.12 seconds
+BBox: (512, 684), (656, 996)
+

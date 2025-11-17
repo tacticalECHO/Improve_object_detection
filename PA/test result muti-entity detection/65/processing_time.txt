@@ -1,0 +1,8 @@
+000000000201.jpg: 659.93 seconds
+Chunk:  the black ski 
+Think Text: The instruction is asking for the bounding box of the black ski. The black ski is the one on the right side of the image.
+BBox: (519, 42), (763, 924)
+Chunk:  the red ski 
+Think Text: The instruction is asking for the bounding box of the red ski. The red ski is the second ski from the left in the image.
+BBox: (384, 114), (506, 819)
+

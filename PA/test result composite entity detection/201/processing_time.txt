@@ -1,0 +1,10 @@
+000000580405.jpg: 176.71 seconds
+Chunk: the black horse
+Think Text: The instruction is asking for the bounding box of the black horse. The black horse is located in the middle of the image, slightly to the right.
+BBox: (678, 816), (714, 864)
+
+Original Model
+think: The instruction is asking for the bounding box of the black horse. The black horse is located in the middle of the image, running on the ground.
+000000580405.jpg: 142.17 seconds
+BBox: (674, 816), (714, 864)
+

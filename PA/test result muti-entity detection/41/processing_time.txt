@@ -1,0 +1,8 @@
+000000007367.jpg: 444.70 seconds
+Chunk: banana
+Think Text: The instruction is asking for the bounding box of a banana. In the image, there are two bananas. I will select the bounding box of the banana that is more towards the top of the image.
+BBox: (178, 38), (918, 431)
+Chunk: mango
+Think Text: The instruction is asking for the bounding box of the mango in the image. The mango is located towards the center-right of the image.
+BBox: (398, 176), (944, 606)
+

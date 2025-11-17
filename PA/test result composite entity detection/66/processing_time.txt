@@ -1,0 +1,8 @@
+000000000394.jpg: 172.45 seconds
+Chunk: the white dog
+Think Text: The instruction is asking for the bounding box of the white dog in the image. The white dog is the main subject of the image, occupying a significant portion of the frame.
+BBox: (0, 25), (984, 962)
+
+000000000394.jpg: 160.08 seconds
+BBox: (0, 0), (999, 999)
+

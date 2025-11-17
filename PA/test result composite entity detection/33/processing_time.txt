@@ -1,0 +1,8 @@
+000000004286.jpg: 184.44 seconds
+Chunk: the man in white shirt
+Think Text: The instruction is asking for the bounding box of the man in a white shirt. The man is located on the right side of the image, standing in the grass.
+BBox: (834, 674), (934, 864)
+
+000000004286.jpg: 160.71 seconds
+BBox: (834, 674), (934, 864)
+

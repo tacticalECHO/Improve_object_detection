@@ -1,0 +1,8 @@
+000000088603.jpg: 155.46 seconds
+Chunk: the TV
+Think Text: The instruction is asking for the bounding box of the TV in the image. The TV is located on the upper right side of the image.
+BBox: (719, 56), (935, 230)
+
+000000088603.jpg: 92.94 seconds
+BBox: (698, 46), (935, 230)
+

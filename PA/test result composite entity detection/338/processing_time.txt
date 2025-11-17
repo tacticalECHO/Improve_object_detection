@@ -1,0 +1,10 @@
+000000581071.jpg: 141.42 seconds
+Chunk:  the man in blue shirt 
+Think Text: The man in blue shirt is located near the crosswalk.
+BBox: (260, 363), (310, 480)
+
+Original Model
+think: The man in the blue shirt is located near the crosswalk, standing on the sidewalk.
+000000581071.jpg: 111.03 seconds
+BBox: (180, 369), (240, 500)
+

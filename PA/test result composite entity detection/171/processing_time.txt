@@ -1,0 +1,10 @@
+000000580200.jpg: 172.02 seconds
+Chunk: the goalposts
+Think Text: The goalposts are located on the right side of the image, near the bottom.
+BBox: (860, 798), (984, 898)
+
+Original Model
+think: The goalposts are located on the beach, near the water. They are positioned on the sand, and their bounding box can be determined by their location relative to the other objects in the image.
+000000580200.jpg: 164.54 seconds
+BBox: (858, 798), (984, 898)
+

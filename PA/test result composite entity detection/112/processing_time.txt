@@ -1,0 +1,10 @@
+000000579865.jpg: 186.20 seconds
+Chunk:  the brown dog 
+Think Text: The instruction is to output the bounding box for the brown dog. The dog is located in the center of the image, standing on the ground.
+BBox: (294, 458), (622, 924)
+
+Original Model
+think: The brown dog is standing on its hind legs, looking up.
+000000579865.jpg: 201.31 seconds
+BBox: (18, 458), (622, 926)
+

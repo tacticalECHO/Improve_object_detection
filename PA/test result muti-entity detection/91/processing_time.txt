@@ -1,0 +1,8 @@
+000000019631.jpg: 429.54 seconds
+Chunk: the red truck
+Think Text: The red truck is the vehicle in the image that is being referred to. It is located on the right side of the image, driving on the road.
+BBox: (400, 102), (700, 599)
+Chunk: the white car
+Think Text: The instruction is asking for the bounding box of the white car. The white car is located on the right side of the image, behind the blue truck.
+BBox: (698, 339), (788, 441)
+

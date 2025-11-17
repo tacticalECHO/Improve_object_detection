@@ -1,0 +1,8 @@
+000000011537.jpg: 539.08 seconds
+Chunk: paper bag
+Think Text: The instruction is asking for the bounding box of the paper bag. The paper bag is located in the top left corner of the image.
+BBox: (0, 0), (800, 528)
+Chunk: hot dog
+Think Text: The instruction is asking for the bounding box of the hot dog in the image. The hot dog is located in the center of the image, with the top of the hot dog slightly above the middle of the image and the bottom of the hot dog slightly below the middle of the image. The bounding box should capture the entire hot dog, including the bun, hot dog, and toppings.
+BBox: (150, 550), (940, 870)
+

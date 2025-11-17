@@ -1,0 +1,8 @@
+000000002842.jpg: 130.63 seconds
+Chunk: the man in orange
+Think Text: The man in orange is the one wearing the orange shirt.
+BBox: (662, 258), (857, 908)
+
+000000002842.jpg: 183.89 seconds
+BBox: (550, 258), (858, 908)
+

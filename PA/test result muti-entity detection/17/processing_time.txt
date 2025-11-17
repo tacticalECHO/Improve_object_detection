@@ -1,0 +1,8 @@
+000000002543.jpg: 558.47 seconds
+Chunk: the girl
+Think Text: The instruction is asking for the bounding box of the girl in the image. The girl is located on the right side of the image, lying on the bed.
+BBox: (588, 285), (862, 660)
+Chunk: the boy
+Think Text: The instruction is asking for the bounding box of the boy. The boy is located on the left side of the image, lying on the bed.
+BBox: (162, 285), (357, 690)
+

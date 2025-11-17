@@ -1,0 +1,9 @@
+下载.jpg: 547.98 seconds
+Chunk:  the woman in blue 
+Think Text: The instruction is to output the bounding box for the woman in blue. The bounding box is the area in the image that encompasses the woman in blue.
+BBox: (280, 238), (519, 996)
+Chunk:  the man in white 
+Think Text: The instruction is to output the bounding box for the man in white. The man in white is located on the right side of the image.
+BBox: (500, 100), (838, 999)
+
+

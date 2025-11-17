@@ -1,0 +1,8 @@
+000000012459.jpg: 433.22 seconds
+Chunk: the woman in white
+Think Text: The instruction is asking for the bounding box of the woman in white. The woman in white is located in the center of the image, slightly to the right.
+BBox: (450, 324), (553, 858)
+Chunk: the woman in black
+Think Text: The instruction is asking for the bounding box of the woman in black. The bounding box is the area in the image that encompasses the woman in black.
+BBox: (100, 288), (290, 864)
+

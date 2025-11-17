@@ -1,0 +1,10 @@
+000000580837.jpg: 146.60 seconds
+Chunk:  the man in blue shirt 
+Think Text: The man in the blue shirt is the one on the left.
+BBox: (100, 254), (512, 999)
+
+Original Model
+think: The man in the blue shirt is smiling and appears to be posing for a photo.
+000000580837.jpg: 110.59 seconds
+BBox: (110, 254), (516, 999)
+

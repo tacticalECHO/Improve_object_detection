@@ -1,0 +1,8 @@
+000000007420.jpg: 139.58 seconds
+Chunk: the bride
+Think Text: The bride is the woman in the image. She is wearing a white wedding dress and a veil.
+BBox: (130, 112), (749, 996)
+
+000000007420.jpg: 83.33 seconds
+BBox: (130, 112), (749, 996)
+

@@ -1,0 +1,8 @@
+000000000536.jpg: 187.21 seconds
+Chunk: the woman with gold hair
+Think Text: The instruction is to output the bounding box for the woman with gold hair. In the image, the woman with gold hair is located on the right side.
+BBox: (650, 398), (999, 999)
+
+000000000536.jpg: 102.53 seconds
+BBox: (648, 398), (999, 999)
+

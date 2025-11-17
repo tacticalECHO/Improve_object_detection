@@ -1,0 +1,10 @@
+000000581198.jpg: 138.56 seconds
+Chunk: the woman in black
+Think Text: The woman in black is the one cutting the cake.
+BBox: (400, 75), (999, 999)
+
+Original Model
+think: The woman in black is cutting a cake. She is holding a knife and appears to be in the process of slicing into the cake.
+000000581198.jpg: 136.26 seconds
+BBox: (333, 72), (999, 999)
+

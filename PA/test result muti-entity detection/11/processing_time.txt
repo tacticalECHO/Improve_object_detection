@@ -1,0 +1,8 @@
+000000001084.jpg: 644.67 seconds
+Chunk: the scissors
+Think Text: The instruction is asking for the bounding box of the scissors. The scissors are located on the left side of the image. The bounding box should include the entire scissors, from the top to the bottom.
+BBox: (196, 38), (416, 996)
+Chunk: box knife
+Think Text: The instruction is to output the bounding box for the box knife. The box knife is located on the right side of the image.
+BBox: (600, 365), (658, 874)
+

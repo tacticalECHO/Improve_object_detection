@@ -1,0 +1,8 @@
+下载 (1).jpg: 487.53 seconds
+Chunk: the man without cloth
+Think Text: The instruction is asking for the bounding box of the man without clothes. The man without clothes is the one who is shirtless and wearing shorts. He is in the foreground of the image, reaching out to catch a frisbee.
+BBox: (468, 262), (706, 914)
+Chunk: the man in green
+Think Text: The man in green is standing with his hands on his hips, observing the other man.
+BBox: (678, 222), (828, 685)
+

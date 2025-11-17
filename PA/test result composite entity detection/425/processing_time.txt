@@ -1,0 +1,10 @@
+000000581553.jpg: 230.30 seconds
+Chunk: the sign in yellow and white
+Think Text: The sign in yellow and white is the one with the words "Attention Drivers" on it.
+BBox: (350, 131), (587, 467)
+
+Original Model
+think: The sign in yellow and white is the one that says "Attention Drivers".
+000000581553.jpg: 128.58 seconds
+BBox: (350, 131), (587, 462)
+

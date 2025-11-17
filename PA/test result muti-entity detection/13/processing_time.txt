@@ -1,0 +1,7 @@
+000000001264.jpg: 607.27 seconds
+Chunk: MP3 player
+Think Text: The instruction is asking for the bounding box of an MP3 player. The image contains various objects, including a red iPod. The bounding box for the iPod is the area where the iPod is located.
+BBox: (818, 178), (921, 338)
+Chunk: map
+Think Text: The instruction is asking for the bounding box of the map in the image. The map is located towards the right side of the image.
+BBox: (800, 350), (984, 675)

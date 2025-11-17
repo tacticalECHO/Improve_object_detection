@@ -1,0 +1,8 @@
+000000001958.jpg: 185.17 seconds
+Chunk:  the girl in black 
+Think Text: The instruction is asking for the bounding box of the girl in black. The girl in black is located on the left side of the image, standing in front of the piano.
+BBox: (128, 293), (431, 982)
+
+000000001958.jpg: 170.94 seconds
+BBox: (128, 293), (431, 982)
+

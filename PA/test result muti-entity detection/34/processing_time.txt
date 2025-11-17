@@ -1,0 +1,8 @@
+000000005213.jpg: 530.50 seconds
+Chunk: the motorcycle
+Think Text: The instruction is asking for the bounding box of the motorcycle in the image. The motorcycle is located on the left side of the image, taking up a significant portion of the frame.
+BBox: (100, 571), (375, 997)
+Chunk: the sign
+Think Text: The instruction is asking for the bounding box of the sign in the image. The sign is located in the upper right portion of the image.
+BBox: (684, 384), (884, 576)
+

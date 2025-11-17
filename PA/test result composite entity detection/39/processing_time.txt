@@ -1,0 +1,8 @@
+000000007207.jpg: 148.15 seconds
+Chunk:  the man with carrots 
+Think Text: The instruction is to find the man with carrots. In the image, there are multiple men, and one of them is holding carrots.
+BBox: (198, 369), (462, 996)
+
+000000007207.jpg: 103.09 seconds
+BBox: (187, 375), (459, 996)
+

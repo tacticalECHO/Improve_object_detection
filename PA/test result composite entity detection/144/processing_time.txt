@@ -1,0 +1,10 @@
+000000580008.jpg: 182.15 seconds
+Chunk: the man in grey
+Think Text: The instruction is asking for the bounding box of the man in grey. The man in grey is located in the bottom right corner of the image.
+BBox: (480, 524), (999, 999)
+
+Original Model
+think: The man in grey is holding a white controller in his right hand and appears to be in the middle of a game.
+000000580008.jpg: 128.22 seconds
+BBox: (316, 528), (999, 999)
+

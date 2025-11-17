@@ -1,0 +1,10 @@
+000000580523.jpg: 146.49 seconds
+Chunk: the man in red
+Think Text: The man in red is the one wearing a red hoodie.
+BBox: (0, 333), (750, 999)
+
+Original Model
+think: The man in red is lying down on a bed.
+000000580523.jpg: 85.34 seconds
+BBox: (0, 2), (999, 999)
+

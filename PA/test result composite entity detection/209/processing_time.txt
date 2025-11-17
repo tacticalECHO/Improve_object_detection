@@ -1,0 +1,10 @@
+000000580454.jpg: 225.96 seconds
+Chunk:  the bear 
+Think Text: The instruction is asking for the bounding box of the bear in the image. The bear is located on the suitcase, which is in the foreground of the image. The bounding box should capture the entire bear, including its head, body, and limbs.
+BBox: (280, 134), (848, 843)
+
+Original Model
+think: The bear is on top of the suitcase.
+000000580454.jpg: 91.49 seconds
+BBox: (158, 138), (848, 996)
+

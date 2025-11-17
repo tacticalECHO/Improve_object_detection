@@ -1,0 +1,8 @@
+000000020611.jpg: 126.89 seconds
+Chunk: the man in yellow
+Think Text: The man in yellow is the one on the right side of the image.
+BBox: (658, 240), (874, 618)
+
+000000020611.jpg: 124.29 seconds
+BBox: (658, 240), (874, 618)
+

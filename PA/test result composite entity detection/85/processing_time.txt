@@ -1,0 +1,8 @@
+000000011537.jpg: 217.66 seconds
+Chunk:  the hot dog 
+Think Text: The instruction is asking for the bounding box of the hot dog. The hot dog is located in the center of the image, with the top of the hot dog slightly above the middle of the image and the bottom of the hot dog slightly below the middle of the image.
+BBox: (150, 550), (940, 870)
+
+000000011537.jpg: 151.63 seconds
+BBox: (150, 550), (940, 870)
+

@@ -1,0 +1,10 @@
+000000581283.jpg: 206.10 seconds
+Chunk: the man in blue
+Think Text: The man in blue is the person wearing a blue shirt and a hat. He is located in the center of the image, standing near a counter.
+BBox: (210, 191), (360, 485)
+
+Original Model
+think: The man in blue is located in the kitchen area. He is standing near the counter, which is visible in the image.
+000000581283.jpg: 134.28 seconds
+BBox: (180, 192), (360, 488)
+

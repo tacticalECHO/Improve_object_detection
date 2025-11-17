@@ -1,0 +1,8 @@
+000000010434.jpg: 179.42 seconds
+Chunk: the man in brown
+Think Text: The instruction is asking for the bounding box of the man in brown. The man in brown is located on the left side of the image, wearing a brown jacket and blue jeans.
+BBox: (58, 204), (350, 711)
+
+000000010434.jpg: 137.12 seconds
+BBox: (60, 200), (350, 876)
+

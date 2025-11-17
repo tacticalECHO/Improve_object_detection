@@ -1,0 +1,13 @@
+000000580933.jpg: 675.24 seconds
+Chunk: the man in white
+Think Text: The instruction is asking for the bounding box of the man in white. The man in white is the baseball player wearing a white uniform with the number 11 on it. The bounding box should include the entire body of the player.
+BBox: (198, 400), (430, 928)
+Chunk: the man
+Think Text: The instruction is asking for the bounding box of the man in the image. The man is located in the center of the image, wearing a baseball uniform with the number 11 and the name "Tejada" on his jersey. The bounding box should capture the entire figure of the man, including his uniform and baseball glove.
+BBox: (196, 381), (431, 928)
+
+Original Model
+think: The man in white is located in the center of the image, running on the baseball field.
+000000580933.jpg: 116.61 seconds
+BBox: (196, 384), (431, 928)
+

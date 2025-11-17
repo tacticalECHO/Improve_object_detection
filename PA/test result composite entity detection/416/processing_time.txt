@@ -1,0 +1,10 @@
+000000581495.jpg: 181.50 seconds
+Chunk:  <answer> The blue tennis racket 
+Think Text: The blue tennis racket is the object that the man is holding.
+BBox: (548, 462), (673, 534)
+
+Original Model
+think: The blue tennis racket is being held by the man in the striped shirt.
+000000581495.jpg: 131.08 seconds
+BBox: (548, 462), (673, 534)
+

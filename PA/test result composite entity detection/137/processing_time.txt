@@ -1,0 +1,10 @@
+000000579995.jpg: 172.76 seconds
+Chunk:  the girl in white 
+Think Text: The instruction is asking for the bounding box of the girl in white. The girl in white is the person sitting on the bed, wearing a white sweater.
+BBox: (120, 234), (799, 894)
+
+Original Model
+think: The girl in the image is sitting on a bed. She is wearing a white sweater and appears to be posing for the camera.
+000000579995.jpg: 130.35 seconds
+BBox: (120, 234), (800, 897)
+

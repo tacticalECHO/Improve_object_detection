@@ -1,0 +1,8 @@
+下载 (1).jpg: 130.64 seconds
+Chunk: the man in green
+Think Text: The man in green is the one wearing a green shirt and beige shorts.
+BBox: (678, 222), (828, 685)
+
+下载 (1).jpg: 125.18 seconds
+BBox: (678, 222), (828, 685)
+

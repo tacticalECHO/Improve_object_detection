@@ -1,0 +1,8 @@
+000000012543.jpg: 152.81 seconds
+Chunk: the boy
+Think Text: The instruction is asking for the bounding box of the boy. The boy is located in the center of the image, slightly to the left.
+BBox: (353, 551), (536, 999)
+
+000000012543.jpg: 84.45 seconds
+BBox: (353, 553), (531, 999)
+

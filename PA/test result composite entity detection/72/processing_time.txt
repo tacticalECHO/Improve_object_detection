@@ -1,0 +1,8 @@
+000000079407.jpg: 172.55 seconds
+Chunk:  the dog 
+Think Text: The instruction is asking for the bounding box of the dog in the image. The dog is located in the center of the image, taking up a significant portion of the frame.
+BBox: (188, 375), (640, 894)
+
+000000079407.jpg: 146.81 seconds
+BBox: (188, 375), (638, 894)
+

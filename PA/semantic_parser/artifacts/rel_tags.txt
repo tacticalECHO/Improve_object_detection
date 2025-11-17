@@ -1,0 +1,6 @@
+NONE
+on
+under
+left_of
+right_of
+near

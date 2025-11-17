@@ -1,0 +1,10 @@
+000000579947.jpg: 154.10 seconds
+Chunk: the man in blue
+Think Text: The man in blue is the one holding the surfboard with the red and white design.
+BBox: (596, 264), (746, 999)
+
+Original Model
+think: The man in blue is holding a surfboard.
+000000579947.jpg: 92.22 seconds
+BBox: (485, 264), (751, 999)
+

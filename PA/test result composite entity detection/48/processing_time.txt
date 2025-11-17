@@ -1,0 +1,8 @@
+000000011291.jpg: 137.84 seconds
+Chunk: the girl in blue
+Think Text: The girl in blue is the one on the right side of the image.
+BBox: (668, 0), (999, 999)
+
+000000011291.jpg: 92.26 seconds
+BBox: (551, 406), (631, 653)
+

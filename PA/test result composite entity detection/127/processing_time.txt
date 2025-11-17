@@ -1,0 +1,10 @@
+000000579925.jpg: 395.04 seconds
+Chunk: the man in blue
+Think Text: The man in blue is the catcher. He is wearing a blue uniform and is crouched behind the batter.
+BBox: (220, 534), (314, 717)
+
+Original Model
+think: The man in blue is the catcher. He is wearing a blue uniform and is crouched down behind the batter, ready to catch the ball.
+000000579925.jpg: 140.22 seconds
+BBox: (220, 538), (320, 724)
+

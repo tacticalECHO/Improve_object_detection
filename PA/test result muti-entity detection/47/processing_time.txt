@@ -1,0 +1,8 @@
+000000011080.jpg: 478.71 seconds
+Chunk: the black dog
+Think Text: The instruction is asking for the bounding box of the black dog. The black dog is the main subject of the image, and it is located in the center of the image. The bounding box should capture the entire dog, including its paws and the frisbee it is holding.
+BBox: (0, 112), (777, 924)
+Chunk: the frisbee
+Think Text: The frisbee is the object that the dog is holding in its mouth. It is a green and pink frisbee with a design on it.
+BBox: (570, 608), (788, 951)
+

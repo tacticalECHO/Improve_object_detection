@@ -1,0 +1,8 @@
+000000083049.jpg: 337.87 seconds
+Chunk: the man in brown
+Think Text: The instruction is asking for the bounding box of the man in brown. The man in brown is lying on the bench.
+BBox: (444, 414), (744, 702)
+Chunk: the man in blue
+Think Text: The man in blue is the one sitting on the bench.
+BBox: (336, 279), (741, 702)
+

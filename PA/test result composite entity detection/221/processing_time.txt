@@ -1,0 +1,10 @@
+000000580538.jpg: 188.96 seconds
+Chunk:  the watch 
+Think Text: The instruction is to output the bounding box of the watch in the image. The watch is located in the bottom left corner of the image.
+BBox: (10, 614), (220, 984)
+
+Original Model
+think: The watch is located in the bottom left corner of the image.
+000000580538.jpg: 98.08 seconds
+BBox: (10, 614), (220, 984)
+

@@ -1,0 +1,10 @@
+000000580057.jpg: 122.99 seconds
+Chunk:  the man in blue 
+Think Text: The man in blue is the one sitting in the chair.
+BBox: (340, 534), (740, 960)
+
+Original Model
+think: The man in blue is sitting in a chair, looking at his phone.
+000000580057.jpg: 104.60 seconds
+BBox: (330, 546), (740, 783)
+

@@ -1,0 +1,8 @@
+000000008195.jpg: 520.40 seconds
+Chunk: the toilet with yellow
+Think Text: The instruction is asking for the bounding box of the toilet with yellow. The image shows multiple toilets, and one of them is yellow. The bounding box is the area that encompasses the yellow toilet.
+BBox: (100, 75), (275, 357)
+Chunk: the toilet with black
+Think Text: The instruction is asking for the bounding box of the toilet with black. The image shows multiple toilets, and the one with black is clearly visible. The bounding box is determined by the coordinates of the top-left and bottom-right corners of the toilet.
+BBox: (499, 531), (999, 928)
+

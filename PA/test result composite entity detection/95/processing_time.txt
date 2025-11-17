@@ -1,0 +1,8 @@
+000000021553.jpg: 159.25 seconds
+Chunk:  the man in grey 
+Think Text: The instruction is to output the bounding box for the man in grey. The man in grey is the one wearing a grey shirt and black shorts.
+BBox: (178, 401), (538, 809)
+
+000000021553.jpg: 96.42 seconds
+BBox: (178, 402), (538, 807)
+

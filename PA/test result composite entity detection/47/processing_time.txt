@@ -1,0 +1,8 @@
+000000011080.jpg: 173.68 seconds
+Chunk: the dog
+Think Text: The instruction is asking for the bounding box of the dog in the image. The bounding box is the area that encompasses the entire dog.
+BBox: (0, 92), (777, 919)
+
+000000011080.jpg: 124.05 seconds
+BBox: (570, 608), (788, 953)
+

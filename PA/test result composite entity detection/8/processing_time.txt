@@ -1,0 +1,8 @@
+下载 (1).jpg: 165.82 seconds
+Chunk:  green homework 
+Think Text: The instruction is to output the bounding box of the green homework. The green homework is located at the bottom of the image, slightly to the left.
+BBox: (180, 868), (591, 997)
+
+下载 (1).jpg: 97.22 seconds
+BBox: (150, 868), (590, 999)
+

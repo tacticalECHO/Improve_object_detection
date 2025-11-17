@@ -1,0 +1,10 @@
+000000580000.jpg: 183.42 seconds
+Chunk:  the man 
+Think Text: The instruction is asking for the bounding box of the man in the image. The man is located on the right side of the image, wearing a black sweater.
+BBox: (600, 0), (999, 999)
+
+Original Model
+think: The man is putting a dish into the oven.
+000000580000.jpg: 90.73 seconds
+BBox: (498, 0), (999, 999)
+

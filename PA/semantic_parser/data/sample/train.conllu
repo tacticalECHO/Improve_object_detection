@@ -1,0 +1,23 @@
+# text = find the red cup on the table
+# BIO = O O B-ATTR B-NP O O O B-NP
+# RELS = (2,3,6,7,on)
+1	find	find	VERB
+2	the	the	DET
+3	red	red	ADJ
+4	cup	cup	NOUN
+5	on	on	ADP
+6	the	the	DET
+7	table	table	NOUN
+
+# text = highlight the bottle to the left of the cup
+# BIO = O O B-NP O O B-NP O O O B-NP
+# RELS = (2,2,9,9,left_of)
+1	highlight	highlight	VERB
+2	the	the	DET
+3	bottle	bottle	NOUN
+4	to	to	PART
+5	the	the	DET
+6	left	left	NOUN
+7	of	of	ADP
+8	the	the	DET
+9	cup	cup	NOUN

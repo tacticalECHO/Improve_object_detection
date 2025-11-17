@@ -1,0 +1,8 @@
+000000000283.jpg: 139.09 seconds
+Chunk: the glass of red wine
+Think Text: The object is a glass of red wine. The bounding box should include the glass and its reflection.
+BBox: (384, 246), (584, 574)
+
+000000000283.jpg: 91.90 seconds
+BBox: (288, 246), (588, 573)
+

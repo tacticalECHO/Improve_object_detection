@@ -1,0 +1,10 @@
+# text = select the black bottle near the cup
+# BIO = O O B-ATTR B-NP O O O B-NP
+# RELS = (3,3,7,7,near)
+1	select	select	VERB
+2	the	the	DET
+3	black	black	ADJ
+4	bottle	bottle	NOUN
+5	near	near	ADP
+6	the	the	DET
+7	cup	cup	NOUN

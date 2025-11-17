@@ -1,0 +1,8 @@
+000000002061.jpg: 493.86 seconds
+Chunk: the trash can
+Think Text: The instruction is asking for the bounding box of the trash can. The trash can is located to the right of the toilet.
+BBox: (588, 548), (744, 785)
+Chunk: the toilet
+Think Text: The instruction is to output the bounding box of the toilet in the image. The toilet is located in the center of the image. The bounding box is defined by the coordinates of the top-left and bottom-right corners of the toilet.
+BBox: (280, 216), (580, 858)
+

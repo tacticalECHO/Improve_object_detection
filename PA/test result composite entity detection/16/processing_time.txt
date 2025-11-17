@@ -1,0 +1,8 @@
+下载 (1).jpg: 154.75 seconds
+Chunk: the green bag
+Think Text: The instruction is to output the bounding box of the green bag. The green bag is located on the toilet tank.
+BBox: (350, 524), (412, 586)
+
+下载 (1).jpg: 90.26 seconds
+BBox: (350, 519), (412, 587)
+

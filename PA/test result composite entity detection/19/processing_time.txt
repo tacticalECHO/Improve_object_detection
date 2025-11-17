@@ -1,0 +1,8 @@
+000000002860.jpg: 160.77 seconds
+Chunk: the bike
+Think Text: The instruction is asking for the bounding box of the bike. The bike is located on the roof of the car.
+BBox: (150, 10), (512, 330)
+
+000000002860.jpg: 90.67 seconds
+BBox: (150, 43), (512, 306)
+

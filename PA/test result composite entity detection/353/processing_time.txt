@@ -1,0 +1,10 @@
+000000581177.jpg: 222.77 seconds
+Chunk: oven
+Think Text: The instruction is to output the bounding box of the oven in the image. The oven is located in the kitchen, and it is a rectangular object. The bounding box should include the entire oven.
+BBox: (688, 624), (844, 887)
+
+Original Model
+think: The oven is located in the kitchen. It is a stainless steel oven with a black glass door. The oven is placed in the corner of the kitchen, next to the stove.
+000000581177.jpg: 163.62 seconds
+BBox: (684, 612), (844, 888)
+

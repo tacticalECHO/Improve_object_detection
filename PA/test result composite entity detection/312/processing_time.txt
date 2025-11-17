@@ -1,0 +1,10 @@
+000000580960.jpg: 197.93 seconds
+Chunk: the black mouse
+Think Text: The instruction is asking for the bounding box of the black mouse. The mouse is located on the right side of the keyboard.
+BBox: (488, 462), (851, 585)
+
+Original Model
+think: The black mouse is located on the mouse pad. The mouse pad is on the desk. The desk is in front of the computer monitor.
+000000580960.jpg: 135.95 seconds
+BBox: (488, 462), (851, 585)
+

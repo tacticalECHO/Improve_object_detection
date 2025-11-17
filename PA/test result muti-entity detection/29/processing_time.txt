@@ -1,0 +1,8 @@
+000000002782.jpg: 566.16 seconds
+Chunk: the blue surfboard
+Think Text: The instruction is asking for the bounding box of the blue surfboard. The blue surfboard is located in the image. To find its bounding box, I need to identify the coordinates of the top-left and bottom-right corners of the surfboard.
+BBox: (18, 416), (372, 515)
+Chunk: the man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man in black is located in the center of the image, sitting on the grass.
+BBox: (440, 156), (560, 416)
+

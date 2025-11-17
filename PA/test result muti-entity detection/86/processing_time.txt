@@ -1,0 +1,8 @@
+000000017791.jpg: 384.85 seconds
+Chunk: the phone
+Think Text: The object is a phone.
+BBox: (546, 258), (741, 648)
+Chunk: the glass
+Think Text: The instruction is asking for the bounding box of the glass. The glass is located in the center of the image, slightly to the left. The bounding box should capture the entire glass, including the liquid inside.
+BBox: (283, 300), (480, 622)
+

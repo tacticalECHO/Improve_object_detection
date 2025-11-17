@@ -1,0 +1,8 @@
+000000001912.jpg: 144.08 seconds
+Chunk:  the white bird 
+Think Text: The instruction is to output the bounding box of the white bird. The white bird is located in the bottom right corner of the image.
+BBox: (840, 728), (936, 875)
+
+000000001912.jpg: 142.33 seconds
+BBox: (600, 708), (999, 999)
+

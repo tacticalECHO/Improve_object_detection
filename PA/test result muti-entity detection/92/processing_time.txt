@@ -1,0 +1,8 @@
+000000020133.jpg: 420.02 seconds
+Chunk: the red phone
+Think Text: The instruction is asking for the bounding box of the red phone. The red phone is located on the left side of the image.
+BBox: (96, 541), (344, 763)
+Chunk: banana
+Think Text: The instruction is asking for the bounding box of the banana. The banana is located at the top left corner of the image.
+BBox: (25, 88), (412, 288)
+

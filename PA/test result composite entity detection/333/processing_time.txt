@@ -1,0 +1,10 @@
+000000581055.jpg: 183.90 seconds
+Chunk: the white computer
+Think Text: The instruction is asking for the bounding box of the white computer. The white computer is the laptop in the image.
+BBox: (0, 78), (650, 996)
+
+Original Model
+think: The instruction is asking for the bounding box of the white computer. The white computer is the laptop in the image.
+000000581055.jpg: 120.33 seconds
+BBox: (0, 78), (650, 996)
+

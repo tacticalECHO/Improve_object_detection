@@ -1,0 +1,10 @@
+000000581409.jpg: 236.31 seconds
+Chunk:  the boy in red shirt 
+Think Text: The instruction is to output the bounding box of the boy in red shirt. The bounding box is the area in the image that corresponds to the boy in red shirt.
+BBox: (574, 0), (714, 426)
+
+Original Model
+think: The boy in red shirt is standing behind the fence, near the bench.
+000000581409.jpg: 103.50 seconds
+BBox: (600, 0), (710, 375)
+

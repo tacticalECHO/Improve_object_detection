@@ -1,0 +1,8 @@
+000000023551.jpg: 368.37 seconds
+Chunk: the man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man in black is on the left side of the image, wearing a black shirt.
+BBox: (148, 171), (516, 996)
+Chunk: the man in blue
+Think Text: The man in blue is the one on the right side of the image.
+BBox: (468, 144), (970, 900)
+

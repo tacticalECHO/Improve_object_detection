@@ -1,0 +1,10 @@
+000000581183.jpg: 225.18 seconds
+Chunk: woman in yellow
+Think Text: The instruction is asking for the bounding box of a woman in yellow. The image shows a group of elephants and performers on stage. The woman in yellow is likely one of the performers.
+BBox: (192, 690), (324, 999)
+
+Original Model
+think: The woman in yellow is located in the bottom left corner of the image.
+000000581183.jpg: 103.40 seconds
+BBox: (75, 644), (187, 944)
+

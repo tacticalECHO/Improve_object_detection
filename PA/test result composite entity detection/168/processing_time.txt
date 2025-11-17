@@ -1,0 +1,10 @@
+000000580172.jpg: 139.53 seconds
+Chunk: the hot dog
+Think Text: The hot dog is the food item that is placed on a bun and has a sausage inside.
+BBox: (662, 484), (928, 842)
+
+Original Model
+think: The hot dog is located on the right side of the image, inside a bun.
+000000580172.jpg: 110.57 seconds
+BBox: (600, 106), (996, 844)
+

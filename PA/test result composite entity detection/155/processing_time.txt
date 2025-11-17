@@ -1,0 +1,10 @@
+000000580104.jpg: 155.45 seconds
+Chunk: the phone
+Think Text: The object is a phone. The bounding box is the area where the phone is located.
+BBox: (380, 316), (511, 488)
+
+Original Model
+think: The phone is being held by the man in the image. The bounding box for the phone can be determined by looking at the position of the phone in the image.
+000000580104.jpg: 152.51 seconds
+BBox: (281, 316), (513, 492)
+

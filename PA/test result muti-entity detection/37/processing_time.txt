@@ -1,0 +1,8 @@
+000000006846.jpg: 574.18 seconds
+Chunk: the man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man in black is located on the left side of the image, riding a motorcycle.
+BBox: (130, 358), (355, 958)
+Chunk: the old man
+Think Text: The old man is the person riding the cart. He is wearing a hat and a long-sleeved shirt. He is sitting on the cart, which is pulled by a white cow.
+BBox: (562, 121), (784, 596)
+

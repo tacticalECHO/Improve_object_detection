@@ -1,0 +1,9 @@
+000000002184.jpg: 530.59 seconds
+Chunk: the boy in white
+Think Text: The instruction is asking for the bounding box of the boy in white. The boy in white is located on the left side of the image, standing near the fence.
+BBox: (48, 375), (112, 630)
+Chunk: the tall man
+Think Text: The tall man is the one standing in the middle of the court, wearing a black and white shirt and black shorts.
+BBox: (498, 168), (652, 897)
+
+

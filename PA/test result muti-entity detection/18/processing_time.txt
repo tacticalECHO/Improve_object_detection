@@ -1,0 +1,8 @@
+000000002658.jpg: 532.98 seconds
+Chunk: the man in yellow shirt
+Think Text: The instruction is asking for the bounding box of the man in yellow shirt. The man in yellow shirt is located towards the left side of the image.
+BBox: (0, 148), (264, 999)
+Chunk: the man in blue shirt
+Think Text: The man in the blue shirt is the one wearing a tie and a blazer. He is standing in the middle of the image, slightly to the right.
+BBox: (400, 60), (640, 978)
+

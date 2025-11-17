@@ -1,0 +1,10 @@
+000000580778.jpg: 245.41 seconds
+Chunk:  the girl in red 
+Think Text: The instruction is to output the bounding box of the girl in red. The girl in red is the main subject of the image, and she is wearing a red tank top and white shorts. The bounding box should include her entire body.
+BBox: (340, 13), (890, 996)
+
+Original Model
+think: The girl in red is playing tennis. She is in the middle of a swing, hitting the tennis ball with her racket.
+000000580778.jpg: 127.81 seconds
+BBox: (180, 10), (890, 990)
+

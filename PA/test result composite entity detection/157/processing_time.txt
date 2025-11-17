@@ -1,0 +1,10 @@
+000000580117.jpg: 141.60 seconds
+Chunk: the man in green
+Think Text: The man in green is the one wearing a green jacket and a hat.
+BBox: (100, 498), (338, 858)
+
+Original Model
+think: The man in green is standing on a snowboard, with his arms raised.
+000000580117.jpg: 106.77 seconds
+BBox: (100, 496), (388, 858)
+

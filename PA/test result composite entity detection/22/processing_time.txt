@@ -1,0 +1,8 @@
+000000002061.jpg: 400.91 seconds
+Chunk: the trash can
+Think Text: The trash can is located in the image. It is a black trash can with a plastic bag inside it. The bounding box for the trash can is from the bottom left corner to the top right corner of the trash can.
+BBox: (450, 544), (690, 851)
+
+000000002061.jpg: 94.10 seconds
+BBox: (490, 538), (740, 806)
+

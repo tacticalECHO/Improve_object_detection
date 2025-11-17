@@ -1,0 +1,10 @@
+000000580235.jpg: 195.30 seconds
+Chunk: the man on surfboard
+Think Text: The man on the surfboard is the main subject of the image. The bounding box should capture the man, the surfboard, and the wave he is riding on.
+BBox: (468, 414), (698, 714)
+
+Original Model
+think: The man is on a surfboard, which suggests that he is surfing. The bounding box should capture the man and the surfboard.
+000000580235.jpg: 133.93 seconds
+BBox: (468, 414), (708, 714)
+

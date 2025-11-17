@@ -1,0 +1,11 @@
+000000005933.jpg: 305.40 seconds
+Chunk: the man
+Think Text: The instruction is asking for the bounding box of the man in the image. The man is located towards the right side of the image, wearing a grey jacket and ski gear.
+BBox: (562, 108), (940, 999)
+Chunk: the man with orange glasses
+Think Text: The instruction is asking for the bounding box of the man with orange glasses. The man with orange glasses is on the right side of the image.
+BBox: (600, 150), (940, 999)
+
+000000005933.jpg: 92.83 seconds
+BBox: (574, 108), (938, 999)
+

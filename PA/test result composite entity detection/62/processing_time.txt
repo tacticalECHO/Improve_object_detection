@@ -1,0 +1,8 @@
+000000013550.jpg: 166.64 seconds
+Chunk: the girl with glasses
+Think Text: The instruction is asking for the bounding box of the girl with glasses. The girl is located in the upper left part of the image, wearing a colorful dress and sunglasses.
+BBox: (0, 180), (500, 780)
+
+000000013550.jpg: 116.33 seconds
+BBox: (10, 196), (500, 783)
+

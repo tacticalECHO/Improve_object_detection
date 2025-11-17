@@ -1,0 +1,10 @@
+000000580978.jpg: 232.98 seconds
+Chunk: the man with racket
+Think Text: The instruction is asking for the bounding box of the man holding the racket. The man is located in the center of the image, holding a tennis racket.
+BBox: (250, 140), (694, 800)
+
+Original Model
+think: The man is holding a tennis racket and standing on a tennis court. He appears to be posing for a picture.
+000000580978.jpg: 123.71 seconds
+BBox: (150, 140), (690, 800)
+

@@ -1,0 +1,8 @@
+000000000394.jpg: 599.40 seconds
+Chunk: the Purple Frisbee
+Think Text: The instruction is asking for the bounding box of the purple frisbee. The frisbee is located in the center of the image, with its top left corner at (375,300) and its bottom right corner at (899,775).
+BBox: (375, 300), (899, 775)
+Chunk: the withe dog
+Think Text: The instruction is asking for the bounding box of the white dog in the image. The white dog is the main subject of the image, occupying a significant portion of the frame. The bounding box should capture the entire dog, including its head, body, and legs.
+BBox: (0, 25), (984, 962)
+

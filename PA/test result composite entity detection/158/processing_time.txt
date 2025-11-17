@@ -1,0 +1,10 @@
+000000580120.jpg: 136.95 seconds
+Chunk: the man in white
+Think Text: The man in white is the one standing in the classroom.
+BBox: (230, 480), (376, 997)
+
+Original Model
+think: The man in white is standing in front of the class, which suggests he is likely a teacher or instructor. He is holding a microphone, which is commonly used for making announcements or giving instructions in a classroom setting.
+000000580120.jpg: 176.44 seconds
+BBox: (230, 478), (375, 997)
+

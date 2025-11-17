@@ -1,0 +1,8 @@
+000000002639.jpg: 634.35 seconds
+Chunk: the yellow bus
+Think Text: The instruction is asking for the bounding box of the yellow bus. The yellow bus is located on the left side of the image. To find its bounding box, I need to identify the coordinates of the top-left and bottom-right corners of the bus.
+BBox: (80, 74), (431, 954)
+Chunk: the blue bus
+Think Text: The instruction is asking for the bounding box of the blue bus. The blue bus is located on the right side of the image. To find its bounding box, I need to identify the coordinates of the top-left and bottom-right corners of the bus.
+BBox: (600, 62), (956, 930)
+

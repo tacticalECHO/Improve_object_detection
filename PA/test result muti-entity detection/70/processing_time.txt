@@ -1,0 +1,8 @@
+000000076334.jpg: 475.93 seconds
+Chunk: the woman in white
+Think Text: The instruction is asking for the bounding box of the woman in white. The woman in white is the bride, who is wearing a white wedding dress and veil. She is holding a bottle of champagne.
+BBox: (198, 398), (762, 996)
+Chunk: the man in black
+Think Text: The instruction is asking for the bounding box of the man in black. The man in black is located on the left side of the image, wearing a black suit and tie.
+BBox: (0, 375), (357, 999)
+

@@ -1,0 +1,8 @@
+000000006712.jpg: 199.93 seconds
+Chunk:  the child 
+Think Text: The instruction is asking for the bounding box of the child in the image. The child is located on the right side of the image, wearing a helmet and holding a baseball bat.
+BBox: (750, 273), (853, 618)
+
+000000006712.jpg: 108.56 seconds
+BBox: (698, 271), (858, 618)
+

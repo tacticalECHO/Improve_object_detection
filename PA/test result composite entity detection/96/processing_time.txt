@@ -1,0 +1,8 @@
+下载 (1).jpg: 127.37 seconds
+Chunk: the blue bus
+Think Text: The blue bus is the one in the middle of the image.
+BBox: (160, 301), (528, 578)
+
+下载 (1).jpg: 159.27 seconds
+BBox: (0, 250), (999, 749)
+

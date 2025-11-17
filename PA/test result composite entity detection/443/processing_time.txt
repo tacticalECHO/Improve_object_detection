@@ -1,0 +1,10 @@
+000000581657.jpg: 257.39 seconds
+Chunk:  the phone 
+Think Text: The object in question is a phone. It is located in the lower right corner of the image, being held by a person's hand.
+BBox: (600, 531), (999, 999)
+
+Original Model
+think: The phone is located in the hands of the person in the foreground.
+000000581657.jpg: 164.17 seconds
+BBox: (453, 531), (706, 634)
+

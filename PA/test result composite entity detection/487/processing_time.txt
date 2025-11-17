@@ -1,0 +1,10 @@
+000000581881.jpg: 225.02 seconds
+Chunk: the guy in the blue shirt
+Think Text: The guy in the blue shirt is the person walking in the middle of the road with the sheep.
+BBox: (578, 351), (673, 777)
+
+Original Model
+think: The guy in the blue shirt is located in the center of the image, walking on the road.
+000000581881.jpg: 163.01 seconds
+BBox: (450, 351), (675, 777)
+
